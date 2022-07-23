@@ -26,7 +26,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ba Dinh"@eng-Latn ,
         "Quận Ba Đình"@vie-Latn ;
-    wdata:q7200235 "VN10101" ;
+    wdata:Q7200235 "VN10101" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -758,7 +758,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tay Ho"@eng-Latn ,
         "Quận Tây Hồ"@vie-Latn ;
-    wdata:q7200235 "VN10103" ;
+    wdata:Q7200235 "VN10103" ;
 .
 
 <urn:mdciii:1603:16:704:2:10105>
@@ -772,7 +772,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hoan Kiem"@eng-Latn ,
         "Quận Hoàn Kiếm"@vie-Latn ;
-    wdata:q7200235 "VN10105" ;
+    wdata:Q7200235 "VN10105" ;
 .
 
 <urn:mdciii:1603:16:704:2:10107>
@@ -786,7 +786,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hai Ba Trung"@eng-Latn ,
         "Quận Hai Bà Trưng"@vie-Latn ;
-    wdata:q7200235 "VN10107" ;
+    wdata:Q7200235 "VN10107" ;
 .
 
 <urn:mdciii:1603:16:704:2:10108>
@@ -800,7 +800,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hoang Mai"@eng-Latn ,
         "Quận Hoàng Mai"@vie-Latn ;
-    wdata:q7200235 "VN10108" ;
+    wdata:Q7200235 "VN10108" ;
 .
 
 <urn:mdciii:1603:16:704:2:10109>
@@ -814,7 +814,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dong Da"@eng-Latn ,
         "Quận Đống Đa"@vie-Latn ;
-    wdata:q7200235 "VN10109" ;
+    wdata:Q7200235 "VN10109" ;
 .
 
 <urn:mdciii:1603:16:704:2:10111>
@@ -828,7 +828,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thanh Xuan"@eng-Latn ,
         "Quận Thanh Xuân"@vie-Latn ;
-    wdata:q7200235 "VN10111" ;
+    wdata:Q7200235 "VN10111" ;
 .
 
 <urn:mdciii:1603:16:704:2:10113>
@@ -842,7 +842,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cau Giay"@eng-Latn ,
         "Quận Cầu Giấy"@vie-Latn ;
-    wdata:q7200235 "VN10113" ;
+    wdata:Q7200235 "VN10113" ;
 .
 
 <urn:mdciii:1603:16:704:2:10114>
@@ -856,7 +856,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Long Bien"@eng-Latn ,
         "Quận Long Biên"@vie-Latn ;
-    wdata:q7200235 "VN10114" ;
+    wdata:Q7200235 "VN10114" ;
 .
 
 <urn:mdciii:1603:16:704:2:10115>
@@ -870,7 +870,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Soc Son"@eng-Latn ,
         "Huyện Sóc Sơn"@vie-Latn ;
-    wdata:q7200235 "VN10115" ;
+    wdata:Q7200235 "VN10115" ;
 .
 
 <urn:mdciii:1603:16:704:2:10117>
@@ -884,7 +884,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dong Anh"@eng-Latn ,
         "Huyện Đông Anh"@vie-Latn ;
-    wdata:q7200235 "VN10117" ;
+    wdata:Q7200235 "VN10117" ;
 .
 
 <urn:mdciii:1603:16:704:2:10119>
@@ -898,7 +898,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gia Lam"@eng-Latn ,
         "Huyện Gia Lâm"@vie-Latn ;
-    wdata:q7200235 "VN10119" ;
+    wdata:Q7200235 "VN10119" ;
 .
 
 <urn:mdciii:1603:16:704:2:10121>
@@ -912,7 +912,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nam Tu Liem"@eng-Latn ,
         "Quận Nam Từ Liêm"@vie-Latn ;
-    wdata:q7200235 "VN10121" ;
+    wdata:Q7200235 "VN10121" ;
 .
 
 <urn:mdciii:1603:16:704:2:10123>
@@ -926,7 +926,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thanh Tri"@eng-Latn ,
         "Huyện Thanh Trì"@vie-Latn ;
-    wdata:q7200235 "VN10123" ;
+    wdata:Q7200235 "VN10123" ;
 .
 
 <urn:mdciii:1603:16:704:2:10125>
@@ -940,7 +940,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ha Dong"@eng-Latn ,
         "Quận Hà Đông"@vie-Latn ;
-    wdata:q7200235 "VN10125" ;
+    wdata:Q7200235 "VN10125" ;
 .
 
 <urn:mdciii:1603:16:704:2:10127>
@@ -954,7 +954,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Son Tay"@eng-Latn ,
         "Thị xã Sơn Tây"@vie-Latn ;
-    wdata:q7200235 "VN10127" ;
+    wdata:Q7200235 "VN10127" ;
 .
 
 <urn:mdciii:1603:16:704:2:10129>
@@ -968,7 +968,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ba Vi"@eng-Latn ,
         "Huyện Ba Vì"@vie-Latn ;
-    wdata:q7200235 "VN10129" ;
+    wdata:Q7200235 "VN10129" ;
 .
 
 <urn:mdciii:1603:16:704:2:10131>
@@ -982,7 +982,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phuc Tho"@eng-Latn ,
         "Huyện Phúc Thọ"@vie-Latn ;
-    wdata:q7200235 "VN10131" ;
+    wdata:Q7200235 "VN10131" ;
 .
 
 <urn:mdciii:1603:16:704:2:10133>
@@ -996,7 +996,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dan Phuong"@eng-Latn ,
         "Huyện Đan Phượng"@vie-Latn ;
-    wdata:q7200235 "VN10133" ;
+    wdata:Q7200235 "VN10133" ;
 .
 
 <urn:mdciii:1603:16:704:2:10135>
@@ -1010,7 +1010,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thach That"@eng-Latn ,
         "Huyện Thạch Thất"@vie-Latn ;
-    wdata:q7200235 "VN10135" ;
+    wdata:Q7200235 "VN10135" ;
 .
 
 <urn:mdciii:1603:16:704:2:10137>
@@ -1024,7 +1024,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hoai Duc"@eng-Latn ,
         "Huyện Hoài Đức"@vie-Latn ;
-    wdata:q7200235 "VN10137" ;
+    wdata:Q7200235 "VN10137" ;
 .
 
 <urn:mdciii:1603:16:704:2:10139>
@@ -1038,7 +1038,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Quoc Oai"@eng-Latn ,
         "Huyện Quốc Oai"@vie-Latn ;
-    wdata:q7200235 "VN10139" ;
+    wdata:Q7200235 "VN10139" ;
 .
 
 <urn:mdciii:1603:16:704:2:10141>
@@ -1052,7 +1052,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chuong My"@eng-Latn ,
         "Huyện Chương Mỹ"@vie-Latn ;
-    wdata:q7200235 "VN10141" ;
+    wdata:Q7200235 "VN10141" ;
 .
 
 <urn:mdciii:1603:16:704:2:10143>
@@ -1066,7 +1066,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thanh Oai"@eng-Latn ,
         "Huyện Thanh Oai"@vie-Latn ;
-    wdata:q7200235 "VN10143" ;
+    wdata:Q7200235 "VN10143" ;
 .
 
 <urn:mdciii:1603:16:704:2:10145>
@@ -1080,7 +1080,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thuong Tin"@eng-Latn ,
         "Huyện Thường Tín"@vie-Latn ;
-    wdata:q7200235 "VN10145" ;
+    wdata:Q7200235 "VN10145" ;
 .
 
 <urn:mdciii:1603:16:704:2:10147>
@@ -1094,7 +1094,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "My Duc"@eng-Latn ,
         "Huyện Mỹ Đức"@vie-Latn ;
-    wdata:q7200235 "VN10147" ;
+    wdata:Q7200235 "VN10147" ;
 .
 
 <urn:mdciii:1603:16:704:2:10149>
@@ -1108,7 +1108,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ung Hoa"@eng-Latn ,
         "Huyện Ứng Hòa"@vie-Latn ;
-    wdata:q7200235 "VN10149" ;
+    wdata:Q7200235 "VN10149" ;
 .
 
 <urn:mdciii:1603:16:704:2:10151>
@@ -1122,7 +1122,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phu Xuyen"@eng-Latn ,
         "Huyện Phú Xuyên"@vie-Latn ;
-    wdata:q7200235 "VN10151" ;
+    wdata:Q7200235 "VN10151" ;
 .
 
 <urn:mdciii:1603:16:704:2:10153>
@@ -1136,7 +1136,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Me Linh"@eng-Latn ,
         "Huyện Mê Linh"@vie-Latn ;
-    wdata:q7200235 "VN10153" ;
+    wdata:Q7200235 "VN10153" ;
 .
 
 <urn:mdciii:1603:16:704:2:10155>
@@ -1150,7 +1150,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bac Tu Liem"@eng-Latn ,
         "Quận Bắc Từ Liêm"@vie-Latn ;
-    wdata:q7200235 "VN10155" ;
+    wdata:Q7200235 "VN10155" ;
 .
 
 <urn:mdciii:1603:16:704:2:10301>
@@ -1164,7 +1164,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hong Bang"@eng-Latn ,
         "Quận Hồng Bàng"@vie-Latn ;
-    wdata:q7200235 "VN10301" ;
+    wdata:Q7200235 "VN10301" ;
 .
 
 <urn:mdciii:1603:16:704:2:10303>
@@ -1178,7 +1178,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ngo Quyen"@eng-Latn ,
         "Quận Ngô Quyền"@vie-Latn ;
-    wdata:q7200235 "VN10303" ;
+    wdata:Q7200235 "VN10303" ;
 .
 
 <urn:mdciii:1603:16:704:2:10305>
@@ -1192,7 +1192,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Le Chan"@eng-Latn ,
         "Quận Lê Chân"@vie-Latn ;
-    wdata:q7200235 "VN10305" ;
+    wdata:Q7200235 "VN10305" ;
 .
 
 <urn:mdciii:1603:16:704:2:10307>
@@ -1206,7 +1206,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kien An"@eng-Latn ,
         "Quận Kiến An"@vie-Latn ;
-    wdata:q7200235 "VN10307" ;
+    wdata:Q7200235 "VN10307" ;
 .
 
 <urn:mdciii:1603:16:704:2:10309>
@@ -1220,7 +1220,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Do Son"@eng-Latn ,
         "Quận Đồ Sơn"@vie-Latn ;
-    wdata:q7200235 "VN10309" ;
+    wdata:Q7200235 "VN10309" ;
 .
 
 <urn:mdciii:1603:16:704:2:10310>
@@ -1234,7 +1234,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Duong Kinh"@eng-Latn ,
         "Quận Dương Kinh"@vie-Latn ;
-    wdata:q7200235 "VN10310" ;
+    wdata:Q7200235 "VN10310" ;
 .
 
 <urn:mdciii:1603:16:704:2:10311>
@@ -1248,7 +1248,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thuy Nguyen"@eng-Latn ,
         "Huyện Thủy Nguyên"@vie-Latn ;
-    wdata:q7200235 "VN10311" ;
+    wdata:Q7200235 "VN10311" ;
 .
 
 <urn:mdciii:1603:16:704:2:10313>
@@ -1262,7 +1262,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "An Duong"@eng-Latn ,
         "Huyện An Dương"@vie-Latn ;
-    wdata:q7200235 "VN10313" ;
+    wdata:Q7200235 "VN10313" ;
 .
 
 <urn:mdciii:1603:16:704:2:10314>
@@ -1276,7 +1276,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hai An"@eng-Latn ,
         "Quận Hải An"@vie-Latn ;
-    wdata:q7200235 "VN10314" ;
+    wdata:Q7200235 "VN10314" ;
 .
 
 <urn:mdciii:1603:16:704:2:10315>
@@ -1290,7 +1290,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "An Lao"@eng-Latn ,
         "Huyện An Lão"@vie-Latn ;
-    wdata:q7200235 "VN10315" ;
+    wdata:Q7200235 "VN10315" ;
 .
 
 <urn:mdciii:1603:16:704:2:10317>
@@ -1304,7 +1304,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kien Thuy"@eng-Latn ,
         "Huyện Kiến Thụy"@vie-Latn ;
-    wdata:q7200235 "VN10317" ;
+    wdata:Q7200235 "VN10317" ;
 .
 
 <urn:mdciii:1603:16:704:2:10319>
@@ -1318,7 +1318,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tien Lang"@eng-Latn ,
         "Huyện Tiên Lãng"@vie-Latn ;
-    wdata:q7200235 "VN10319" ;
+    wdata:Q7200235 "VN10319" ;
 .
 
 <urn:mdciii:1603:16:704:2:10321>
@@ -1332,7 +1332,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vinh Bao"@eng-Latn ,
         "Huyện Vĩnh Bảo"@vie-Latn ;
-    wdata:q7200235 "VN10321" ;
+    wdata:Q7200235 "VN10321" ;
 .
 
 <urn:mdciii:1603:16:704:2:10323>
@@ -1346,7 +1346,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cat Hai"@eng-Latn ,
         "Huyện Cát Hải"@vie-Latn ;
-    wdata:q7200235 "VN10323" ;
+    wdata:Q7200235 "VN10323" ;
 .
 
 <urn:mdciii:1603:16:704:2:10325>
@@ -1360,7 +1360,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bach Long Vi"@eng-Latn ,
         "Huyện Bạch Long Vĩ"@vie-Latn ;
-    wdata:q7200235 "VN10325" ;
+    wdata:Q7200235 "VN10325" ;
 .
 
 <urn:mdciii:1603:16:704:2:10401>
@@ -1374,7 +1374,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vinh Yen"@eng-Latn ,
         "TP. Vĩnh Yên"@vie-Latn ;
-    wdata:q7200235 "VN10401" ;
+    wdata:Q7200235 "VN10401" ;
 .
 
 <urn:mdciii:1603:16:704:2:10402>
@@ -1388,7 +1388,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phuc Yen"@eng-Latn ,
         "Thị xã Phúc Yên"@vie-Latn ;
-    wdata:q7200235 "VN10402" ;
+    wdata:Q7200235 "VN10402" ;
 .
 
 <urn:mdciii:1603:16:704:2:10403>
@@ -1402,7 +1402,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lap Thach"@eng-Latn ,
         "Huyện Lập Thạch"@vie-Latn ;
-    wdata:q7200235 "VN10403" ;
+    wdata:Q7200235 "VN10403" ;
 .
 
 <urn:mdciii:1603:16:704:2:10404>
@@ -1416,7 +1416,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tam Dao"@eng-Latn ,
         "Huyện Tam Đảo"@vie-Latn ;
-    wdata:q7200235 "VN10404" ;
+    wdata:Q7200235 "VN10404" ;
 .
 
 <urn:mdciii:1603:16:704:2:10405>
@@ -1430,7 +1430,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tam Duong"@eng-Latn ,
         "Huyện Tam Dương"@vie-Latn ;
-    wdata:q7200235 "VN10405" ;
+    wdata:Q7200235 "VN10405" ;
 .
 
 <urn:mdciii:1603:16:704:2:10406>
@@ -1444,7 +1444,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Binh Xuyen"@eng-Latn ,
         "Huyện Bình Xuyên"@vie-Latn ;
-    wdata:q7200235 "VN10406" ;
+    wdata:Q7200235 "VN10406" ;
 .
 
 <urn:mdciii:1603:16:704:2:10407>
@@ -1458,7 +1458,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vinh Tuong"@eng-Latn ,
         "Huyện Vĩnh Tường"@vie-Latn ;
-    wdata:q7200235 "VN10407" ;
+    wdata:Q7200235 "VN10407" ;
 .
 
 <urn:mdciii:1603:16:704:2:10409>
@@ -1472,7 +1472,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yen Lac"@eng-Latn ,
         "Huyện Yên Lạc"@vie-Latn ;
-    wdata:q7200235 "VN10409" ;
+    wdata:Q7200235 "VN10409" ;
 .
 
 <urn:mdciii:1603:16:704:2:10411>
@@ -1486,7 +1486,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Song Lo"@eng-Latn ,
         "Huyện Sông Lô"@vie-Latn ;
-    wdata:q7200235 "VN10411" ;
+    wdata:Q7200235 "VN10411" ;
 .
 
 <urn:mdciii:1603:16:704:2:10601>
@@ -1500,7 +1500,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bac Ninh"@eng-Latn ,
         "TP. Bắc Ninh"@vie-Latn ;
-    wdata:q7200235 "VN10601" ;
+    wdata:Q7200235 "VN10601" ;
 .
 
 <urn:mdciii:1603:16:704:2:10603>
@@ -1514,7 +1514,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yen Phong"@eng-Latn ,
         "Huyện Yên Phong"@vie-Latn ;
-    wdata:q7200235 "VN10603" ;
+    wdata:Q7200235 "VN10603" ;
 .
 
 <urn:mdciii:1603:16:704:2:10605>
@@ -1528,7 +1528,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Que Vo"@eng-Latn ,
         "Huyện Quế Võ"@vie-Latn ;
-    wdata:q7200235 "VN10605" ;
+    wdata:Q7200235 "VN10605" ;
 .
 
 <urn:mdciii:1603:16:704:2:10607>
@@ -1542,7 +1542,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tien Du"@eng-Latn ,
         "Huyện Tiên Du"@vie-Latn ;
-    wdata:q7200235 "VN10607" ;
+    wdata:Q7200235 "VN10607" ;
 .
 
 <urn:mdciii:1603:16:704:2:10608>
@@ -1556,7 +1556,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tu Son"@eng-Latn ,
         "Thị xã Từ Sơn"@vie-Latn ;
-    wdata:q7200235 "VN10608" ;
+    wdata:Q7200235 "VN10608" ;
 .
 
 <urn:mdciii:1603:16:704:2:10609>
@@ -1570,7 +1570,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thuan Thanh"@eng-Latn ,
         "Huyện Thuận Thành"@vie-Latn ;
-    wdata:q7200235 "VN10609" ;
+    wdata:Q7200235 "VN10609" ;
 .
 
 <urn:mdciii:1603:16:704:2:10611>
@@ -1584,7 +1584,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Luong Tai"@eng-Latn ,
         "Huyện Lương Tài"@vie-Latn ;
-    wdata:q7200235 "VN10611" ;
+    wdata:Q7200235 "VN10611" ;
 .
 
 <urn:mdciii:1603:16:704:2:10612>
@@ -1598,7 +1598,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gia Binh"@eng-Latn ,
         "Huyện Gia Bình"@vie-Latn ;
-    wdata:q7200235 "VN10612" ;
+    wdata:Q7200235 "VN10612" ;
 .
 
 <urn:mdciii:1603:16:704:2:10701>
@@ -1612,7 +1612,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hai Duong"@eng-Latn ,
         "TP. Hải Dương"@vie-Latn ;
-    wdata:q7200235 "VN10701" ;
+    wdata:Q7200235 "VN10701" ;
 .
 
 <urn:mdciii:1603:16:704:2:10703>
@@ -1626,7 +1626,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chi Linh"@eng-Latn ,
         "Thị xã Chí Linh"@vie-Latn ;
-    wdata:q7200235 "VN10703" ;
+    wdata:Q7200235 "VN10703" ;
 .
 
 <urn:mdciii:1603:16:704:2:10705>
@@ -1640,7 +1640,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nam Sach"@eng-Latn ,
         "Huyện Nam Sách"@vie-Latn ;
-    wdata:q7200235 "VN10705" ;
+    wdata:Q7200235 "VN10705" ;
 .
 
 <urn:mdciii:1603:16:704:2:10707>
@@ -1654,7 +1654,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thanh Ha"@eng-Latn ,
         "Huyện Thanh Hà"@vie-Latn ;
-    wdata:q7200235 "VN10707" ;
+    wdata:Q7200235 "VN10707" ;
 .
 
 <urn:mdciii:1603:16:704:2:10709>
@@ -1668,7 +1668,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kinh Mon"@eng-Latn ,
         "Huyện Kinh Môn"@vie-Latn ;
-    wdata:q7200235 "VN10709" ;
+    wdata:Q7200235 "VN10709" ;
 .
 
 <urn:mdciii:1603:16:704:2:10711>
@@ -1682,7 +1682,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kim Thanh"@eng-Latn ,
         "Huyện Kim Thành"@vie-Latn ;
-    wdata:q7200235 "VN10711" ;
+    wdata:Q7200235 "VN10711" ;
 .
 
 <urn:mdciii:1603:16:704:2:10713>
@@ -1696,7 +1696,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gia Loc"@eng-Latn ,
         "Huyện Gia Lộc"@vie-Latn ;
-    wdata:q7200235 "VN10713" ;
+    wdata:Q7200235 "VN10713" ;
 .
 
 <urn:mdciii:1603:16:704:2:10715>
@@ -1710,7 +1710,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tu Ky"@eng-Latn ,
         "Huyện Tứ Kỳ"@vie-Latn ;
-    wdata:q7200235 "VN10715" ;
+    wdata:Q7200235 "VN10715" ;
 .
 
 <urn:mdciii:1603:16:704:2:10717>
@@ -1724,7 +1724,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cam Giang"@eng-Latn ,
         "Huyện Cẩm Giàng"@vie-Latn ;
-    wdata:q7200235 "VN10717" ;
+    wdata:Q7200235 "VN10717" ;
 .
 
 <urn:mdciii:1603:16:704:2:10719>
@@ -1738,7 +1738,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Binh Giang"@eng-Latn ,
         "Huyện Bình Giang"@vie-Latn ;
-    wdata:q7200235 "VN10719" ;
+    wdata:Q7200235 "VN10719" ;
 .
 
 <urn:mdciii:1603:16:704:2:10721>
@@ -1752,7 +1752,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thanh Mien"@eng-Latn ,
         "Huyện Thanh Miện"@vie-Latn ;
-    wdata:q7200235 "VN10721" ;
+    wdata:Q7200235 "VN10721" ;
 .
 
 <urn:mdciii:1603:16:704:2:10723>
@@ -1766,7 +1766,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ninh Giang"@eng-Latn ,
         "Huyện Ninh Giang"@vie-Latn ;
-    wdata:q7200235 "VN10723" ;
+    wdata:Q7200235 "VN10723" ;
 .
 
 <urn:mdciii:1603:16:704:2:10901>
@@ -1780,7 +1780,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hung Yen"@eng-Latn ,
         "TP. Hưng Yên"@vie-Latn ;
-    wdata:q7200235 "VN10901" ;
+    wdata:Q7200235 "VN10901" ;
 .
 
 <urn:mdciii:1603:16:704:2:10902>
@@ -1794,7 +1794,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Van Lam"@eng-Latn ,
         "Huyện Văn Lâm"@vie-Latn ;
-    wdata:q7200235 "VN10902" ;
+    wdata:Q7200235 "VN10902" ;
 .
 
 <urn:mdciii:1603:16:704:2:10903>
@@ -1808,7 +1808,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "My Hao"@eng-Latn ,
         "Huyện Mỹ Hào"@vie-Latn ;
-    wdata:q7200235 "VN10903" ;
+    wdata:Q7200235 "VN10903" ;
 .
 
 <urn:mdciii:1603:16:704:2:10904>
@@ -1822,7 +1822,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yen My"@eng-Latn ,
         "Huyện Yên Mỹ"@vie-Latn ;
-    wdata:q7200235 "VN10904" ;
+    wdata:Q7200235 "VN10904" ;
 .
 
 <urn:mdciii:1603:16:704:2:10905>
@@ -1836,7 +1836,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Van Giang"@eng-Latn ,
         "Huyện Văn Giang"@vie-Latn ;
-    wdata:q7200235 "VN10905" ;
+    wdata:Q7200235 "VN10905" ;
 .
 
 <urn:mdciii:1603:16:704:2:10906>
@@ -1850,7 +1850,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Khoai Chau"@eng-Latn ,
         "Huyện Khoái Châu"@vie-Latn ;
-    wdata:q7200235 "VN10906" ;
+    wdata:Q7200235 "VN10906" ;
 .
 
 <urn:mdciii:1603:16:704:2:10907>
@@ -1864,7 +1864,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "An Thi"@eng-Latn ,
         "Huyện Ân Thi"@vie-Latn ;
-    wdata:q7200235 "VN10907" ;
+    wdata:Q7200235 "VN10907" ;
 .
 
 <urn:mdciii:1603:16:704:2:10909>
@@ -1878,7 +1878,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kim Dong"@eng-Latn ,
         "Huyện Kim Động"@vie-Latn ;
-    wdata:q7200235 "VN10909" ;
+    wdata:Q7200235 "VN10909" ;
 .
 
 <urn:mdciii:1603:16:704:2:10911>
@@ -1892,7 +1892,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phu Cu"@eng-Latn ,
         "Huyện Phù Cừ"@vie-Latn ;
-    wdata:q7200235 "VN10911" ;
+    wdata:Q7200235 "VN10911" ;
 .
 
 <urn:mdciii:1603:16:704:2:10913>
@@ -1906,7 +1906,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tien Lu"@eng-Latn ,
         "Huyện Tiên Lữ"@vie-Latn ;
-    wdata:q7200235 "VN10913" ;
+    wdata:Q7200235 "VN10913" ;
 .
 
 <urn:mdciii:1603:16:704:2:11101>
@@ -1920,7 +1920,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phu Ly"@eng-Latn ,
         "TP. Phủ Lý"@vie-Latn ;
-    wdata:q7200235 "VN11101" ;
+    wdata:Q7200235 "VN11101" ;
 .
 
 <urn:mdciii:1603:16:704:2:11103>
@@ -1934,7 +1934,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Duy Tien"@eng-Latn ,
         "Huyện Duy Tiên"@vie-Latn ;
-    wdata:q7200235 "VN11103" ;
+    wdata:Q7200235 "VN11103" ;
 .
 
 <urn:mdciii:1603:16:704:2:11105>
@@ -1948,7 +1948,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kim Bang"@eng-Latn ,
         "Huyện Kim Bảng"@vie-Latn ;
-    wdata:q7200235 "VN11105" ;
+    wdata:Q7200235 "VN11105" ;
 .
 
 <urn:mdciii:1603:16:704:2:11107>
@@ -1962,7 +1962,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ly Nhan"@eng-Latn ,
         "Huyện Lý Nhân"@vie-Latn ;
-    wdata:q7200235 "VN11107" ;
+    wdata:Q7200235 "VN11107" ;
 .
 
 <urn:mdciii:1603:16:704:2:11109>
@@ -1976,7 +1976,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thanh Liem"@eng-Latn ,
         "Huyện Thanh Liêm"@vie-Latn ;
-    wdata:q7200235 "VN11109" ;
+    wdata:Q7200235 "VN11109" ;
 .
 
 <urn:mdciii:1603:16:704:2:11111>
@@ -1990,7 +1990,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Binh Luc"@eng-Latn ,
         "Huyện Bình Lục"@vie-Latn ;
-    wdata:q7200235 "VN11111" ;
+    wdata:Q7200235 "VN11111" ;
 .
 
 <urn:mdciii:1603:16:704:2:11301>
@@ -2004,7 +2004,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nam Định"@eng-Latn ,
         "TP. Nam Định"@vie-Latn ;
-    wdata:q7200235 "VN11301" ;
+    wdata:Q7200235 "VN11301" ;
 .
 
 <urn:mdciii:1603:16:704:2:11303>
@@ -2018,7 +2018,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vu Ban"@eng-Latn ,
         "Huyện Vụ Bản"@vie-Latn ;
-    wdata:q7200235 "VN11303" ;
+    wdata:Q7200235 "VN11303" ;
 .
 
 <urn:mdciii:1603:16:704:2:11305>
@@ -2032,7 +2032,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "My Loc"@eng-Latn ,
         "Huyện Mỹ Lộc"@vie-Latn ;
-    wdata:q7200235 "VN11305" ;
+    wdata:Q7200235 "VN11305" ;
 .
 
 <urn:mdciii:1603:16:704:2:11307>
@@ -2046,7 +2046,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Y Yen"@eng-Latn ,
         "Huyện Ý Yên"@vie-Latn ;
-    wdata:q7200235 "VN11307" ;
+    wdata:Q7200235 "VN11307" ;
 .
 
 <urn:mdciii:1603:16:704:2:11309>
@@ -2060,7 +2060,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nam Truc"@eng-Latn ,
         "Huyện Nam Trực"@vie-Latn ;
-    wdata:q7200235 "VN11309" ;
+    wdata:Q7200235 "VN11309" ;
 .
 
 <urn:mdciii:1603:16:704:2:11311>
@@ -2074,7 +2074,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Truc Ninh"@eng-Latn ,
         "Huyện Trực Ninh"@vie-Latn ;
-    wdata:q7200235 "VN11311" ;
+    wdata:Q7200235 "VN11311" ;
 .
 
 <urn:mdciii:1603:16:704:2:11313>
@@ -2088,7 +2088,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xuan Truong"@eng-Latn ,
         "Huyện Xuân Trường"@vie-Latn ;
-    wdata:q7200235 "VN11313" ;
+    wdata:Q7200235 "VN11313" ;
 .
 
 <urn:mdciii:1603:16:704:2:11315>
@@ -2102,7 +2102,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Giao Thuy"@eng-Latn ,
         "Huyện Giao Thủy"@vie-Latn ;
-    wdata:q7200235 "VN11315" ;
+    wdata:Q7200235 "VN11315" ;
 .
 
 <urn:mdciii:1603:16:704:2:11317>
@@ -2116,7 +2116,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nghia Hung"@eng-Latn ,
         "Huyện Nghĩa Hưng"@vie-Latn ;
-    wdata:q7200235 "VN11317" ;
+    wdata:Q7200235 "VN11317" ;
 .
 
 <urn:mdciii:1603:16:704:2:11319>
@@ -2130,7 +2130,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hai Hau"@eng-Latn ,
         "Huyện Hải Hậu"@vie-Latn ;
-    wdata:q7200235 "VN11319" ;
+    wdata:Q7200235 "VN11319" ;
 .
 
 <urn:mdciii:1603:16:704:2:11501>
@@ -2144,7 +2144,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thai Binh"@eng-Latn ,
         "TP. Thái Bình"@vie-Latn ;
-    wdata:q7200235 "VN11501" ;
+    wdata:Q7200235 "VN11501" ;
 .
 
 <urn:mdciii:1603:16:704:2:11503>
@@ -2158,7 +2158,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Quynh Phu"@eng-Latn ,
         "Huyện Quỳnh Phụ"@vie-Latn ;
-    wdata:q7200235 "VN11503" ;
+    wdata:Q7200235 "VN11503" ;
 .
 
 <urn:mdciii:1603:16:704:2:11505>
@@ -2172,7 +2172,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hung Ha"@eng-Latn ,
         "Huyện Hưng Hà"@vie-Latn ;
-    wdata:q7200235 "VN11505" ;
+    wdata:Q7200235 "VN11505" ;
 .
 
 <urn:mdciii:1603:16:704:2:11507>
@@ -2186,7 +2186,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thai Thuy"@eng-Latn ,
         "Huyện Thái Thụy"@vie-Latn ;
-    wdata:q7200235 "VN11507" ;
+    wdata:Q7200235 "VN11507" ;
 .
 
 <urn:mdciii:1603:16:704:2:11509>
@@ -2200,7 +2200,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dong Hung"@eng-Latn ,
         "Huyện Đông Hưng"@vie-Latn ;
-    wdata:q7200235 "VN11509" ;
+    wdata:Q7200235 "VN11509" ;
 .
 
 <urn:mdciii:1603:16:704:2:11511>
@@ -2214,7 +2214,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vu Thu"@eng-Latn ,
         "Huyện Vũ Thư"@vie-Latn ;
-    wdata:q7200235 "VN11511" ;
+    wdata:Q7200235 "VN11511" ;
 .
 
 <urn:mdciii:1603:16:704:2:11513>
@@ -2228,7 +2228,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kien Xuong"@eng-Latn ,
         "Huyện Kiến Xương"@vie-Latn ;
-    wdata:q7200235 "VN11513" ;
+    wdata:Q7200235 "VN11513" ;
 .
 
 <urn:mdciii:1603:16:704:2:11515>
@@ -2242,7 +2242,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tien Hai"@eng-Latn ,
         "Huyện Tiền Hải"@vie-Latn ;
-    wdata:q7200235 "VN11515" ;
+    wdata:Q7200235 "VN11515" ;
 .
 
 <urn:mdciii:1603:16:704:2:11701>
@@ -2256,7 +2256,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ninh Bình"@eng-Latn ,
         "TP. Ninh Bình"@vie-Latn ;
-    wdata:q7200235 "VN11701" ;
+    wdata:Q7200235 "VN11701" ;
 .
 
 <urn:mdciii:1603:16:704:2:11703>
@@ -2270,7 +2270,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tam Diep"@eng-Latn ,
         "Thị xã Tam Điệp"@vie-Latn ;
-    wdata:q7200235 "VN11703" ;
+    wdata:Q7200235 "VN11703" ;
 .
 
 <urn:mdciii:1603:16:704:2:11705>
@@ -2284,7 +2284,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nho Quan"@eng-Latn ,
         "Huyện Nho Quan"@vie-Latn ;
-    wdata:q7200235 "VN11705" ;
+    wdata:Q7200235 "VN11705" ;
 .
 
 <urn:mdciii:1603:16:704:2:11707>
@@ -2298,7 +2298,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gia Vien"@eng-Latn ,
         "Huyện Gia Viễn"@vie-Latn ;
-    wdata:q7200235 "VN11707" ;
+    wdata:Q7200235 "VN11707" ;
 .
 
 <urn:mdciii:1603:16:704:2:11709>
@@ -2312,7 +2312,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hoa Lu"@eng-Latn ,
         "Huyện Hoa Lư"@vie-Latn ;
-    wdata:q7200235 "VN11709" ;
+    wdata:Q7200235 "VN11709" ;
 .
 
 <urn:mdciii:1603:16:704:2:11711>
@@ -2326,7 +2326,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yen Mo"@eng-Latn ,
         "Huyện Yên Mô"@vie-Latn ;
-    wdata:q7200235 "VN11711" ;
+    wdata:Q7200235 "VN11711" ;
 .
 
 <urn:mdciii:1603:16:704:2:11713>
@@ -2340,7 +2340,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yen Khanh"@eng-Latn ,
         "Huyện Yên Khánh"@vie-Latn ;
-    wdata:q7200235 "VN11713" ;
+    wdata:Q7200235 "VN11713" ;
 .
 
 <urn:mdciii:1603:16:704:2:11715>
@@ -2354,7 +2354,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kim Son"@eng-Latn ,
         "Huyện Kim Sơn"@vie-Latn ;
-    wdata:q7200235 "VN11715" ;
+    wdata:Q7200235 "VN11715" ;
 .
 
 <urn:mdciii:1603:16:704:2:20101>
@@ -2368,7 +2368,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ha Giang"@eng-Latn ,
         "TP. Hà Giang"@vie-Latn ;
-    wdata:q7200235 "VN20101" ;
+    wdata:Q7200235 "VN20101" ;
 .
 
 <urn:mdciii:1603:16:704:2:20103>
@@ -2382,7 +2382,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dong Van"@eng-Latn ,
         "Huyện Đồng Văn"@vie-Latn ;
-    wdata:q7200235 "VN20103" ;
+    wdata:Q7200235 "VN20103" ;
 .
 
 <urn:mdciii:1603:16:704:2:20105>
@@ -2396,7 +2396,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Meo Vac"@eng-Latn ,
         "Huyện Mèo Vạc"@vie-Latn ;
-    wdata:q7200235 "VN20105" ;
+    wdata:Q7200235 "VN20105" ;
 .
 
 <urn:mdciii:1603:16:704:2:20107>
@@ -2410,7 +2410,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yen Minh"@eng-Latn ,
         "Huyện Yên Minh"@vie-Latn ;
-    wdata:q7200235 "VN20107" ;
+    wdata:Q7200235 "VN20107" ;
 .
 
 <urn:mdciii:1603:16:704:2:20109>
@@ -2424,7 +2424,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Quan Ba"@eng-Latn ,
         "Huyện Quản Bạ"@vie-Latn ;
-    wdata:q7200235 "VN20109" ;
+    wdata:Q7200235 "VN20109" ;
 .
 
 <urn:mdciii:1603:16:704:2:20111>
@@ -2438,7 +2438,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bac Me"@eng-Latn ,
         "Huyện Bắc Mê"@vie-Latn ;
-    wdata:q7200235 "VN20111" ;
+    wdata:Q7200235 "VN20111" ;
 .
 
 <urn:mdciii:1603:16:704:2:20113>
@@ -2452,7 +2452,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hoang Su Phi"@eng-Latn ,
         "Huyện Hoàng Su Phì"@vie-Latn ;
-    wdata:q7200235 "VN20113" ;
+    wdata:Q7200235 "VN20113" ;
 .
 
 <urn:mdciii:1603:16:704:2:20115>
@@ -2466,7 +2466,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vi Xuyen"@eng-Latn ,
         "Huyện Vị Xuyên"@vie-Latn ;
-    wdata:q7200235 "VN20115" ;
+    wdata:Q7200235 "VN20115" ;
 .
 
 <urn:mdciii:1603:16:704:2:20117>
@@ -2480,7 +2480,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xin Man"@eng-Latn ,
         "Huyện Xín Mần"@vie-Latn ;
-    wdata:q7200235 "VN20117" ;
+    wdata:Q7200235 "VN20117" ;
 .
 
 <urn:mdciii:1603:16:704:2:20119>
@@ -2494,7 +2494,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bac Quang"@eng-Latn ,
         "Huyện Bắc Quang"@vie-Latn ;
-    wdata:q7200235 "VN20119" ;
+    wdata:Q7200235 "VN20119" ;
 .
 
 <urn:mdciii:1603:16:704:2:20120>
@@ -2508,7 +2508,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Quang Binh"@eng-Latn ,
         "Huyện Quang Bình"@vie-Latn ;
-    wdata:q7200235 "VN20120" ;
+    wdata:Q7200235 "VN20120" ;
 .
 
 <urn:mdciii:1603:16:704:2:20301>
@@ -2522,7 +2522,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cao Bang"@eng-Latn ,
         "TP. Cao Bằng"@vie-Latn ;
-    wdata:q7200235 "VN20301" ;
+    wdata:Q7200235 "VN20301" ;
 .
 
 <urn:mdciii:1603:16:704:2:20303>
@@ -2536,7 +2536,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bao Lac"@eng-Latn ,
         "Huyện Bảo Lạc"@vie-Latn ;
-    wdata:q7200235 "VN20303" ;
+    wdata:Q7200235 "VN20303" ;
 .
 
 <urn:mdciii:1603:16:704:2:20304>
@@ -2550,7 +2550,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bao Lam"@eng-Latn ,
         "Huyện Bảo Lâm"@vie-Latn ;
-    wdata:q7200235 "VN20304" ;
+    wdata:Q7200235 "VN20304" ;
 .
 
 <urn:mdciii:1603:16:704:2:20305>
@@ -2564,7 +2564,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ha Quang"@eng-Latn ,
         "Huyện Hà Quảng"@vie-Latn ;
-    wdata:q7200235 "VN20305" ;
+    wdata:Q7200235 "VN20305" ;
 .
 
 <urn:mdciii:1603:16:704:2:20307>
@@ -2578,7 +2578,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thong Nong"@eng-Latn ,
         "Huyện Thông Nông"@vie-Latn ;
-    wdata:q7200235 "VN20307" ;
+    wdata:Q7200235 "VN20307" ;
 .
 
 <urn:mdciii:1603:16:704:2:20309>
@@ -2592,7 +2592,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tra Linh"@eng-Latn ,
         "Huyện Trà Lĩnh"@vie-Latn ;
-    wdata:q7200235 "VN20309" ;
+    wdata:Q7200235 "VN20309" ;
 .
 
 <urn:mdciii:1603:16:704:2:20311>
@@ -2606,7 +2606,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Trung Khanh"@eng-Latn ,
         "Huyện Trùng Khánh"@vie-Latn ;
-    wdata:q7200235 "VN20311" ;
+    wdata:Q7200235 "VN20311" ;
 .
 
 <urn:mdciii:1603:16:704:2:20313>
@@ -2620,7 +2620,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nguyen Binh"@eng-Latn ,
         "Huyện Nguyên Bình"@vie-Latn ;
-    wdata:q7200235 "VN20313" ;
+    wdata:Q7200235 "VN20313" ;
 .
 
 <urn:mdciii:1603:16:704:2:20315>
@@ -2634,7 +2634,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hoa An"@eng-Latn ,
         "Huyện Hòa An"@vie-Latn ;
-    wdata:q7200235 "VN20315" ;
+    wdata:Q7200235 "VN20315" ;
 .
 
 <urn:mdciii:1603:16:704:2:20317>
@@ -2648,7 +2648,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Quang Uyen"@eng-Latn ,
         "Huyện Quảng Uyên"@vie-Latn ;
-    wdata:q7200235 "VN20317" ;
+    wdata:Q7200235 "VN20317" ;
 .
 
 <urn:mdciii:1603:16:704:2:20318>
@@ -2662,7 +2662,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phuc Hoa"@eng-Latn ,
         "Huyện Phục Hòa"@vie-Latn ;
-    wdata:q7200235 "VN20318" ;
+    wdata:Q7200235 "VN20318" ;
 .
 
 <urn:mdciii:1603:16:704:2:20319>
@@ -2676,7 +2676,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ha Lang"@eng-Latn ,
         "Huyện Hạ Lang"@vie-Latn ;
-    wdata:q7200235 "VN20319" ;
+    wdata:Q7200235 "VN20319" ;
 .
 
 <urn:mdciii:1603:16:704:2:20321>
@@ -2690,7 +2690,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thach An"@eng-Latn ,
         "Huyện Thạch An"@vie-Latn ;
-    wdata:q7200235 "VN20321" ;
+    wdata:Q7200235 "VN20321" ;
 .
 
 <urn:mdciii:1603:16:704:2:20501>
@@ -2704,7 +2704,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lao Cai"@eng-Latn ,
         "TP. Lào Cai"@vie-Latn ;
-    wdata:q7200235 "VN20501" ;
+    wdata:Q7200235 "VN20501" ;
 .
 
 <urn:mdciii:1603:16:704:2:20505>
@@ -2718,7 +2718,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Muong Khuong"@eng-Latn ,
         "Huyện Mường Khương"@vie-Latn ;
-    wdata:q7200235 "VN20505" ;
+    wdata:Q7200235 "VN20505" ;
 .
 
 <urn:mdciii:1603:16:704:2:20507>
@@ -2732,7 +2732,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bat Xat"@eng-Latn ,
         "Huyện Bát Xát"@vie-Latn ;
-    wdata:q7200235 "VN20507" ;
+    wdata:Q7200235 "VN20507" ;
 .
 
 <urn:mdciii:1603:16:704:2:20508>
@@ -2746,7 +2746,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Si Ma Cai"@eng-Latn ,
         "Huyện Si Ma Cai"@vie-Latn ;
-    wdata:q7200235 "VN20508" ;
+    wdata:Q7200235 "VN20508" ;
 .
 
 <urn:mdciii:1603:16:704:2:20509>
@@ -2760,7 +2760,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bac Ha"@eng-Latn ,
         "Huyện Bắc Hà"@vie-Latn ;
-    wdata:q7200235 "VN20509" ;
+    wdata:Q7200235 "VN20509" ;
 .
 
 <urn:mdciii:1603:16:704:2:20511>
@@ -2774,7 +2774,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bao Thang"@eng-Latn ,
         "Huyện Bảo Thắng"@vie-Latn ;
-    wdata:q7200235 "VN20511" ;
+    wdata:Q7200235 "VN20511" ;
 .
 
 <urn:mdciii:1603:16:704:2:20513>
@@ -2788,7 +2788,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sa Pa"@eng-Latn ,
         "Huyện Sa Pa"@vie-Latn ;
-    wdata:q7200235 "VN20513" ;
+    wdata:Q7200235 "VN20513" ;
 .
 
 <urn:mdciii:1603:16:704:2:20515>
@@ -2802,7 +2802,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bao Yen"@eng-Latn ,
         "Huyện Bảo Yên"@vie-Latn ;
-    wdata:q7200235 "VN20515" ;
+    wdata:Q7200235 "VN20515" ;
 .
 
 <urn:mdciii:1603:16:704:2:20519>
@@ -2816,7 +2816,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Van Ban"@eng-Latn ,
         "Huyện Văn Bàn"@vie-Latn ;
-    wdata:q7200235 "VN20519" ;
+    wdata:Q7200235 "VN20519" ;
 .
 
 <urn:mdciii:1603:16:704:2:20701>
@@ -2830,7 +2830,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bac Kan"@eng-Latn ,
         "Thị xã Bắc Kạn"@vie-Latn ;
-    wdata:q7200235 "VN20701" ;
+    wdata:Q7200235 "VN20701" ;
 .
 
 <urn:mdciii:1603:16:704:2:20703>
@@ -2844,7 +2844,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ba Be"@eng-Latn ,
         "Huyện Ba Bể"@vie-Latn ;
-    wdata:q7200235 "VN20703" ;
+    wdata:Q7200235 "VN20703" ;
 .
 
 <urn:mdciii:1603:16:704:2:20704>
@@ -2858,7 +2858,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Pac Nam"@eng-Latn ,
         "Huyện Pác Nặm"@vie-Latn ;
-    wdata:q7200235 "VN20704" ;
+    wdata:Q7200235 "VN20704" ;
 .
 
 <urn:mdciii:1603:16:704:2:20705>
@@ -2872,7 +2872,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ngan Son"@eng-Latn ,
         "Huyện Ngân Sơn"@vie-Latn ;
-    wdata:q7200235 "VN20705" ;
+    wdata:Q7200235 "VN20705" ;
 .
 
 <urn:mdciii:1603:16:704:2:20707>
@@ -2886,7 +2886,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cho Don"@eng-Latn ,
         "Huyện Chợ Đồn"@vie-Latn ;
-    wdata:q7200235 "VN20707" ;
+    wdata:Q7200235 "VN20707" ;
 .
 
 <urn:mdciii:1603:16:704:2:20709>
@@ -2900,7 +2900,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Na Ri"@eng-Latn ,
         "Huyện Na Rì"@vie-Latn ;
-    wdata:q7200235 "VN20709" ;
+    wdata:Q7200235 "VN20709" ;
 .
 
 <urn:mdciii:1603:16:704:2:20711>
@@ -2914,7 +2914,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bach Thong"@eng-Latn ,
         "Huyện Bạch Thông"@vie-Latn ;
-    wdata:q7200235 "VN20711" ;
+    wdata:Q7200235 "VN20711" ;
 .
 
 <urn:mdciii:1603:16:704:2:20712>
@@ -2928,7 +2928,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cho Moi"@eng-Latn ,
         "Huyện Chợ Mới"@vie-Latn ;
-    wdata:q7200235 "VN20712" ;
+    wdata:Q7200235 "VN20712" ;
 .
 
 <urn:mdciii:1603:16:704:2:20901>
@@ -2942,7 +2942,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lang Son"@eng-Latn ,
         "TP. Lạng Sơn"@vie-Latn ;
-    wdata:q7200235 "VN20901" ;
+    wdata:Q7200235 "VN20901" ;
 .
 
 <urn:mdciii:1603:16:704:2:20903>
@@ -2956,7 +2956,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Trang Dinh"@eng-Latn ,
         "Huyện Tràng Định"@vie-Latn ;
-    wdata:q7200235 "VN20903" ;
+    wdata:Q7200235 "VN20903" ;
 .
 
 <urn:mdciii:1603:16:704:2:20905>
@@ -2970,7 +2970,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Van Lang"@eng-Latn ,
         "Huyện Văn Lãng"@vie-Latn ;
-    wdata:q7200235 "VN20905" ;
+    wdata:Q7200235 "VN20905" ;
 .
 
 <urn:mdciii:1603:16:704:2:20907>
@@ -2984,7 +2984,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Binh Gia"@eng-Latn ,
         "Huyện Bình Gia"@vie-Latn ;
-    wdata:q7200235 "VN20907" ;
+    wdata:Q7200235 "VN20907" ;
 .
 
 <urn:mdciii:1603:16:704:2:20909>
@@ -2998,7 +2998,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bac Son"@eng-Latn ,
         "Huyện Bắc Sơn"@vie-Latn ;
-    wdata:q7200235 "VN20909" ;
+    wdata:Q7200235 "VN20909" ;
 .
 
 <urn:mdciii:1603:16:704:2:20911>
@@ -3012,7 +3012,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Van Quan"@eng-Latn ,
         "Huyện Văn Quan"@vie-Latn ;
-    wdata:q7200235 "VN20911" ;
+    wdata:Q7200235 "VN20911" ;
 .
 
 <urn:mdciii:1603:16:704:2:20913>
@@ -3026,7 +3026,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cao Loc"@eng-Latn ,
         "Huyện Cao Lộc"@vie-Latn ;
-    wdata:q7200235 "VN20913" ;
+    wdata:Q7200235 "VN20913" ;
 .
 
 <urn:mdciii:1603:16:704:2:20915>
@@ -3040,7 +3040,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Loc Binh"@eng-Latn ,
         "Huyện Lộc Bình"@vie-Latn ;
-    wdata:q7200235 "VN20915" ;
+    wdata:Q7200235 "VN20915" ;
 .
 
 <urn:mdciii:1603:16:704:2:20917>
@@ -3054,7 +3054,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chi Lang"@eng-Latn ,
         "Huyện Chi Lăng"@vie-Latn ;
-    wdata:q7200235 "VN20917" ;
+    wdata:Q7200235 "VN20917" ;
 .
 
 <urn:mdciii:1603:16:704:2:20919>
@@ -3068,7 +3068,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dinh Lap"@eng-Latn ,
         "Huyện Đình Lập"@vie-Latn ;
-    wdata:q7200235 "VN20919" ;
+    wdata:Q7200235 "VN20919" ;
 .
 
 <urn:mdciii:1603:16:704:2:20921>
@@ -3082,7 +3082,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Huu Lung"@eng-Latn ,
         "Huyện Hữu Lũng"@vie-Latn ;
-    wdata:q7200235 "VN20921" ;
+    wdata:Q7200235 "VN20921" ;
 .
 
 <urn:mdciii:1603:16:704:2:21101>
@@ -3096,7 +3096,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tuyen Quang"@eng-Latn ,
         "TP. Tuyên Quang"@vie-Latn ;
-    wdata:q7200235 "VN21101" ;
+    wdata:Q7200235 "VN21101" ;
 .
 
 <urn:mdciii:1603:16:704:2:21103>
@@ -3110,7 +3110,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Na Hang"@eng-Latn ,
         "Huyện Na Hang"@vie-Latn ;
-    wdata:q7200235 "VN21103" ;
+    wdata:Q7200235 "VN21103" ;
 .
 
 <urn:mdciii:1603:16:704:2:21105>
@@ -3124,7 +3124,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chiem Hoa"@eng-Latn ,
         "Huyện Chiêm Hóa"@vie-Latn ;
-    wdata:q7200235 "VN21105" ;
+    wdata:Q7200235 "VN21105" ;
 .
 
 <urn:mdciii:1603:16:704:2:21107>
@@ -3138,7 +3138,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ham Yen"@eng-Latn ,
         "Huyện Hàm Yên"@vie-Latn ;
-    wdata:q7200235 "VN21107" ;
+    wdata:Q7200235 "VN21107" ;
 .
 
 <urn:mdciii:1603:16:704:2:21109>
@@ -3152,7 +3152,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yen Son"@eng-Latn ,
         "Huyện Yên Sơn"@vie-Latn ;
-    wdata:q7200235 "VN21109" ;
+    wdata:Q7200235 "VN21109" ;
 .
 
 <urn:mdciii:1603:16:704:2:21111>
@@ -3166,7 +3166,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Son Duong"@eng-Latn ,
         "Huyện Sơn Dương"@vie-Latn ;
-    wdata:q7200235 "VN21111" ;
+    wdata:Q7200235 "VN21111" ;
 .
 
 <urn:mdciii:1603:16:704:2:21112>
@@ -3180,7 +3180,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lam Binh"@eng-Latn ,
         "Huyện Lâm Bình"@vie-Latn ;
-    wdata:q7200235 "VN21112" ;
+    wdata:Q7200235 "VN21112" ;
 .
 
 <urn:mdciii:1603:16:704:2:21301>
@@ -3194,7 +3194,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yen Bai"@eng-Latn ,
         "TP. Yên Bái"@vie-Latn ;
-    wdata:q7200235 "VN21301" ;
+    wdata:Q7200235 "VN21301" ;
 .
 
 <urn:mdciii:1603:16:704:2:21303>
@@ -3208,7 +3208,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nghia Lo"@eng-Latn ,
         "Thị xã Nghĩa Lộ"@vie-Latn ;
-    wdata:q7200235 "VN21303" ;
+    wdata:Q7200235 "VN21303" ;
 .
 
 <urn:mdciii:1603:16:704:2:21305>
@@ -3222,7 +3222,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Luc Yen"@eng-Latn ,
         "Huyện Lục Yên"@vie-Latn ;
-    wdata:q7200235 "VN21305" ;
+    wdata:Q7200235 "VN21305" ;
 .
 
 <urn:mdciii:1603:16:704:2:21307>
@@ -3236,7 +3236,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Van Yen"@eng-Latn ,
         "Huyện Văn Yên"@vie-Latn ;
-    wdata:q7200235 "VN21307" ;
+    wdata:Q7200235 "VN21307" ;
 .
 
 <urn:mdciii:1603:16:704:2:21309>
@@ -3250,7 +3250,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mu Cang Chai"@eng-Latn ,
         "Huyện Mù Cang Chải"@vie-Latn ;
-    wdata:q7200235 "VN21309" ;
+    wdata:Q7200235 "VN21309" ;
 .
 
 <urn:mdciii:1603:16:704:2:21311>
@@ -3264,7 +3264,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tran Yen"@eng-Latn ,
         "Huyện Trấn Yên"@vie-Latn ;
-    wdata:q7200235 "VN21311" ;
+    wdata:Q7200235 "VN21311" ;
 .
 
 <urn:mdciii:1603:16:704:2:21313>
@@ -3278,7 +3278,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yen Binh"@eng-Latn ,
         "Huyện Yên Bình"@vie-Latn ;
-    wdata:q7200235 "VN21313" ;
+    wdata:Q7200235 "VN21313" ;
 .
 
 <urn:mdciii:1603:16:704:2:21315>
@@ -3292,7 +3292,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Van Chan"@eng-Latn ,
         "Huyện Văn Chấn"@vie-Latn ;
-    wdata:q7200235 "VN21315" ;
+    wdata:Q7200235 "VN21315" ;
 .
 
 <urn:mdciii:1603:16:704:2:21317>
@@ -3306,7 +3306,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tram Tau"@eng-Latn ,
         "Huyện Trạm Tấu"@vie-Latn ;
-    wdata:q7200235 "VN21317" ;
+    wdata:Q7200235 "VN21317" ;
 .
 
 <urn:mdciii:1603:16:704:2:21501>
@@ -3320,7 +3320,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thai Nguyen"@eng-Latn ,
         "TP. Thái Nguyên"@vie-Latn ;
-    wdata:q7200235 "VN21501" ;
+    wdata:Q7200235 "VN21501" ;
 .
 
 <urn:mdciii:1603:16:704:2:21503>
@@ -3334,7 +3334,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Song Cong"@eng-Latn ,
         "Thị xã Sông Công"@vie-Latn ;
-    wdata:q7200235 "VN21503" ;
+    wdata:Q7200235 "VN21503" ;
 .
 
 <urn:mdciii:1603:16:704:2:21505>
@@ -3348,7 +3348,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dinh Hoa"@eng-Latn ,
         "Huyện Định Hóa"@vie-Latn ;
-    wdata:q7200235 "VN21505" ;
+    wdata:Q7200235 "VN21505" ;
 .
 
 <urn:mdciii:1603:16:704:2:21507>
@@ -3362,7 +3362,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vo Nhai"@eng-Latn ,
         "Huyện Võ Nhai"@vie-Latn ;
-    wdata:q7200235 "VN21507" ;
+    wdata:Q7200235 "VN21507" ;
 .
 
 <urn:mdciii:1603:16:704:2:21509>
@@ -3376,7 +3376,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phu Luong"@eng-Latn ,
         "Huyện Phú Lương"@vie-Latn ;
-    wdata:q7200235 "VN21509" ;
+    wdata:Q7200235 "VN21509" ;
 .
 
 <urn:mdciii:1603:16:704:2:21511>
@@ -3390,7 +3390,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dong Hy"@eng-Latn ,
         "Huyện Đồng Hỷ"@vie-Latn ;
-    wdata:q7200235 "VN21511" ;
+    wdata:Q7200235 "VN21511" ;
 .
 
 <urn:mdciii:1603:16:704:2:21513>
@@ -3404,7 +3404,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dai Tu"@eng-Latn ,
         "Huyện Đại Từ"@vie-Latn ;
-    wdata:q7200235 "VN21513" ;
+    wdata:Q7200235 "VN21513" ;
 .
 
 <urn:mdciii:1603:16:704:2:21515>
@@ -3418,7 +3418,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phu Binh"@eng-Latn ,
         "Huyện Phú Bình"@vie-Latn ;
-    wdata:q7200235 "VN21515" ;
+    wdata:Q7200235 "VN21515" ;
 .
 
 <urn:mdciii:1603:16:704:2:21517>
@@ -3432,7 +3432,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Pho Yen"@eng-Latn ,
         "Huyện Phổ Yên"@vie-Latn ;
-    wdata:q7200235 "VN21517" ;
+    wdata:Q7200235 "VN21517" ;
 .
 
 <urn:mdciii:1603:16:704:2:21701>
@@ -3446,7 +3446,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Viet Tri"@eng-Latn ,
         "TP. Việt Trì"@vie-Latn ;
-    wdata:q7200235 "VN21701" ;
+    wdata:Q7200235 "VN21701" ;
 .
 
 <urn:mdciii:1603:16:704:2:21703>
@@ -3460,7 +3460,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phu Tho"@eng-Latn ,
         "Thị xã Phú Thọ"@vie-Latn ;
-    wdata:q7200235 "VN21703" ;
+    wdata:Q7200235 "VN21703" ;
 .
 
 <urn:mdciii:1603:16:704:2:21705>
@@ -3474,7 +3474,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Doan Hung"@eng-Latn ,
         "Huyện Đoan Hùng"@vie-Latn ;
-    wdata:q7200235 "VN21705" ;
+    wdata:Q7200235 "VN21705" ;
 .
 
 <urn:mdciii:1603:16:704:2:21707>
@@ -3488,7 +3488,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ha Hoa"@eng-Latn ,
         "Huyện Hạ Hòa"@vie-Latn ;
-    wdata:q7200235 "VN21707" ;
+    wdata:Q7200235 "VN21707" ;
 .
 
 <urn:mdciii:1603:16:704:2:21709>
@@ -3502,7 +3502,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thanh Ba"@eng-Latn ,
         "Huyện Thanh Ba"@vie-Latn ;
-    wdata:q7200235 "VN21709" ;
+    wdata:Q7200235 "VN21709" ;
 .
 
 <urn:mdciii:1603:16:704:2:21711>
@@ -3516,7 +3516,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phu Ninh"@eng-Latn ,
         "Huyện Phù Ninh"@vie-Latn ;
-    wdata:q7200235 "VN21711" ;
+    wdata:Q7200235 "VN21711" ;
 .
 
 <urn:mdciii:1603:16:704:2:21712>
@@ -3530,7 +3530,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lam Thao"@eng-Latn ,
         "Huyện Lâm Thao"@vie-Latn ;
-    wdata:q7200235 "VN21712" ;
+    wdata:Q7200235 "VN21712" ;
 .
 
 <urn:mdciii:1603:16:704:2:21713>
@@ -3544,7 +3544,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cam Khe"@eng-Latn ,
         "Huyện Cẩm Khê"@vie-Latn ;
-    wdata:q7200235 "VN21713" ;
+    wdata:Q7200235 "VN21713" ;
 .
 
 <urn:mdciii:1603:16:704:2:21715>
@@ -3558,7 +3558,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yen Lap"@eng-Latn ,
         "Huyện Yên Lập"@vie-Latn ;
-    wdata:q7200235 "VN21715" ;
+    wdata:Q7200235 "VN21715" ;
 .
 
 <urn:mdciii:1603:16:704:2:21717>
@@ -3572,7 +3572,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tam Nong"@eng-Latn ,
         "Huyện Tam Nông"@vie-Latn ;
-    wdata:q7200235 "VN21717" ;
+    wdata:Q7200235 "VN21717" ;
 .
 
 <urn:mdciii:1603:16:704:2:21718>
@@ -3586,7 +3586,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thanh Thuy"@eng-Latn ,
         "Huyện Thanh Thủy"@vie-Latn ;
-    wdata:q7200235 "VN21718" ;
+    wdata:Q7200235 "VN21718" ;
 .
 
 <urn:mdciii:1603:16:704:2:21719>
@@ -3600,7 +3600,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thanh Son"@eng-Latn ,
         "Huyện Thanh Sơn"@vie-Latn ;
-    wdata:q7200235 "VN21719" ;
+    wdata:Q7200235 "VN21719" ;
 .
 
 <urn:mdciii:1603:16:704:2:21720>
@@ -3614,7 +3614,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tan Son"@eng-Latn ,
         "Huyện Tân Sơn"@vie-Latn ;
-    wdata:q7200235 "VN21720" ;
+    wdata:Q7200235 "VN21720" ;
 .
 
 <urn:mdciii:1603:16:704:2:22101>
@@ -3628,7 +3628,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bac Giang"@eng-Latn ,
         "TP. Bắc Giang"@vie-Latn ;
-    wdata:q7200235 "VN22101" ;
+    wdata:Q7200235 "VN22101" ;
 .
 
 <urn:mdciii:1603:16:704:2:22103>
@@ -3642,7 +3642,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yen The"@eng-Latn ,
         "Huyện Yên Thế"@vie-Latn ;
-    wdata:q7200235 "VN22103" ;
+    wdata:Q7200235 "VN22103" ;
 .
 
 <urn:mdciii:1603:16:704:2:22105>
@@ -3656,7 +3656,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tan Yen"@eng-Latn ,
         "Huyện Tân Yên"@vie-Latn ;
-    wdata:q7200235 "VN22105" ;
+    wdata:Q7200235 "VN22105" ;
 .
 
 <urn:mdciii:1603:16:704:2:22107>
@@ -3670,7 +3670,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Luc Ngan"@eng-Latn ,
         "Huyện Lục Ngạn"@vie-Latn ;
-    wdata:q7200235 "VN22107" ;
+    wdata:Q7200235 "VN22107" ;
 .
 
 <urn:mdciii:1603:16:704:2:22109>
@@ -3684,7 +3684,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hiep Hoa"@eng-Latn ,
         "Huyện Hiệp Hòa"@vie-Latn ;
-    wdata:q7200235 "VN22109" ;
+    wdata:Q7200235 "VN22109" ;
 .
 
 <urn:mdciii:1603:16:704:2:22111>
@@ -3698,7 +3698,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lang Giang"@eng-Latn ,
         "Huyện Lạng Giang"@vie-Latn ;
-    wdata:q7200235 "VN22111" ;
+    wdata:Q7200235 "VN22111" ;
 .
 
 <urn:mdciii:1603:16:704:2:22113>
@@ -3712,7 +3712,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Son Dong"@eng-Latn ,
         "Huyện Sơn Động"@vie-Latn ;
-    wdata:q7200235 "VN22113" ;
+    wdata:Q7200235 "VN22113" ;
 .
 
 <urn:mdciii:1603:16:704:2:22115>
@@ -3726,7 +3726,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Luc Nam"@eng-Latn ,
         "Huyện Lục Nam"@vie-Latn ;
-    wdata:q7200235 "VN22115" ;
+    wdata:Q7200235 "VN22115" ;
 .
 
 <urn:mdciii:1603:16:704:2:22117>
@@ -3740,7 +3740,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Viet Yen"@eng-Latn ,
         "Huyện Việt Yên"@vie-Latn ;
-    wdata:q7200235 "VN22117" ;
+    wdata:Q7200235 "VN22117" ;
 .
 
 <urn:mdciii:1603:16:704:2:22119>
@@ -3754,7 +3754,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yen Dung"@eng-Latn ,
         "Huyện Yên Dũng"@vie-Latn ;
-    wdata:q7200235 "VN22119" ;
+    wdata:Q7200235 "VN22119" ;
 .
 
 <urn:mdciii:1603:16:704:2:22501>
@@ -3768,7 +3768,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ha Long"@eng-Latn ,
         "TP. Hạ Long"@vie-Latn ;
-    wdata:q7200235 "VN22501" ;
+    wdata:Q7200235 "VN22501" ;
 .
 
 <urn:mdciii:1603:16:704:2:22503>
@@ -3782,7 +3782,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cam Pha"@eng-Latn ,
         "TP. Cẩm Phả"@vie-Latn ;
-    wdata:q7200235 "VN22503" ;
+    wdata:Q7200235 "VN22503" ;
 .
 
 <urn:mdciii:1603:16:704:2:22505>
@@ -3796,7 +3796,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Uong Bi"@eng-Latn ,
         "TP. Uông Bí"@vie-Latn ;
-    wdata:q7200235 "VN22505" ;
+    wdata:Q7200235 "VN22505" ;
 .
 
 <urn:mdciii:1603:16:704:2:22506>
@@ -3810,7 +3810,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mong Cai"@eng-Latn ,
         "TP. Móng Cái"@vie-Latn ;
-    wdata:q7200235 "VN22506" ;
+    wdata:Q7200235 "VN22506" ;
 .
 
 <urn:mdciii:1603:16:704:2:22507>
@@ -3824,7 +3824,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Binh Lieu"@eng-Latn ,
         "Huyện Bình Liêu"@vie-Latn ;
-    wdata:q7200235 "VN22507" ;
+    wdata:Q7200235 "VN22507" ;
 .
 
 <urn:mdciii:1603:16:704:2:22511>
@@ -3838,7 +3838,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hai Ha"@eng-Latn ,
         "Huyện Hải Hà"@vie-Latn ;
-    wdata:q7200235 "VN22511" ;
+    wdata:Q7200235 "VN22511" ;
 .
 
 <urn:mdciii:1603:16:704:2:22512>
@@ -3852,7 +3852,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dam Ha"@eng-Latn ,
         "Huyện Đầm Hà"@vie-Latn ;
-    wdata:q7200235 "VN22512" ;
+    wdata:Q7200235 "VN22512" ;
 .
 
 <urn:mdciii:1603:16:704:2:22513>
@@ -3866,7 +3866,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tien Yen"@eng-Latn ,
         "Huyện Tiên Yên"@vie-Latn ;
-    wdata:q7200235 "VN22513" ;
+    wdata:Q7200235 "VN22513" ;
 .
 
 <urn:mdciii:1603:16:704:2:22515>
@@ -3880,7 +3880,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ba Che"@eng-Latn ,
         "Huyện Ba Chẽ"@vie-Latn ;
-    wdata:q7200235 "VN22515" ;
+    wdata:Q7200235 "VN22515" ;
 .
 
 <urn:mdciii:1603:16:704:2:22517>
@@ -3894,7 +3894,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Van Don"@eng-Latn ,
         "Huyện Vân Đồn"@vie-Latn ;
-    wdata:q7200235 "VN22517" ;
+    wdata:Q7200235 "VN22517" ;
 .
 
 <urn:mdciii:1603:16:704:2:22519>
@@ -3908,7 +3908,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hoanh Bo"@eng-Latn ,
         "Huyện Hoành Bồ"@vie-Latn ;
-    wdata:q7200235 "VN22519" ;
+    wdata:Q7200235 "VN22519" ;
 .
 
 <urn:mdciii:1603:16:704:2:22521>
@@ -3922,7 +3922,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dong Trieu"@eng-Latn ,
         "Huyện Đông Triều"@vie-Latn ;
-    wdata:q7200235 "VN22521" ;
+    wdata:Q7200235 "VN22521" ;
 .
 
 <urn:mdciii:1603:16:704:2:22523>
@@ -3936,7 +3936,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Co To"@eng-Latn ,
         "Huyện Cô Tô"@vie-Latn ;
-    wdata:q7200235 "VN22523" ;
+    wdata:Q7200235 "VN22523" ;
 .
 
 <urn:mdciii:1603:16:704:2:22525>
@@ -3950,7 +3950,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Quang Yen"@eng-Latn ,
         "Thị xã Quảng Yên"@vie-Latn ;
-    wdata:q7200235 "VN22525" ;
+    wdata:Q7200235 "VN22525" ;
 .
 
 <urn:mdciii:1603:16:704:2:30101>
@@ -3964,7 +3964,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nam Nhun"@eng-Latn ,
         "Huyện Nậm Nhùn"@vie-Latn ;
-    wdata:q7200235 "VN30101" ;
+    wdata:Q7200235 "VN30101" ;
 .
 
 <urn:mdciii:1603:16:704:2:30103>
@@ -3978,7 +3978,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lai Chau"@eng-Latn ,
         "TP. Lai Châu"@vie-Latn ;
-    wdata:q7200235 "VN30103" ;
+    wdata:Q7200235 "VN30103" ;
 .
 
 <urn:mdciii:1603:16:704:2:30105>
@@ -3992,7 +3992,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Muong Te"@eng-Latn ,
         "Huyện Mường Tè"@vie-Latn ;
-    wdata:q7200235 "VN30105" ;
+    wdata:Q7200235 "VN30105" ;
 .
 
 <urn:mdciii:1603:16:704:2:30107>
@@ -4006,7 +4006,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phong Tho"@eng-Latn ,
         "Huyện Phong Thổ"@vie-Latn ;
-    wdata:q7200235 "VN30107" ;
+    wdata:Q7200235 "VN30107" ;
 .
 
 <urn:mdciii:1603:16:704:2:30108>
@@ -4020,7 +4020,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tam Duong"@eng-Latn ,
         "Huyện Tam Đường"@vie-Latn ;
-    wdata:q7200235 "VN30108" ;
+    wdata:Q7200235 "VN30108" ;
 .
 
 <urn:mdciii:1603:16:704:2:30109>
@@ -4034,7 +4034,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sin Ho"@eng-Latn ,
         "Huyện Sìn Hồ"@vie-Latn ;
-    wdata:q7200235 "VN30109" ;
+    wdata:Q7200235 "VN30109" ;
 .
 
 <urn:mdciii:1603:16:704:2:30117>
@@ -4048,7 +4048,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Than Uyen"@eng-Latn ,
         "Huyện Than Uyên"@vie-Latn ;
-    wdata:q7200235 "VN30117" ;
+    wdata:Q7200235 "VN30117" ;
 .
 
 <urn:mdciii:1603:16:704:2:30118>
@@ -4062,7 +4062,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tan Uyen"@eng-Latn ,
         "Huyện Tân Uyên"@vie-Latn ;
-    wdata:q7200235 "VN30118" ;
+    wdata:Q7200235 "VN30118" ;
 .
 
 <urn:mdciii:1603:16:704:2:30201>
@@ -4076,7 +4076,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dien Bien Phu"@eng-Latn ,
         "TP. Điện Biên Phủ"@vie-Latn ;
-    wdata:q7200235 "VN30201" ;
+    wdata:Q7200235 "VN30201" ;
 .
 
 <urn:mdciii:1603:16:704:2:30202>
@@ -4090,7 +4090,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nam Po"@eng-Latn ,
         "Huyện Nậm Pồ"@vie-Latn ;
-    wdata:q7200235 "VN30202" ;
+    wdata:Q7200235 "VN30202" ;
 .
 
 <urn:mdciii:1603:16:704:2:30203>
@@ -4104,7 +4104,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Muong Lay"@eng-Latn ,
         "Thị xã Mường Lay"@vie-Latn ;
-    wdata:q7200235 "VN30203" ;
+    wdata:Q7200235 "VN30203" ;
 .
 
 <urn:mdciii:1603:16:704:2:30204>
@@ -4118,7 +4118,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Muong Nhe"@eng-Latn ,
         "Huyện Mường Nhé"@vie-Latn ;
-    wdata:q7200235 "VN30204" ;
+    wdata:Q7200235 "VN30204" ;
 .
 
 <urn:mdciii:1603:16:704:2:30211>
@@ -4132,7 +4132,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Muong Cha"@eng-Latn ,
         "Huyện Mường Chà"@vie-Latn ;
-    wdata:q7200235 "VN30211" ;
+    wdata:Q7200235 "VN30211" ;
 .
 
 <urn:mdciii:1603:16:704:2:30213>
@@ -4146,7 +4146,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tua Chua"@eng-Latn ,
         "Huyện Tủa Chùa"@vie-Latn ;
-    wdata:q7200235 "VN30213" ;
+    wdata:Q7200235 "VN30213" ;
 .
 
 <urn:mdciii:1603:16:704:2:30215>
@@ -4160,7 +4160,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tuan Giao"@eng-Latn ,
         "Huyện Tuần Giáo"@vie-Latn ;
-    wdata:q7200235 "VN30215" ;
+    wdata:Q7200235 "VN30215" ;
 .
 
 <urn:mdciii:1603:16:704:2:30216>
@@ -4174,7 +4174,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Muong Ang"@eng-Latn ,
         "Huyện Mường Ảng"@vie-Latn ;
-    wdata:q7200235 "VN30216" ;
+    wdata:Q7200235 "VN30216" ;
 .
 
 <urn:mdciii:1603:16:704:2:30217>
@@ -4188,7 +4188,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dien Bien"@eng-Latn ,
         "Huyện Điện Biên"@vie-Latn ;
-    wdata:q7200235 "VN30217" ;
+    wdata:Q7200235 "VN30217" ;
 .
 
 <urn:mdciii:1603:16:704:2:30219>
@@ -4202,7 +4202,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dien Bien Dong"@eng-Latn ,
         "Huyện Điện Biên Đông"@vie-Latn ;
-    wdata:q7200235 "VN30219" ;
+    wdata:Q7200235 "VN30219" ;
 .
 
 <urn:mdciii:1603:16:704:2:30301>
@@ -4216,7 +4216,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Son La"@eng-Latn ,
         "TP. Sơn La"@vie-Latn ;
-    wdata:q7200235 "VN30301" ;
+    wdata:Q7200235 "VN30301" ;
 .
 
 <urn:mdciii:1603:16:704:2:30303>
@@ -4230,7 +4230,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Quynh Nhai"@eng-Latn ,
         "Huyện Quỳnh Nhai"@vie-Latn ;
-    wdata:q7200235 "VN30303" ;
+    wdata:Q7200235 "VN30303" ;
 .
 
 <urn:mdciii:1603:16:704:2:30305>
@@ -4244,7 +4244,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Muong La"@eng-Latn ,
         "Huyện Mường La"@vie-Latn ;
-    wdata:q7200235 "VN30305" ;
+    wdata:Q7200235 "VN30305" ;
 .
 
 <urn:mdciii:1603:16:704:2:30307>
@@ -4258,7 +4258,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thuan Chau"@eng-Latn ,
         "Huyện Thuận Châu"@vie-Latn ;
-    wdata:q7200235 "VN30307" ;
+    wdata:Q7200235 "VN30307" ;
 .
 
 <urn:mdciii:1603:16:704:2:30309>
@@ -4272,7 +4272,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bac Yen"@eng-Latn ,
         "Huyện Bắc Yên"@vie-Latn ;
-    wdata:q7200235 "VN30309" ;
+    wdata:Q7200235 "VN30309" ;
 .
 
 <urn:mdciii:1603:16:704:2:30311>
@@ -4286,7 +4286,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phu Yen"@eng-Latn ,
         "Huyện Phù Yên"@vie-Latn ;
-    wdata:q7200235 "VN30311" ;
+    wdata:Q7200235 "VN30311" ;
 .
 
 <urn:mdciii:1603:16:704:2:30313>
@@ -4300,7 +4300,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mai Son"@eng-Latn ,
         "Huyện Mai Sơn"@vie-Latn ;
-    wdata:q7200235 "VN30313" ;
+    wdata:Q7200235 "VN30313" ;
 .
 
 <urn:mdciii:1603:16:704:2:30315>
@@ -4314,7 +4314,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Song Ma"@eng-Latn ,
         "Huyện Sông Mã"@vie-Latn ;
-    wdata:q7200235 "VN30315" ;
+    wdata:Q7200235 "VN30315" ;
 .
 
 <urn:mdciii:1603:16:704:2:30316>
@@ -4328,7 +4328,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sop Cop"@eng-Latn ,
         "Huyện Sốp Cộp"@vie-Latn ;
-    wdata:q7200235 "VN30316" ;
+    wdata:Q7200235 "VN30316" ;
 .
 
 <urn:mdciii:1603:16:704:2:30317>
@@ -4342,7 +4342,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yen Chau"@eng-Latn ,
         "Huyện Yên Châu"@vie-Latn ;
-    wdata:q7200235 "VN30317" ;
+    wdata:Q7200235 "VN30317" ;
 .
 
 <urn:mdciii:1603:16:704:2:30319>
@@ -4356,7 +4356,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Moc Chau"@eng-Latn ,
         "Huyện Mộc Châu"@vie-Latn ;
-    wdata:q7200235 "VN30319" ;
+    wdata:Q7200235 "VN30319" ;
 .
 
 <urn:mdciii:1603:16:704:2:30320>
@@ -4370,7 +4370,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Van Ho"@eng-Latn ,
         "Huyện Vân Hồ"@vie-Latn ;
-    wdata:q7200235 "VN30320" ;
+    wdata:Q7200235 "VN30320" ;
 .
 
 <urn:mdciii:1603:16:704:2:30501>
@@ -4384,7 +4384,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hoa Binh"@eng-Latn ,
         "TP. Hòa Bình"@vie-Latn ;
-    wdata:q7200235 "VN30501" ;
+    wdata:Q7200235 "VN30501" ;
 .
 
 <urn:mdciii:1603:16:704:2:30503>
@@ -4398,7 +4398,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Da Bac"@eng-Latn ,
         "Huyện Đà Bắc"@vie-Latn ;
-    wdata:q7200235 "VN30503" ;
+    wdata:Q7200235 "VN30503" ;
 .
 
 <urn:mdciii:1603:16:704:2:30505>
@@ -4412,7 +4412,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mai Chau"@eng-Latn ,
         "Huyện Mai Châu"@vie-Latn ;
-    wdata:q7200235 "VN30505" ;
+    wdata:Q7200235 "VN30505" ;
 .
 
 <urn:mdciii:1603:16:704:2:30507>
@@ -4426,7 +4426,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ky Son"@eng-Latn ,
         "Huyện Kỳ Sơn"@vie-Latn ;
-    wdata:q7200235 "VN30507" ;
+    wdata:Q7200235 "VN30507" ;
 .
 
 <urn:mdciii:1603:16:704:2:30509>
@@ -4440,7 +4440,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Luong Son"@eng-Latn ,
         "Huyện Lương Sơn"@vie-Latn ;
-    wdata:q7200235 "VN30509" ;
+    wdata:Q7200235 "VN30509" ;
 .
 
 <urn:mdciii:1603:16:704:2:30510>
@@ -4454,7 +4454,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cao Phong"@eng-Latn ,
         "Huyện Cao Phong"@vie-Latn ;
-    wdata:q7200235 "VN30510" ;
+    wdata:Q7200235 "VN30510" ;
 .
 
 <urn:mdciii:1603:16:704:2:30511>
@@ -4468,7 +4468,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kim Boi"@eng-Latn ,
         "Huyện Kim Bôi"@vie-Latn ;
-    wdata:q7200235 "VN30511" ;
+    wdata:Q7200235 "VN30511" ;
 .
 
 <urn:mdciii:1603:16:704:2:30513>
@@ -4482,7 +4482,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tan Lac"@eng-Latn ,
         "Huyện Tân Lạc"@vie-Latn ;
-    wdata:q7200235 "VN30513" ;
+    wdata:Q7200235 "VN30513" ;
 .
 
 <urn:mdciii:1603:16:704:2:30515>
@@ -4496,7 +4496,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lac Son"@eng-Latn ,
         "Huyện Lạc Sơn"@vie-Latn ;
-    wdata:q7200235 "VN30515" ;
+    wdata:Q7200235 "VN30515" ;
 .
 
 <urn:mdciii:1603:16:704:2:30517>
@@ -4510,7 +4510,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lac Thuy"@eng-Latn ,
         "Huyện Lạc Thủy"@vie-Latn ;
-    wdata:q7200235 "VN30517" ;
+    wdata:Q7200235 "VN30517" ;
 .
 
 <urn:mdciii:1603:16:704:2:30519>
@@ -4524,7 +4524,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yen Thuy"@eng-Latn ,
         "Huyện Yên Thủy"@vie-Latn ;
-    wdata:q7200235 "VN30519" ;
+    wdata:Q7200235 "VN30519" ;
 .
 
 <urn:mdciii:1603:16:704:2:40101>
@@ -4538,7 +4538,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thanh Hoa"@eng-Latn ,
         "Huyện Thạnh Hóa"@vie-Latn ;
-    wdata:q7200235 "VN40101" ;
+    wdata:Q7200235 "VN40101" ;
 .
 
 <urn:mdciii:1603:16:704:2:40103>
@@ -4552,7 +4552,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bim Son"@eng-Latn ,
         "Thị xã Bỉm Sơn"@vie-Latn ;
-    wdata:q7200235 "VN40103" ;
+    wdata:Q7200235 "VN40103" ;
 .
 
 <urn:mdciii:1603:16:704:2:40105>
@@ -4566,7 +4566,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sam Son"@eng-Latn ,
         "Thị xã Sầm Sơn"@vie-Latn ;
-    wdata:q7200235 "VN40105" ;
+    wdata:Q7200235 "VN40105" ;
 .
 
 <urn:mdciii:1603:16:704:2:40107>
@@ -4580,7 +4580,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Muong Lat"@eng-Latn ,
         "Huyện Mường Lát"@vie-Latn ;
-    wdata:q7200235 "VN40107" ;
+    wdata:Q7200235 "VN40107" ;
 .
 
 <urn:mdciii:1603:16:704:2:40109>
@@ -4594,7 +4594,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Quan Hoa"@eng-Latn ,
         "Huyện Quan Hóa"@vie-Latn ;
-    wdata:q7200235 "VN40109" ;
+    wdata:Q7200235 "VN40109" ;
 .
 
 <urn:mdciii:1603:16:704:2:40111>
@@ -4608,7 +4608,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Quan Son"@eng-Latn ,
         "Huyện Quan Sơn"@vie-Latn ;
-    wdata:q7200235 "VN40111" ;
+    wdata:Q7200235 "VN40111" ;
 .
 
 <urn:mdciii:1603:16:704:2:40113>
@@ -4622,7 +4622,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ba Thuoc"@eng-Latn ,
         "Huyện Bá Thước"@vie-Latn ;
-    wdata:q7200235 "VN40113" ;
+    wdata:Q7200235 "VN40113" ;
 .
 
 <urn:mdciii:1603:16:704:2:40115>
@@ -4636,7 +4636,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cam Thuy"@eng-Latn ,
         "Huyện Cẩm Thủy"@vie-Latn ;
-    wdata:q7200235 "VN40115" ;
+    wdata:Q7200235 "VN40115" ;
 .
 
 <urn:mdciii:1603:16:704:2:40117>
@@ -4650,7 +4650,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lang Chanh"@eng-Latn ,
         "Huyện Lang Chánh"@vie-Latn ;
-    wdata:q7200235 "VN40117" ;
+    wdata:Q7200235 "VN40117" ;
 .
 
 <urn:mdciii:1603:16:704:2:40119>
@@ -4664,7 +4664,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thach Thanh"@eng-Latn ,
         "Huyện Thạch Thành"@vie-Latn ;
-    wdata:q7200235 "VN40119" ;
+    wdata:Q7200235 "VN40119" ;
 .
 
 <urn:mdciii:1603:16:704:2:40121>
@@ -4678,7 +4678,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ngoc Lac"@eng-Latn ,
         "Huyện Ngọc Lặc"@vie-Latn ;
-    wdata:q7200235 "VN40121" ;
+    wdata:Q7200235 "VN40121" ;
 .
 
 <urn:mdciii:1603:16:704:2:40123>
@@ -4692,7 +4692,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thuong Xuan"@eng-Latn ,
         "Huyện Thường Xuân"@vie-Latn ;
-    wdata:q7200235 "VN40123" ;
+    wdata:Q7200235 "VN40123" ;
 .
 
 <urn:mdciii:1603:16:704:2:40125>
@@ -4706,7 +4706,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nhu Xuan"@eng-Latn ,
         "Huyện Như Xuân"@vie-Latn ;
-    wdata:q7200235 "VN40125" ;
+    wdata:Q7200235 "VN40125" ;
 .
 
 <urn:mdciii:1603:16:704:2:40127>
@@ -4720,7 +4720,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nhu Thanh"@eng-Latn ,
         "Huyện Như Thanh"@vie-Latn ;
-    wdata:q7200235 "VN40127" ;
+    wdata:Q7200235 "VN40127" ;
 .
 
 <urn:mdciii:1603:16:704:2:40129>
@@ -4734,7 +4734,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vinh Loc"@eng-Latn ,
         "Huyện Vĩnh Lộc"@vie-Latn ;
-    wdata:q7200235 "VN40129" ;
+    wdata:Q7200235 "VN40129" ;
 .
 
 <urn:mdciii:1603:16:704:2:40131>
@@ -4748,7 +4748,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ha Trung"@eng-Latn ,
         "Huyện Hà Trung"@vie-Latn ;
-    wdata:q7200235 "VN40131" ;
+    wdata:Q7200235 "VN40131" ;
 .
 
 <urn:mdciii:1603:16:704:2:40133>
@@ -4762,7 +4762,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nga Son"@eng-Latn ,
         "Huyện Nga Sơn"@vie-Latn ;
-    wdata:q7200235 "VN40133" ;
+    wdata:Q7200235 "VN40133" ;
 .
 
 <urn:mdciii:1603:16:704:2:40135>
@@ -4776,7 +4776,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yen Dinh"@eng-Latn ,
         "Huyện Yên Định"@vie-Latn ;
-    wdata:q7200235 "VN40135" ;
+    wdata:Q7200235 "VN40135" ;
 .
 
 <urn:mdciii:1603:16:704:2:40137>
@@ -4790,7 +4790,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tho Xuan"@eng-Latn ,
         "Huyện Thọ Xuân"@vie-Latn ;
-    wdata:q7200235 "VN40137" ;
+    wdata:Q7200235 "VN40137" ;
 .
 
 <urn:mdciii:1603:16:704:2:40139>
@@ -4804,7 +4804,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hau Loc"@eng-Latn ,
         "Huyện Hậu Lộc"@vie-Latn ;
-    wdata:q7200235 "VN40139" ;
+    wdata:Q7200235 "VN40139" ;
 .
 
 <urn:mdciii:1603:16:704:2:40141>
@@ -4818,7 +4818,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thieu Hoa"@eng-Latn ,
         "Huyện Thiệu Hóa"@vie-Latn ;
-    wdata:q7200235 "VN40141" ;
+    wdata:Q7200235 "VN40141" ;
 .
 
 <urn:mdciii:1603:16:704:2:40143>
@@ -4832,7 +4832,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hoang Hoa"@eng-Latn ,
         "Huyện Hoằng Hóa"@vie-Latn ;
-    wdata:q7200235 "VN40143" ;
+    wdata:Q7200235 "VN40143" ;
 .
 
 <urn:mdciii:1603:16:704:2:40145>
@@ -4846,7 +4846,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dong Son"@eng-Latn ,
         "Huyện Đông Sơn"@vie-Latn ;
-    wdata:q7200235 "VN40145" ;
+    wdata:Q7200235 "VN40145" ;
 .
 
 <urn:mdciii:1603:16:704:2:40147>
@@ -4860,7 +4860,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Trieu Son"@eng-Latn ,
         "Huyện Triệu Sơn"@vie-Latn ;
-    wdata:q7200235 "VN40147" ;
+    wdata:Q7200235 "VN40147" ;
 .
 
 <urn:mdciii:1603:16:704:2:40149>
@@ -4874,7 +4874,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Quang Xuong"@eng-Latn ,
         "Huyện Quảng Xương"@vie-Latn ;
-    wdata:q7200235 "VN40149" ;
+    wdata:Q7200235 "VN40149" ;
 .
 
 <urn:mdciii:1603:16:704:2:40151>
@@ -4888,7 +4888,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nong Cong"@eng-Latn ,
         "Huyện Nông Cống"@vie-Latn ;
-    wdata:q7200235 "VN40151" ;
+    wdata:Q7200235 "VN40151" ;
 .
 
 <urn:mdciii:1603:16:704:2:40153>
@@ -4902,7 +4902,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tinh Gia"@eng-Latn ,
         "Huyện Tĩnh Gia"@vie-Latn ;
-    wdata:q7200235 "VN40153" ;
+    wdata:Q7200235 "VN40153" ;
 .
 
 <urn:mdciii:1603:16:704:2:40301>
@@ -4916,7 +4916,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vinh"@eng-Latn ,
         "TP. Vinh"@vie-Latn ;
-    wdata:q7200235 "VN40301" ;
+    wdata:Q7200235 "VN40301" ;
 .
 
 <urn:mdciii:1603:16:704:2:40303>
@@ -4930,7 +4930,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cua Lo"@eng-Latn ,
         "Thị xã Cửa Lò"@vie-Latn ;
-    wdata:q7200235 "VN40303" ;
+    wdata:Q7200235 "VN40303" ;
 .
 
 <urn:mdciii:1603:16:704:2:40305>
@@ -4944,7 +4944,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Que Phong"@eng-Latn ,
         "Huyện Quế Phong"@vie-Latn ;
-    wdata:q7200235 "VN40305" ;
+    wdata:Q7200235 "VN40305" ;
 .
 
 <urn:mdciii:1603:16:704:2:40307>
@@ -4958,7 +4958,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Quy Chau"@eng-Latn ,
         "Huyện Quỳ Châu"@vie-Latn ;
-    wdata:q7200235 "VN40307" ;
+    wdata:Q7200235 "VN40307" ;
 .
 
 <urn:mdciii:1603:16:704:2:40309>
@@ -4972,7 +4972,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ky Son"@eng-Latn ,
         "Huyện Kỳ Sơn"@vie-Latn ;
-    wdata:q7200235 "VN40309" ;
+    wdata:Q7200235 "VN40309" ;
 .
 
 <urn:mdciii:1603:16:704:2:40311>
@@ -4986,7 +4986,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Quy Hop"@eng-Latn ,
         "Huyện Quỳ Hợp"@vie-Latn ;
-    wdata:q7200235 "VN40311" ;
+    wdata:Q7200235 "VN40311" ;
 .
 
 <urn:mdciii:1603:16:704:2:40313>
@@ -5000,7 +5000,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nghia Dan"@eng-Latn ,
         "Huyện Nghĩa Đàn"@vie-Latn ;
-    wdata:q7200235 "VN40313" ;
+    wdata:Q7200235 "VN40313" ;
 .
 
 <urn:mdciii:1603:16:704:2:40314>
@@ -5014,7 +5014,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thai Hoa"@eng-Latn ,
         "Thị xã Thái Hòa"@vie-Latn ;
-    wdata:q7200235 "VN40314" ;
+    wdata:Q7200235 "VN40314" ;
 .
 
 <urn:mdciii:1603:16:704:2:40315>
@@ -5028,7 +5028,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tuong Duong"@eng-Latn ,
         "Huyện Tương Dương"@vie-Latn ;
-    wdata:q7200235 "VN40315" ;
+    wdata:Q7200235 "VN40315" ;
 .
 
 <urn:mdciii:1603:16:704:2:40317>
@@ -5042,7 +5042,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Quynh Luu"@eng-Latn ,
         "Huyện Quỳnh Lưu"@vie-Latn ;
-    wdata:q7200235 "VN40317" ;
+    wdata:Q7200235 "VN40317" ;
 .
 
 <urn:mdciii:1603:16:704:2:40319>
@@ -5056,7 +5056,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tan Ky"@eng-Latn ,
         "Huyện Tân Kỳ"@vie-Latn ;
-    wdata:q7200235 "VN40319" ;
+    wdata:Q7200235 "VN40319" ;
 .
 
 <urn:mdciii:1603:16:704:2:40321>
@@ -5070,7 +5070,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Con Cuong"@eng-Latn ,
         "Huyện Con Cuông"@vie-Latn ;
-    wdata:q7200235 "VN40321" ;
+    wdata:Q7200235 "VN40321" ;
 .
 
 <urn:mdciii:1603:16:704:2:40323>
@@ -5084,7 +5084,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yen Thanh"@eng-Latn ,
         "Huyện Yên Thành"@vie-Latn ;
-    wdata:q7200235 "VN40323" ;
+    wdata:Q7200235 "VN40323" ;
 .
 
 <urn:mdciii:1603:16:704:2:40325>
@@ -5098,7 +5098,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dien Chau"@eng-Latn ,
         "Huyện Diễn Châu"@vie-Latn ;
-    wdata:q7200235 "VN40325" ;
+    wdata:Q7200235 "VN40325" ;
 .
 
 <urn:mdciii:1603:16:704:2:40327>
@@ -5112,7 +5112,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Anh Son"@eng-Latn ,
         "Huyện Anh Sơn"@vie-Latn ;
-    wdata:q7200235 "VN40327" ;
+    wdata:Q7200235 "VN40327" ;
 .
 
 <urn:mdciii:1603:16:704:2:40329>
@@ -5126,7 +5126,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Do Luong"@eng-Latn ,
         "Huyện Đô Lương"@vie-Latn ;
-    wdata:q7200235 "VN40329" ;
+    wdata:Q7200235 "VN40329" ;
 .
 
 <urn:mdciii:1603:16:704:2:40331>
@@ -5140,7 +5140,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thanh Chuong"@eng-Latn ,
         "Huyện Thanh Chương"@vie-Latn ;
-    wdata:q7200235 "VN40331" ;
+    wdata:Q7200235 "VN40331" ;
 .
 
 <urn:mdciii:1603:16:704:2:40333>
@@ -5154,7 +5154,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nghi Loc"@eng-Latn ,
         "Huyện Nghi Lộc"@vie-Latn ;
-    wdata:q7200235 "VN40333" ;
+    wdata:Q7200235 "VN40333" ;
 .
 
 <urn:mdciii:1603:16:704:2:40335>
@@ -5168,7 +5168,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nam Dan"@eng-Latn ,
         "Huyện Nam Đàn"@vie-Latn ;
-    wdata:q7200235 "VN40335" ;
+    wdata:Q7200235 "VN40335" ;
 .
 
 <urn:mdciii:1603:16:704:2:40337>
@@ -5182,7 +5182,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hung Nguyen"@eng-Latn ,
         "Huyện Hưng Nguyên"@vie-Latn ;
-    wdata:q7200235 "VN40337" ;
+    wdata:Q7200235 "VN40337" ;
 .
 
 <urn:mdciii:1603:16:704:2:40338>
@@ -5196,7 +5196,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hoang Mai"@eng-Latn ,
         "Thị xã Hoàng Mai"@vie-Latn ;
-    wdata:q7200235 "VN40338" ;
+    wdata:Q7200235 "VN40338" ;
 .
 
 <urn:mdciii:1603:16:704:2:40501>
@@ -5210,7 +5210,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ha Tinh"@eng-Latn ,
         "TP. Hà Tĩnh"@vie-Latn ;
-    wdata:q7200235 "VN40501" ;
+    wdata:Q7200235 "VN40501" ;
 .
 
 <urn:mdciii:1603:16:704:2:40503>
@@ -5224,7 +5224,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hong Linh"@eng-Latn ,
         "Thị xã Hồng Lĩnh"@vie-Latn ;
-    wdata:q7200235 "VN40503" ;
+    wdata:Q7200235 "VN40503" ;
 .
 
 <urn:mdciii:1603:16:704:2:40505>
@@ -5238,7 +5238,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nghi Xuan"@eng-Latn ,
         "Huyện Nghi Xuân"@vie-Latn ;
-    wdata:q7200235 "VN40505" ;
+    wdata:Q7200235 "VN40505" ;
 .
 
 <urn:mdciii:1603:16:704:2:40507>
@@ -5252,7 +5252,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Duc Tho"@eng-Latn ,
         "Huyện Đức Thọ"@vie-Latn ;
-    wdata:q7200235 "VN40507" ;
+    wdata:Q7200235 "VN40507" ;
 .
 
 <urn:mdciii:1603:16:704:2:40509>
@@ -5266,7 +5266,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Huong Son"@eng-Latn ,
         "Huyện Hương Sơn"@vie-Latn ;
-    wdata:q7200235 "VN40509" ;
+    wdata:Q7200235 "VN40509" ;
 .
 
 <urn:mdciii:1603:16:704:2:40510>
@@ -5280,7 +5280,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vu Quang"@eng-Latn ,
         "Huyện Vũ Quang"@vie-Latn ;
-    wdata:q7200235 "VN40510" ;
+    wdata:Q7200235 "VN40510" ;
 .
 
 <urn:mdciii:1603:16:704:2:40511>
@@ -5294,7 +5294,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Can Loc"@eng-Latn ,
         "Huyện Can Lộc"@vie-Latn ;
-    wdata:q7200235 "VN40511" ;
+    wdata:Q7200235 "VN40511" ;
 .
 
 <urn:mdciii:1603:16:704:2:40512>
@@ -5308,7 +5308,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Loc Ha"@eng-Latn ,
         "Huyện Lộc Hà"@vie-Latn ;
-    wdata:q7200235 "VN40512" ;
+    wdata:Q7200235 "VN40512" ;
 .
 
 <urn:mdciii:1603:16:704:2:40513>
@@ -5322,7 +5322,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thach Ha"@eng-Latn ,
         "Huyện Thạch Hà"@vie-Latn ;
-    wdata:q7200235 "VN40513" ;
+    wdata:Q7200235 "VN40513" ;
 .
 
 <urn:mdciii:1603:16:704:2:40515>
@@ -5336,7 +5336,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cam Xuyen"@eng-Latn ,
         "Huyện Cẩm Xuyên"@vie-Latn ;
-    wdata:q7200235 "VN40515" ;
+    wdata:Q7200235 "VN40515" ;
 .
 
 <urn:mdciii:1603:16:704:2:40517>
@@ -5350,7 +5350,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Huong Khe"@eng-Latn ,
         "Huyện Hương Khê"@vie-Latn ;
-    wdata:q7200235 "VN40517" ;
+    wdata:Q7200235 "VN40517" ;
 .
 
 <urn:mdciii:1603:16:704:2:40519>
@@ -5364,7 +5364,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ky Anh"@eng-Latn ,
         "Huyện Kỳ Anh"@vie-Latn ;
-    wdata:q7200235 "VN40519" ;
+    wdata:Q7200235 "VN40519" ;
 .
 
 <urn:mdciii:1603:16:704:2:40701>
@@ -5378,7 +5378,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dong Hoi"@eng-Latn ,
         "TP. Đồng Hới"@vie-Latn ;
-    wdata:q7200235 "VN40701" ;
+    wdata:Q7200235 "VN40701" ;
 .
 
 <urn:mdciii:1603:16:704:2:40703>
@@ -5392,7 +5392,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tuyen Hoa"@eng-Latn ,
         "Huyện Tuyên Hóa"@vie-Latn ;
-    wdata:q7200235 "VN40703" ;
+    wdata:Q7200235 "VN40703" ;
 .
 
 <urn:mdciii:1603:16:704:2:40705>
@@ -5406,7 +5406,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Minh Hoa"@eng-Latn ,
         "Huyện Minh Hóa"@vie-Latn ;
-    wdata:q7200235 "VN40705" ;
+    wdata:Q7200235 "VN40705" ;
 .
 
 <urn:mdciii:1603:16:704:2:40707>
@@ -5420,7 +5420,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ba Don"@eng-Latn ,
         "Thị xã Ba Đồn"@vie-Latn ;
-    wdata:q7200235 "VN40707" ;
+    wdata:Q7200235 "VN40707" ;
 .
 
 <urn:mdciii:1603:16:704:2:40709>
@@ -5434,7 +5434,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bo Trach"@eng-Latn ,
         "Huyện Bố Trạch"@vie-Latn ;
-    wdata:q7200235 "VN40709" ;
+    wdata:Q7200235 "VN40709" ;
 .
 
 <urn:mdciii:1603:16:704:2:40711>
@@ -5448,7 +5448,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Quang Ninh"@eng-Latn ,
         "Huyện Quảng Ninh"@vie-Latn ;
-    wdata:q7200235 "VN40711" ;
+    wdata:Q7200235 "VN40711" ;
 .
 
 <urn:mdciii:1603:16:704:2:40713>
@@ -5462,7 +5462,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Le Thuy"@eng-Latn ,
         "Huyện Lệ Thủy"@vie-Latn ;
-    wdata:q7200235 "VN40713" ;
+    wdata:Q7200235 "VN40713" ;
 .
 
 <urn:mdciii:1603:16:704:2:40715>
@@ -5476,7 +5476,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Quang Trach"@eng-Latn ,
         "Huyện Quảng Trạch"@vie-Latn ;
-    wdata:q7200235 "VN40715" ;
+    wdata:Q7200235 "VN40715" ;
 .
 
 <urn:mdciii:1603:16:704:2:40901>
@@ -5490,7 +5490,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dong Ha"@eng-Latn ,
         "TP. Đông Hà"@vie-Latn ;
-    wdata:q7200235 "VN40901" ;
+    wdata:Q7200235 "VN40901" ;
 .
 
 <urn:mdciii:1603:16:704:2:40903>
@@ -5504,7 +5504,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Quang Tri"@eng-Latn ,
         "Thị xã Quảng Trị"@vie-Latn ;
-    wdata:q7200235 "VN40903" ;
+    wdata:Q7200235 "VN40903" ;
 .
 
 <urn:mdciii:1603:16:704:2:40905>
@@ -5518,7 +5518,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vinh Linh"@eng-Latn ,
         "Huyện Vĩnh Linh"@vie-Latn ;
-    wdata:q7200235 "VN40905" ;
+    wdata:Q7200235 "VN40905" ;
 .
 
 <urn:mdciii:1603:16:704:2:40906>
@@ -5532,7 +5532,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Con Co"@eng-Latn ,
         "Huyện Cồn Cỏ"@vie-Latn ;
-    wdata:q7200235 "VN40906" ;
+    wdata:Q7200235 "VN40906" ;
 .
 
 <urn:mdciii:1603:16:704:2:40907>
@@ -5546,7 +5546,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gio Linh"@eng-Latn ,
         "Huyện Gio Linh"@vie-Latn ;
-    wdata:q7200235 "VN40907" ;
+    wdata:Q7200235 "VN40907" ;
 .
 
 <urn:mdciii:1603:16:704:2:40909>
@@ -5560,7 +5560,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cam Lo"@eng-Latn ,
         "Huyện Cam Lộ"@vie-Latn ;
-    wdata:q7200235 "VN40909" ;
+    wdata:Q7200235 "VN40909" ;
 .
 
 <urn:mdciii:1603:16:704:2:40911>
@@ -5574,7 +5574,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Trieu Phong"@eng-Latn ,
         "Huyện Triệu Phong"@vie-Latn ;
-    wdata:q7200235 "VN40911" ;
+    wdata:Q7200235 "VN40911" ;
 .
 
 <urn:mdciii:1603:16:704:2:40913>
@@ -5588,7 +5588,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hai Lang"@eng-Latn ,
         "Huyện Hải Lăng"@vie-Latn ;
-    wdata:q7200235 "VN40913" ;
+    wdata:Q7200235 "VN40913" ;
 .
 
 <urn:mdciii:1603:16:704:2:40915>
@@ -5602,7 +5602,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Huong Hoa"@eng-Latn ,
         "Huyện Hướng Hóa"@vie-Latn ;
-    wdata:q7200235 "VN40915" ;
+    wdata:Q7200235 "VN40915" ;
 .
 
 <urn:mdciii:1603:16:704:2:40917>
@@ -5616,7 +5616,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Da Krong"@eng-Latn ,
         "Huyện Đa Krông"@vie-Latn ;
-    wdata:q7200235 "VN40917" ;
+    wdata:Q7200235 "VN40917" ;
 .
 
 <urn:mdciii:1603:16:704:2:41101>
@@ -5630,7 +5630,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hue"@eng-Latn ,
         "TP. Huế"@vie-Latn ;
-    wdata:q7200235 "VN41101" ;
+    wdata:Q7200235 "VN41101" ;
 .
 
 <urn:mdciii:1603:16:704:2:41103>
@@ -5644,7 +5644,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phong Dien"@eng-Latn ,
         "Huyện Phong Điền"@vie-Latn ;
-    wdata:q7200235 "VN41103" ;
+    wdata:Q7200235 "VN41103" ;
 .
 
 <urn:mdciii:1603:16:704:2:41105>
@@ -5658,7 +5658,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Quang Dien"@eng-Latn ,
         "Huyện Quảng Điền"@vie-Latn ;
-    wdata:q7200235 "VN41105" ;
+    wdata:Q7200235 "VN41105" ;
 .
 
 <urn:mdciii:1603:16:704:2:41107>
@@ -5672,7 +5672,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Huong Tra"@eng-Latn ,
         "Thị xã Hương Trà"@vie-Latn ;
-    wdata:q7200235 "VN41107" ;
+    wdata:Q7200235 "VN41107" ;
 .
 
 <urn:mdciii:1603:16:704:2:41109>
@@ -5686,7 +5686,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phu Vang"@eng-Latn ,
         "Huyện Phú Vang"@vie-Latn ;
-    wdata:q7200235 "VN41109" ;
+    wdata:Q7200235 "VN41109" ;
 .
 
 <urn:mdciii:1603:16:704:2:41111>
@@ -5700,7 +5700,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Huong Thuy"@eng-Latn ,
         "Thị xã Hương Thủy"@vie-Latn ;
-    wdata:q7200235 "VN41111" ;
+    wdata:Q7200235 "VN41111" ;
 .
 
 <urn:mdciii:1603:16:704:2:41113>
@@ -5714,7 +5714,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phu Loc"@eng-Latn ,
         "Huyện Phú Lộc"@vie-Latn ;
-    wdata:q7200235 "VN41113" ;
+    wdata:Q7200235 "VN41113" ;
 .
 
 <urn:mdciii:1603:16:704:2:41115>
@@ -5728,7 +5728,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "A Luoi"@eng-Latn ,
         "Huyện A Lưới"@vie-Latn ;
-    wdata:q7200235 "VN41115" ;
+    wdata:Q7200235 "VN41115" ;
 .
 
 <urn:mdciii:1603:16:704:2:41117>
@@ -5742,7 +5742,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nam Dong"@eng-Latn ,
         "Huyện Nam Đông"@vie-Latn ;
-    wdata:q7200235 "VN41117" ;
+    wdata:Q7200235 "VN41117" ;
 .
 
 <urn:mdciii:1603:16:704:2:50101>
@@ -5756,7 +5756,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hai Chau"@eng-Latn ,
         "Quận Hải Châu"@vie-Latn ;
-    wdata:q7200235 "VN50101" ;
+    wdata:Q7200235 "VN50101" ;
 .
 
 <urn:mdciii:1603:16:704:2:50103>
@@ -5770,7 +5770,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thanh Khe"@eng-Latn ,
         "Quận Thanh Khê"@vie-Latn ;
-    wdata:q7200235 "VN50103" ;
+    wdata:Q7200235 "VN50103" ;
 .
 
 <urn:mdciii:1603:16:704:2:50105>
@@ -5784,7 +5784,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Son Tra"@eng-Latn ,
         "Quận Sơn Trà"@vie-Latn ;
-    wdata:q7200235 "VN50105" ;
+    wdata:Q7200235 "VN50105" ;
 .
 
 <urn:mdciii:1603:16:704:2:50107>
@@ -5798,7 +5798,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ngu Hanh Son"@eng-Latn ,
         "Quận Ngũ Hành Sơn"@vie-Latn ;
-    wdata:q7200235 "VN50107" ;
+    wdata:Q7200235 "VN50107" ;
 .
 
 <urn:mdciii:1603:16:704:2:50109>
@@ -5812,7 +5812,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lien Chieu"@eng-Latn ,
         "Quận Liên Chiểu"@vie-Latn ;
-    wdata:q7200235 "VN50109" ;
+    wdata:Q7200235 "VN50109" ;
 .
 
 <urn:mdciii:1603:16:704:2:50111>
@@ -5826,7 +5826,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hoa Vang"@eng-Latn ,
         "Huyện Hòa Vang"@vie-Latn ;
-    wdata:q7200235 "VN50111" ;
+    wdata:Q7200235 "VN50111" ;
 .
 
 <urn:mdciii:1603:16:704:2:50112>
@@ -5840,7 +5840,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cam Le"@eng-Latn ,
         "Quận Cẩm Lệ"@vie-Latn ;
-    wdata:q7200235 "VN50112" ;
+    wdata:Q7200235 "VN50112" ;
 .
 
 <urn:mdciii:1603:16:704:2:50190>
@@ -5854,7 +5854,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hoang Sa"@eng-Latn ,
         "Huyện Hoàng Sa"@vie-Latn ;
-    wdata:q7200235 "VN50190" ;
+    wdata:Q7200235 "VN50190" ;
 .
 
 <urn:mdciii:1603:16:704:2:50301>
@@ -5868,7 +5868,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tam Ky"@eng-Latn ,
         "TP. Tam Kỳ"@vie-Latn ;
-    wdata:q7200235 "VN50301" ;
+    wdata:Q7200235 "VN50301" ;
 .
 
 <urn:mdciii:1603:16:704:2:50303>
@@ -5882,7 +5882,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hoi An"@eng-Latn ,
         "TP. Hội An"@vie-Latn ;
-    wdata:q7200235 "VN50303" ;
+    wdata:Q7200235 "VN50303" ;
 .
 
 <urn:mdciii:1603:16:704:2:50304>
@@ -5896,7 +5896,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tay Giang"@eng-Latn ,
         "Huyện Tây Giang"@vie-Latn ;
-    wdata:q7200235 "VN50304" ;
+    wdata:Q7200235 "VN50304" ;
 .
 
 <urn:mdciii:1603:16:704:2:50305>
@@ -5910,7 +5910,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dong Giang"@eng-Latn ,
         "Huyện Đông Giang"@vie-Latn ;
-    wdata:q7200235 "VN50305" ;
+    wdata:Q7200235 "VN50305" ;
 .
 
 <urn:mdciii:1603:16:704:2:50307>
@@ -5924,7 +5924,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dai Loc"@eng-Latn ,
         "Huyện Đại Lộc"@vie-Latn ;
-    wdata:q7200235 "VN50307" ;
+    wdata:Q7200235 "VN50307" ;
 .
 
 <urn:mdciii:1603:16:704:2:50309>
@@ -5938,7 +5938,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dien Ban"@eng-Latn ,
         "Huyện Điện Bàn"@vie-Latn ;
-    wdata:q7200235 "VN50309" ;
+    wdata:Q7200235 "VN50309" ;
 .
 
 <urn:mdciii:1603:16:704:2:50311>
@@ -5952,7 +5952,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Duy Xuyen"@eng-Latn ,
         "Huyện Duy Xuyên"@vie-Latn ;
-    wdata:q7200235 "VN50311" ;
+    wdata:Q7200235 "VN50311" ;
 .
 
 <urn:mdciii:1603:16:704:2:50313>
@@ -5966,7 +5966,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nam Giang"@eng-Latn ,
         "Huyện Nam Giang"@vie-Latn ;
-    wdata:q7200235 "VN50313" ;
+    wdata:Q7200235 "VN50313" ;
 .
 
 <urn:mdciii:1603:16:704:2:50315>
@@ -5980,7 +5980,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thang Binh"@eng-Latn ,
         "Huyện Thăng Bình"@vie-Latn ;
-    wdata:q7200235 "VN50315" ;
+    wdata:Q7200235 "VN50315" ;
 .
 
 <urn:mdciii:1603:16:704:2:50317>
@@ -5994,7 +5994,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Que Son"@eng-Latn ,
         "Huyện Quế Sơn"@vie-Latn ;
-    wdata:q7200235 "VN50317" ;
+    wdata:Q7200235 "VN50317" ;
 .
 
 <urn:mdciii:1603:16:704:2:50318>
@@ -6008,7 +6008,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nong Son"@eng-Latn ,
         "Huyện Nông Sơn"@vie-Latn ;
-    wdata:q7200235 "VN50318" ;
+    wdata:Q7200235 "VN50318" ;
 .
 
 <urn:mdciii:1603:16:704:2:50319>
@@ -6022,7 +6022,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hiep Duc"@eng-Latn ,
         "Huyện Hiệp Đức"@vie-Latn ;
-    wdata:q7200235 "VN50319" ;
+    wdata:Q7200235 "VN50319" ;
 .
 
 <urn:mdciii:1603:16:704:2:50321>
@@ -6036,7 +6036,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tien Phuoc"@eng-Latn ,
         "Huyện Tiên Phước"@vie-Latn ;
-    wdata:q7200235 "VN50321" ;
+    wdata:Q7200235 "VN50321" ;
 .
 
 <urn:mdciii:1603:16:704:2:50323>
@@ -6050,7 +6050,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phuoc Son"@eng-Latn ,
         "Huyện Phước Sơn"@vie-Latn ;
-    wdata:q7200235 "VN50323" ;
+    wdata:Q7200235 "VN50323" ;
 .
 
 <urn:mdciii:1603:16:704:2:50325>
@@ -6064,7 +6064,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nui Thanh"@eng-Latn ,
         "Huyện Núi Thành"@vie-Latn ;
-    wdata:q7200235 "VN50325" ;
+    wdata:Q7200235 "VN50325" ;
 .
 
 <urn:mdciii:1603:16:704:2:50327>
@@ -6078,7 +6078,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bac Tra My"@eng-Latn ,
         "Huyện Bắc Trà My"@vie-Latn ;
-    wdata:q7200235 "VN50327" ;
+    wdata:Q7200235 "VN50327" ;
 .
 
 <urn:mdciii:1603:16:704:2:50328>
@@ -6092,7 +6092,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nam Tra My"@eng-Latn ,
         "Huyện Nam Trà My"@vie-Latn ;
-    wdata:q7200235 "VN50328" ;
+    wdata:Q7200235 "VN50328" ;
 .
 
 <urn:mdciii:1603:16:704:2:50329>
@@ -6106,7 +6106,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phu Ninh"@eng-Latn ,
         "Huyện Phú Ninh"@vie-Latn ;
-    wdata:q7200235 "VN50329" ;
+    wdata:Q7200235 "VN50329" ;
 .
 
 <urn:mdciii:1603:16:704:2:50501>
@@ -6120,7 +6120,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Quang Ngai"@eng-Latn ,
         "TP. Quảng Ngãi"@vie-Latn ;
-    wdata:q7200235 "VN50501" ;
+    wdata:Q7200235 "VN50501" ;
 .
 
 <urn:mdciii:1603:16:704:2:50503>
@@ -6134,7 +6134,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ly Son"@eng-Latn ,
         "Huyện Lý Sơn"@vie-Latn ;
-    wdata:q7200235 "VN50503" ;
+    wdata:Q7200235 "VN50503" ;
 .
 
 <urn:mdciii:1603:16:704:2:50505>
@@ -6148,7 +6148,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Binh Son"@eng-Latn ,
         "Huyện Bình Sơn"@vie-Latn ;
-    wdata:q7200235 "VN50505" ;
+    wdata:Q7200235 "VN50505" ;
 .
 
 <urn:mdciii:1603:16:704:2:50507>
@@ -6162,7 +6162,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tra Bong"@eng-Latn ,
         "Huyện Trà Bồng"@vie-Latn ;
-    wdata:q7200235 "VN50507" ;
+    wdata:Q7200235 "VN50507" ;
 .
 
 <urn:mdciii:1603:16:704:2:50508>
@@ -6176,7 +6176,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tay Tra"@eng-Latn ,
         "Huyện Tây Trà"@vie-Latn ;
-    wdata:q7200235 "VN50508" ;
+    wdata:Q7200235 "VN50508" ;
 .
 
 <urn:mdciii:1603:16:704:2:50509>
@@ -6190,7 +6190,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Son Tinh"@eng-Latn ,
         "Huyện Sơn Tịnh"@vie-Latn ;
-    wdata:q7200235 "VN50509" ;
+    wdata:Q7200235 "VN50509" ;
 .
 
 <urn:mdciii:1603:16:704:2:50511>
@@ -6204,7 +6204,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Son Tay"@eng-Latn ,
         "Huyện Sơn Tây"@vie-Latn ;
-    wdata:q7200235 "VN50511" ;
+    wdata:Q7200235 "VN50511" ;
 .
 
 <urn:mdciii:1603:16:704:2:50513>
@@ -6218,7 +6218,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Son Ha"@eng-Latn ,
         "Huyện Sơn Hà"@vie-Latn ;
-    wdata:q7200235 "VN50513" ;
+    wdata:Q7200235 "VN50513" ;
 .
 
 <urn:mdciii:1603:16:704:2:50515>
@@ -6232,7 +6232,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tu Nghia"@eng-Latn ,
         "Huyện Tư Nghĩa"@vie-Latn ;
-    wdata:q7200235 "VN50515" ;
+    wdata:Q7200235 "VN50515" ;
 .
 
 <urn:mdciii:1603:16:704:2:50517>
@@ -6246,7 +6246,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nghia Hanh"@eng-Latn ,
         "Huyện Nghĩa Hành"@vie-Latn ;
-    wdata:q7200235 "VN50517" ;
+    wdata:Q7200235 "VN50517" ;
 .
 
 <urn:mdciii:1603:16:704:2:50519>
@@ -6260,7 +6260,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Minh Long"@eng-Latn ,
         "Huyện Minh Long"@vie-Latn ;
-    wdata:q7200235 "VN50519" ;
+    wdata:Q7200235 "VN50519" ;
 .
 
 <urn:mdciii:1603:16:704:2:50521>
@@ -6274,7 +6274,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mo Duc"@eng-Latn ,
         "Huyện Mộ Đức"@vie-Latn ;
-    wdata:q7200235 "VN50521" ;
+    wdata:Q7200235 "VN50521" ;
 .
 
 <urn:mdciii:1603:16:704:2:50523>
@@ -6288,7 +6288,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Duc Pho"@eng-Latn ,
         "Huyện Đức Phổ"@vie-Latn ;
-    wdata:q7200235 "VN50523" ;
+    wdata:Q7200235 "VN50523" ;
 .
 
 <urn:mdciii:1603:16:704:2:50525>
@@ -6302,7 +6302,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ba To"@eng-Latn ,
         "Huyện Ba Tơ"@vie-Latn ;
-    wdata:q7200235 "VN50525" ;
+    wdata:Q7200235 "VN50525" ;
 .
 
 <urn:mdciii:1603:16:704:2:50701>
@@ -6316,7 +6316,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Quy Nhon"@eng-Latn ,
         "TP. Quy Nhơn"@vie-Latn ;
-    wdata:q7200235 "VN50701" ;
+    wdata:Q7200235 "VN50701" ;
 .
 
 <urn:mdciii:1603:16:704:2:50703>
@@ -6330,7 +6330,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "An Lao"@eng-Latn ,
         "Huyện An Lão"@vie-Latn ;
-    wdata:q7200235 "VN50703" ;
+    wdata:Q7200235 "VN50703" ;
 .
 
 <urn:mdciii:1603:16:704:2:50705>
@@ -6344,7 +6344,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hoai Nhon"@eng-Latn ,
         "Huyện Hoài Nhơn"@vie-Latn ;
-    wdata:q7200235 "VN50705" ;
+    wdata:Q7200235 "VN50705" ;
 .
 
 <urn:mdciii:1603:16:704:2:50707>
@@ -6358,7 +6358,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hoai An"@eng-Latn ,
         "Huyện Hoài Ân"@vie-Latn ;
-    wdata:q7200235 "VN50707" ;
+    wdata:Q7200235 "VN50707" ;
 .
 
 <urn:mdciii:1603:16:704:2:50709>
@@ -6372,7 +6372,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phu My"@eng-Latn ,
         "Huyện Phù Mỹ"@vie-Latn ;
-    wdata:q7200235 "VN50709" ;
+    wdata:Q7200235 "VN50709" ;
 .
 
 <urn:mdciii:1603:16:704:2:50711>
@@ -6386,7 +6386,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vinh Thanh"@eng-Latn ,
         "Huyện Vĩnh Thạnh"@vie-Latn ;
-    wdata:q7200235 "VN50711" ;
+    wdata:Q7200235 "VN50711" ;
 .
 
 <urn:mdciii:1603:16:704:2:50713>
@@ -6400,7 +6400,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phu Cat"@eng-Latn ,
         "Huyện Phù Cát"@vie-Latn ;
-    wdata:q7200235 "VN50713" ;
+    wdata:Q7200235 "VN50713" ;
 .
 
 <urn:mdciii:1603:16:704:2:50715>
@@ -6414,7 +6414,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tay Son"@eng-Latn ,
         "Huyện Tây Sơn"@vie-Latn ;
-    wdata:q7200235 "VN50715" ;
+    wdata:Q7200235 "VN50715" ;
 .
 
 <urn:mdciii:1603:16:704:2:50717>
@@ -6428,7 +6428,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "An Nhon"@eng-Latn ,
         "Thị xã An Nhơn"@vie-Latn ;
-    wdata:q7200235 "VN50717" ;
+    wdata:Q7200235 "VN50717" ;
 .
 
 <urn:mdciii:1603:16:704:2:50719>
@@ -6442,7 +6442,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tuy Phuoc"@eng-Latn ,
         "Huyện Tuy Phước"@vie-Latn ;
-    wdata:q7200235 "VN50719" ;
+    wdata:Q7200235 "VN50719" ;
 .
 
 <urn:mdciii:1603:16:704:2:50721>
@@ -6456,7 +6456,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Van Canh"@eng-Latn ,
         "Huyện Vân Canh"@vie-Latn ;
-    wdata:q7200235 "VN50721" ;
+    wdata:Q7200235 "VN50721" ;
 .
 
 <urn:mdciii:1603:16:704:2:50901>
@@ -6470,7 +6470,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tuy Hoa"@eng-Latn ,
         "TP. Tuy Hòa"@vie-Latn ;
-    wdata:q7200235 "VN50901" ;
+    wdata:Q7200235 "VN50901" ;
 .
 
 <urn:mdciii:1603:16:704:2:50903>
@@ -6484,7 +6484,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dong Xuan"@eng-Latn ,
         "Huyện Đồng Xuân"@vie-Latn ;
-    wdata:q7200235 "VN50903" ;
+    wdata:Q7200235 "VN50903" ;
 .
 
 <urn:mdciii:1603:16:704:2:50905>
@@ -6498,7 +6498,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Song Cau"@eng-Latn ,
         "Thị xã Sông Cầu"@vie-Latn ;
-    wdata:q7200235 "VN50905" ;
+    wdata:Q7200235 "VN50905" ;
 .
 
 <urn:mdciii:1603:16:704:2:50907>
@@ -6512,7 +6512,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tuy An"@eng-Latn ,
         "Huyện Tuy An"@vie-Latn ;
-    wdata:q7200235 "VN50907" ;
+    wdata:Q7200235 "VN50907" ;
 .
 
 <urn:mdciii:1603:16:704:2:50909>
@@ -6526,7 +6526,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Son Hoa"@eng-Latn ,
         "Huyện Sơn Hòa"@vie-Latn ;
-    wdata:q7200235 "VN50909" ;
+    wdata:Q7200235 "VN50909" ;
 .
 
 <urn:mdciii:1603:16:704:2:50910>
@@ -6540,7 +6540,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phu Hoa"@eng-Latn ,
         "Huyện Phú Hòa"@vie-Latn ;
-    wdata:q7200235 "VN50910" ;
+    wdata:Q7200235 "VN50910" ;
 .
 
 <urn:mdciii:1603:16:704:2:50911>
@@ -6554,7 +6554,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tay Hoa"@eng-Latn ,
         "Huyện Tây Hòa"@vie-Latn ;
-    wdata:q7200235 "VN50911" ;
+    wdata:Q7200235 "VN50911" ;
 .
 
 <urn:mdciii:1603:16:704:2:50912>
@@ -6568,7 +6568,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dong Hoa"@eng-Latn ,
         "Huyện Đông Hòa"@vie-Latn ;
-    wdata:q7200235 "VN50912" ;
+    wdata:Q7200235 "VN50912" ;
 .
 
 <urn:mdciii:1603:16:704:2:50913>
@@ -6582,7 +6582,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Song Hinh"@eng-Latn ,
         "Huyện Sông Hinh"@vie-Latn ;
-    wdata:q7200235 "VN50913" ;
+    wdata:Q7200235 "VN50913" ;
 .
 
 <urn:mdciii:1603:16:704:2:51101>
@@ -6596,7 +6596,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nha Trang"@eng-Latn ,
         "TP. Nha Trang"@vie-Latn ;
-    wdata:q7200235 "VN51101" ;
+    wdata:Q7200235 "VN51101" ;
 .
 
 <urn:mdciii:1603:16:704:2:51102>
@@ -6610,7 +6610,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cam Ranh"@eng-Latn ,
         "TP. Cam Ranh"@vie-Latn ;
-    wdata:q7200235 "VN51102" ;
+    wdata:Q7200235 "VN51102" ;
 .
 
 <urn:mdciii:1603:16:704:2:51103>
@@ -6624,7 +6624,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Van Ninh"@eng-Latn ,
         "Huyện Vạn Ninh"@vie-Latn ;
-    wdata:q7200235 "VN51103" ;
+    wdata:Q7200235 "VN51103" ;
 .
 
 <urn:mdciii:1603:16:704:2:51105>
@@ -6638,7 +6638,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ninh Hoa"@eng-Latn ,
         "Thị xã Ninh Hòa"@vie-Latn ;
-    wdata:q7200235 "VN51105" ;
+    wdata:Q7200235 "VN51105" ;
 .
 
 <urn:mdciii:1603:16:704:2:51107>
@@ -6652,7 +6652,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dien Khanh"@eng-Latn ,
         "Huyện Diên Khánh"@vie-Latn ;
-    wdata:q7200235 "VN51107" ;
+    wdata:Q7200235 "VN51107" ;
 .
 
 <urn:mdciii:1603:16:704:2:51108>
@@ -6666,7 +6666,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cam Lam"@eng-Latn ,
         "Huyện Cam Lâm"@vie-Latn ;
-    wdata:q7200235 "VN51108" ;
+    wdata:Q7200235 "VN51108" ;
 .
 
 <urn:mdciii:1603:16:704:2:51111>
@@ -6680,7 +6680,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Khanh Vinh"@eng-Latn ,
         "Huyện Khánh Vĩnh"@vie-Latn ;
-    wdata:q7200235 "VN51111" ;
+    wdata:Q7200235 "VN51111" ;
 .
 
 <urn:mdciii:1603:16:704:2:51113>
@@ -6694,7 +6694,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Khanh Son"@eng-Latn ,
         "Huyện Khánh Sơn"@vie-Latn ;
-    wdata:q7200235 "VN51113" ;
+    wdata:Q7200235 "VN51113" ;
 .
 
 <urn:mdciii:1603:16:704:2:51190>
@@ -6708,7 +6708,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Truong Sa"@eng-Latn ,
         "Huyện Trường Sa"@vie-Latn ;
-    wdata:q7200235 "VN51190" ;
+    wdata:Q7200235 "VN51190" ;
 .
 
 <urn:mdciii:1603:16:704:2:60101>
@@ -6722,7 +6722,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kon Tum"@eng-Latn ,
         "TP. Kon Tum"@vie-Latn ;
-    wdata:q7200235 "VN60101" ;
+    wdata:Q7200235 "VN60101" ;
 .
 
 <urn:mdciii:1603:16:704:2:60103>
@@ -6736,7 +6736,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dak Glei"@eng-Latn ,
         "Huyện Đắk Glei"@vie-Latn ;
-    wdata:q7200235 "VN60103" ;
+    wdata:Q7200235 "VN60103" ;
 .
 
 <urn:mdciii:1603:16:704:2:60105>
@@ -6750,7 +6750,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ngoc Hoi"@eng-Latn ,
         "Huyện Ngọc Hồi"@vie-Latn ;
-    wdata:q7200235 "VN60105" ;
+    wdata:Q7200235 "VN60105" ;
 .
 
 <urn:mdciii:1603:16:704:2:60107>
@@ -6764,7 +6764,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dak To"@eng-Latn ,
         "Huyện Đắk Tô"@vie-Latn ;
-    wdata:q7200235 "VN60107" ;
+    wdata:Q7200235 "VN60107" ;
 .
 
 <urn:mdciii:1603:16:704:2:60108>
@@ -6778,7 +6778,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kon Ray"@eng-Latn ,
         "Huyện Kon Rẫy"@vie-Latn ;
-    wdata:q7200235 "VN60108" ;
+    wdata:Q7200235 "VN60108" ;
 .
 
 <urn:mdciii:1603:16:704:2:60109>
@@ -6792,7 +6792,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kon Plong"@eng-Latn ,
         "Huyện Kon Plông"@vie-Latn ;
-    wdata:q7200235 "VN60109" ;
+    wdata:Q7200235 "VN60109" ;
 .
 
 <urn:mdciii:1603:16:704:2:60111>
@@ -6806,7 +6806,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dak Ha"@eng-Latn ,
         "Huyện Đắk Hà"@vie-Latn ;
-    wdata:q7200235 "VN60111" ;
+    wdata:Q7200235 "VN60111" ;
 .
 
 <urn:mdciii:1603:16:704:2:60113>
@@ -6820,7 +6820,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sa Thay"@eng-Latn ,
         "Huyện Sa Thầy"@vie-Latn ;
-    wdata:q7200235 "VN60113" ;
+    wdata:Q7200235 "VN60113" ;
 .
 
 <urn:mdciii:1603:16:704:2:60114>
@@ -6834,7 +6834,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tu Mo Rong"@eng-Latn ,
         "Huyện Tu Mơ Rông"@vie-Latn ;
-    wdata:q7200235 "VN60114" ;
+    wdata:Q7200235 "VN60114" ;
 .
 
 <urn:mdciii:1603:16:704:2:60301>
@@ -6848,7 +6848,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Pleiku"@eng-Latn ,
         "TP. Pleiku"@vie-Latn ;
-    wdata:q7200235 "VN60301" ;
+    wdata:Q7200235 "VN60301" ;
 .
 
 <urn:mdciii:1603:16:704:2:60303>
@@ -6862,7 +6862,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "KBang"@eng-Latn ,
         "Huyện KBang"@vie-Latn ;
-    wdata:q7200235 "VN60303" ;
+    wdata:Q7200235 "VN60303" ;
 .
 
 <urn:mdciii:1603:16:704:2:60305>
@@ -6876,7 +6876,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dak Doa"@eng-Latn ,
         "Huyện Đắk Đoa"@vie-Latn ;
-    wdata:q7200235 "VN60305" ;
+    wdata:Q7200235 "VN60305" ;
 .
 
 <urn:mdciii:1603:16:704:2:60306>
@@ -6890,7 +6890,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mang Yang"@eng-Latn ,
         "Huyện Mang Yang"@vie-Latn ;
-    wdata:q7200235 "VN60306" ;
+    wdata:Q7200235 "VN60306" ;
 .
 
 <urn:mdciii:1603:16:704:2:60307>
@@ -6904,7 +6904,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chu Pah"@eng-Latn ,
         "Huyện Chư Păh"@vie-Latn ;
-    wdata:q7200235 "VN60307" ;
+    wdata:Q7200235 "VN60307" ;
 .
 
 <urn:mdciii:1603:16:704:2:60309>
@@ -6918,7 +6918,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ia Grai"@eng-Latn ,
         "Huyện Ia Grai"@vie-Latn ;
-    wdata:q7200235 "VN60309" ;
+    wdata:Q7200235 "VN60309" ;
 .
 
 <urn:mdciii:1603:16:704:2:60311>
@@ -6932,7 +6932,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "An Khe"@eng-Latn ,
         "Thị xã An Khê"@vie-Latn ;
-    wdata:q7200235 "VN60311" ;
+    wdata:Q7200235 "VN60311" ;
 .
 
 <urn:mdciii:1603:16:704:2:60312>
@@ -6946,7 +6946,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dak Po"@eng-Latn ,
         "Huyện Đắk Pơ"@vie-Latn ;
-    wdata:q7200235 "VN60312" ;
+    wdata:Q7200235 "VN60312" ;
 .
 
 <urn:mdciii:1603:16:704:2:60313>
@@ -6960,7 +6960,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kong Chro"@eng-Latn ,
         "Huyện Kông Chro"@vie-Latn ;
-    wdata:q7200235 "VN60313" ;
+    wdata:Q7200235 "VN60313" ;
 .
 
 <urn:mdciii:1603:16:704:2:60315>
@@ -6974,7 +6974,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Duc Co"@eng-Latn ,
         "Huyện Đức Cơ"@vie-Latn ;
-    wdata:q7200235 "VN60315" ;
+    wdata:Q7200235 "VN60315" ;
 .
 
 <urn:mdciii:1603:16:704:2:60317>
@@ -6988,7 +6988,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chu Prong"@eng-Latn ,
         "Huyện Chư Prông"@vie-Latn ;
-    wdata:q7200235 "VN60317" ;
+    wdata:Q7200235 "VN60317" ;
 .
 
 <urn:mdciii:1603:16:704:2:60319>
@@ -7002,7 +7002,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chu Se"@eng-Latn ,
         "Huyện Chư Sê"@vie-Latn ;
-    wdata:q7200235 "VN60319" ;
+    wdata:Q7200235 "VN60319" ;
 .
 
 <urn:mdciii:1603:16:704:2:60321>
@@ -7016,7 +7016,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ayun Pa"@eng-Latn ,
         "Thị xã Ayun Pa"@vie-Latn ;
-    wdata:q7200235 "VN60321" ;
+    wdata:Q7200235 "VN60321" ;
 .
 
 <urn:mdciii:1603:16:704:2:60322>
@@ -7030,7 +7030,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ia Pa"@eng-Latn ,
         "Huyện Ia Pa"@vie-Latn ;
-    wdata:q7200235 "VN60322" ;
+    wdata:Q7200235 "VN60322" ;
 .
 
 <urn:mdciii:1603:16:704:2:60323>
@@ -7044,7 +7044,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Krong Pa"@eng-Latn ,
         "Huyện Krông Pa"@vie-Latn ;
-    wdata:q7200235 "VN60323" ;
+    wdata:Q7200235 "VN60323" ;
 .
 
 <urn:mdciii:1603:16:704:2:60324>
@@ -7058,7 +7058,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phu Thien"@eng-Latn ,
         "Huyện Phú Thiện"@vie-Latn ;
-    wdata:q7200235 "VN60324" ;
+    wdata:Q7200235 "VN60324" ;
 .
 
 <urn:mdciii:1603:16:704:2:60325>
@@ -7072,7 +7072,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chu Puh"@eng-Latn ,
         "Huyện Chư Pưh"@vie-Latn ;
-    wdata:q7200235 "VN60325" ;
+    wdata:Q7200235 "VN60325" ;
 .
 
 <urn:mdciii:1603:16:704:2:60501>
@@ -7086,7 +7086,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Buon Ma Thuot"@eng-Latn ,
         "TP. Buôn Ma Thuột"@vie-Latn ;
-    wdata:q7200235 "VN60501" ;
+    wdata:Q7200235 "VN60501" ;
 .
 
 <urn:mdciii:1603:16:704:2:60502>
@@ -7100,7 +7100,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Buon Ho"@eng-Latn ,
         "Thị xã Buôn Hồ"@vie-Latn ;
-    wdata:q7200235 "VN60502" ;
+    wdata:Q7200235 "VN60502" ;
 .
 
 <urn:mdciii:1603:16:704:2:60503>
@@ -7114,7 +7114,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "EA Hleo"@eng-Latn ,
         "Huyện Ea H'leo"@vie-Latn ;
-    wdata:q7200235 "VN60503" ;
+    wdata:Q7200235 "VN60503" ;
 .
 
 <urn:mdciii:1603:16:704:2:60505>
@@ -7128,7 +7128,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ea Sup"@eng-Latn ,
         "Huyện Ea Súp"@vie-Latn ;
-    wdata:q7200235 "VN60505" ;
+    wdata:Q7200235 "VN60505" ;
 .
 
 <urn:mdciii:1603:16:704:2:60507>
@@ -7142,7 +7142,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Krong Nang"@eng-Latn ,
         "Huyện Krông Năng"@vie-Latn ;
-    wdata:q7200235 "VN60507" ;
+    wdata:Q7200235 "VN60507" ;
 .
 
 <urn:mdciii:1603:16:704:2:60509>
@@ -7156,7 +7156,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Krong Buk"@eng-Latn ,
         "Huyện Krông Búk"@vie-Latn ;
-    wdata:q7200235 "VN60509" ;
+    wdata:Q7200235 "VN60509" ;
 .
 
 <urn:mdciii:1603:16:704:2:60511>
@@ -7170,7 +7170,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Buon Don"@eng-Latn ,
         "Huyện Buôn Đôn"@vie-Latn ;
-    wdata:q7200235 "VN60511" ;
+    wdata:Q7200235 "VN60511" ;
 .
 
 <urn:mdciii:1603:16:704:2:60513>
@@ -7184,7 +7184,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cu Mgar"@eng-Latn ,
         "Huyện Cư M'gar"@vie-Latn ;
-    wdata:q7200235 "VN60513" ;
+    wdata:Q7200235 "VN60513" ;
 .
 
 <urn:mdciii:1603:16:704:2:60515>
@@ -7198,7 +7198,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ea Kar"@eng-Latn ,
         "Huyện Ea Kar"@vie-Latn ;
-    wdata:q7200235 "VN60515" ;
+    wdata:Q7200235 "VN60515" ;
 .
 
 <urn:mdciii:1603:16:704:2:60517>
@@ -7212,7 +7212,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mdrak District"@eng-Latn ,
         "Huyện M'Đrắk"@vie-Latn ;
-    wdata:q7200235 "VN60517" ;
+    wdata:Q7200235 "VN60517" ;
 .
 
 <urn:mdciii:1603:16:704:2:60519>
@@ -7226,7 +7226,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Krong Pac"@eng-Latn ,
         "Huyện Krông Pắc"@vie-Latn ;
-    wdata:q7200235 "VN60519" ;
+    wdata:Q7200235 "VN60519" ;
 .
 
 <urn:mdciii:1603:16:704:2:60523>
@@ -7240,7 +7240,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Krong A Na"@eng-Latn ,
         "Huyện Krông A Na"@vie-Latn ;
-    wdata:q7200235 "VN60523" ;
+    wdata:Q7200235 "VN60523" ;
 .
 
 <urn:mdciii:1603:16:704:2:60524>
@@ -7254,7 +7254,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cu Kuin"@eng-Latn ,
         "Huyện Cư Kuin"@vie-Latn ;
-    wdata:q7200235 "VN60524" ;
+    wdata:Q7200235 "VN60524" ;
 .
 
 <urn:mdciii:1603:16:704:2:60525>
@@ -7268,7 +7268,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Krong Bong"@eng-Latn ,
         "Huyện Krông Bông"@vie-Latn ;
-    wdata:q7200235 "VN60525" ;
+    wdata:Q7200235 "VN60525" ;
 .
 
 <urn:mdciii:1603:16:704:2:60531>
@@ -7282,7 +7282,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lak"@eng-Latn ,
         "Huyện Lắk"@vie-Latn ;
-    wdata:q7200235 "VN60531" ;
+    wdata:Q7200235 "VN60531" ;
 .
 
 <urn:mdciii:1603:16:704:2:60611>
@@ -7296,7 +7296,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gia Nghia"@eng-Latn ,
         "Thị xã Gia Nghĩa"@vie-Latn ;
-    wdata:q7200235 "VN60611" ;
+    wdata:Q7200235 "VN60611" ;
 .
 
 <urn:mdciii:1603:16:704:2:60621>
@@ -7310,7 +7310,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cu Jut"@eng-Latn ,
         "Huyện Cư Jút"@vie-Latn ;
-    wdata:q7200235 "VN60621" ;
+    wdata:Q7200235 "VN60621" ;
 .
 
 <urn:mdciii:1603:16:704:2:60627>
@@ -7324,7 +7324,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dak Mil"@eng-Latn ,
         "Huyện Đắk Mil"@vie-Latn ;
-    wdata:q7200235 "VN60627" ;
+    wdata:Q7200235 "VN60627" ;
 .
 
 <urn:mdciii:1603:16:704:2:60629>
@@ -7338,7 +7338,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Krong No"@eng-Latn ,
         "Huyện Krông Nô"@vie-Latn ;
-    wdata:q7200235 "VN60629" ;
+    wdata:Q7200235 "VN60629" ;
 .
 
 <urn:mdciii:1603:16:704:2:60632>
@@ -7352,7 +7352,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dak Song"@eng-Latn ,
         "Huyện Đắk Song"@vie-Latn ;
-    wdata:q7200235 "VN60632" ;
+    wdata:Q7200235 "VN60632" ;
 .
 
 <urn:mdciii:1603:16:704:2:60633>
@@ -7366,7 +7366,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dak Rlap"@eng-Latn ,
         "Huyện Đắk R'Lấp"@vie-Latn ;
-    wdata:q7200235 "VN60633" ;
+    wdata:Q7200235 "VN60633" ;
 .
 
 <urn:mdciii:1603:16:704:2:60634>
@@ -7380,7 +7380,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tuy Duc"@eng-Latn ,
         "Huyện Tuy Đức"@vie-Latn ;
-    wdata:q7200235 "VN60634" ;
+    wdata:Q7200235 "VN60634" ;
 .
 
 <urn:mdciii:1603:16:704:2:60635>
@@ -7394,7 +7394,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dak Glong"@eng-Latn ,
         "Huyện Đắk Glong"@vie-Latn ;
-    wdata:q7200235 "VN60635" ;
+    wdata:Q7200235 "VN60635" ;
 .
 
 <urn:mdciii:1603:16:704:2:60701>
@@ -7408,7 +7408,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Da Lat"@eng-Latn ,
         "TP. Đà Lạt"@vie-Latn ;
-    wdata:q7200235 "VN60701" ;
+    wdata:Q7200235 "VN60701" ;
 .
 
 <urn:mdciii:1603:16:704:2:60703>
@@ -7422,7 +7422,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bao Loc"@eng-Latn ,
         "TP. Bảo Lộc"@vie-Latn ;
-    wdata:q7200235 "VN60703" ;
+    wdata:Q7200235 "VN60703" ;
 .
 
 <urn:mdciii:1603:16:704:2:60705>
@@ -7436,7 +7436,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lac Duong"@eng-Latn ,
         "Huyện Lạc Dương"@vie-Latn ;
-    wdata:q7200235 "VN60705" ;
+    wdata:Q7200235 "VN60705" ;
 .
 
 <urn:mdciii:1603:16:704:2:60707>
@@ -7450,7 +7450,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Don Duong"@eng-Latn ,
         "Huyện Đơn Dương"@vie-Latn ;
-    wdata:q7200235 "VN60707" ;
+    wdata:Q7200235 "VN60707" ;
 .
 
 <urn:mdciii:1603:16:704:2:60709>
@@ -7464,7 +7464,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Duc Trong"@eng-Latn ,
         "Huyện Đức Trọng"@vie-Latn ;
-    wdata:q7200235 "VN60709" ;
+    wdata:Q7200235 "VN60709" ;
 .
 
 <urn:mdciii:1603:16:704:2:60711>
@@ -7478,7 +7478,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lam Ha"@eng-Latn ,
         "Huyện Lâm Hà"@vie-Latn ;
-    wdata:q7200235 "VN60711" ;
+    wdata:Q7200235 "VN60711" ;
 .
 
 <urn:mdciii:1603:16:704:2:60713>
@@ -7492,7 +7492,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bao Lam"@eng-Latn ,
         "Huyện Bảo Lâm"@vie-Latn ;
-    wdata:q7200235 "VN60713" ;
+    wdata:Q7200235 "VN60713" ;
 .
 
 <urn:mdciii:1603:16:704:2:60715>
@@ -7506,7 +7506,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Di Linh"@eng-Latn ,
         "Huyện Di Linh"@vie-Latn ;
-    wdata:q7200235 "VN60715" ;
+    wdata:Q7200235 "VN60715" ;
 .
 
 <urn:mdciii:1603:16:704:2:60717>
@@ -7520,7 +7520,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Da Huoai"@eng-Latn ,
         "Huyện Đạ Huoai"@vie-Latn ;
-    wdata:q7200235 "VN60717" ;
+    wdata:Q7200235 "VN60717" ;
 .
 
 <urn:mdciii:1603:16:704:2:60719>
@@ -7534,7 +7534,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Da Teh"@eng-Latn ,
         "Huyện Đạ Tẻh"@vie-Latn ;
-    wdata:q7200235 "VN60719" ;
+    wdata:Q7200235 "VN60719" ;
 .
 
 <urn:mdciii:1603:16:704:2:60721>
@@ -7548,7 +7548,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cat Tien"@eng-Latn ,
         "Huyện Cát Tiên"@vie-Latn ;
-    wdata:q7200235 "VN60721" ;
+    wdata:Q7200235 "VN60721" ;
 .
 
 <urn:mdciii:1603:16:704:2:60723>
@@ -7562,7 +7562,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dam Rong"@eng-Latn ,
         "Huyện Đam Rông"@vie-Latn ;
-    wdata:q7200235 "VN60723" ;
+    wdata:Q7200235 "VN60723" ;
 .
 
 <urn:mdciii:1603:16:704:2:70101>
@@ -7576,7 +7576,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Quan 1"@eng-Latn ,
         "Quận 1"@vie-Latn ;
-    wdata:q7200235 "VN70101" ;
+    wdata:Q7200235 "VN70101" ;
 .
 
 <urn:mdciii:1603:16:704:2:70103>
@@ -7590,7 +7590,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Quan 2"@eng-Latn ,
         "Quận 2"@vie-Latn ;
-    wdata:q7200235 "VN70103" ;
+    wdata:Q7200235 "VN70103" ;
 .
 
 <urn:mdciii:1603:16:704:2:70105>
@@ -7604,7 +7604,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Quan 3"@eng-Latn ,
         "Quận 3"@vie-Latn ;
-    wdata:q7200235 "VN70105" ;
+    wdata:Q7200235 "VN70105" ;
 .
 
 <urn:mdciii:1603:16:704:2:70107>
@@ -7618,7 +7618,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Quan 4"@eng-Latn ,
         "Quận 4"@vie-Latn ;
-    wdata:q7200235 "VN70107" ;
+    wdata:Q7200235 "VN70107" ;
 .
 
 <urn:mdciii:1603:16:704:2:70109>
@@ -7632,7 +7632,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Quan 5"@eng-Latn ,
         "Quận 5"@vie-Latn ;
-    wdata:q7200235 "VN70109" ;
+    wdata:Q7200235 "VN70109" ;
 .
 
 <urn:mdciii:1603:16:704:2:70111>
@@ -7646,7 +7646,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Quan 6"@eng-Latn ,
         "Quận 6"@vie-Latn ;
-    wdata:q7200235 "VN70111" ;
+    wdata:Q7200235 "VN70111" ;
 .
 
 <urn:mdciii:1603:16:704:2:70113>
@@ -7660,7 +7660,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Quan 7"@eng-Latn ,
         "Quận 7"@vie-Latn ;
-    wdata:q7200235 "VN70113" ;
+    wdata:Q7200235 "VN70113" ;
 .
 
 <urn:mdciii:1603:16:704:2:70115>
@@ -7674,7 +7674,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Quan 8"@eng-Latn ,
         "Quận 8"@vie-Latn ;
-    wdata:q7200235 "VN70115" ;
+    wdata:Q7200235 "VN70115" ;
 .
 
 <urn:mdciii:1603:16:704:2:70117>
@@ -7688,7 +7688,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Quan 9"@eng-Latn ,
         "Quận 9"@vie-Latn ;
-    wdata:q7200235 "VN70117" ;
+    wdata:Q7200235 "VN70117" ;
 .
 
 <urn:mdciii:1603:16:704:2:70119>
@@ -7702,7 +7702,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Quan 10"@eng-Latn ,
         "Quận 10"@vie-Latn ;
-    wdata:q7200235 "VN70119" ;
+    wdata:Q7200235 "VN70119" ;
 .
 
 <urn:mdciii:1603:16:704:2:70121>
@@ -7716,7 +7716,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Quan 11"@eng-Latn ,
         "Quận 11"@vie-Latn ;
-    wdata:q7200235 "VN70121" ;
+    wdata:Q7200235 "VN70121" ;
 .
 
 <urn:mdciii:1603:16:704:2:70123>
@@ -7730,7 +7730,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Quan 12"@eng-Latn ,
         "Quận 12"@vie-Latn ;
-    wdata:q7200235 "VN70123" ;
+    wdata:Q7200235 "VN70123" ;
 .
 
 <urn:mdciii:1603:16:704:2:70125>
@@ -7744,7 +7744,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Go Vap"@eng-Latn ,
         "Quận Gò Vấp"@vie-Latn ;
-    wdata:q7200235 "VN70125" ;
+    wdata:Q7200235 "VN70125" ;
 .
 
 <urn:mdciii:1603:16:704:2:70127>
@@ -7758,7 +7758,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tan Binh"@eng-Latn ,
         "Quận Tân Bình"@vie-Latn ;
-    wdata:q7200235 "VN70127" ;
+    wdata:Q7200235 "VN70127" ;
 .
 
 <urn:mdciii:1603:16:704:2:70128>
@@ -7772,7 +7772,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tan Phu"@eng-Latn ,
         "Quận Tân Phú"@vie-Latn ;
-    wdata:q7200235 "VN70128" ;
+    wdata:Q7200235 "VN70128" ;
 .
 
 <urn:mdciii:1603:16:704:2:70129>
@@ -7786,7 +7786,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Binh Thanh"@eng-Latn ,
         "Quận Bình Thạnh"@vie-Latn ;
-    wdata:q7200235 "VN70129" ;
+    wdata:Q7200235 "VN70129" ;
 .
 
 <urn:mdciii:1603:16:704:2:70131>
@@ -7800,7 +7800,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phu Nhuan"@eng-Latn ,
         "Quận Phú Nhuận"@vie-Latn ;
-    wdata:q7200235 "VN70131" ;
+    wdata:Q7200235 "VN70131" ;
 .
 
 <urn:mdciii:1603:16:704:2:70133>
@@ -7814,7 +7814,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thu Duc"@eng-Latn ,
         "Quận Thủ Đức"@vie-Latn ;
-    wdata:q7200235 "VN70133" ;
+    wdata:Q7200235 "VN70133" ;
 .
 
 <urn:mdciii:1603:16:704:2:70135>
@@ -7828,7 +7828,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cu Chi"@eng-Latn ,
         "Huyện Củ Chi"@vie-Latn ;
-    wdata:q7200235 "VN70135" ;
+    wdata:Q7200235 "VN70135" ;
 .
 
 <urn:mdciii:1603:16:704:2:70137>
@@ -7842,7 +7842,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hoc Mon"@eng-Latn ,
         "Huyện Hóc Môn"@vie-Latn ;
-    wdata:q7200235 "VN70137" ;
+    wdata:Q7200235 "VN70137" ;
 .
 
 <urn:mdciii:1603:16:704:2:70139>
@@ -7856,7 +7856,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Binh Chanh"@eng-Latn ,
         "Huyện Bình Chánh"@vie-Latn ;
-    wdata:q7200235 "VN70139" ;
+    wdata:Q7200235 "VN70139" ;
 .
 
 <urn:mdciii:1603:16:704:2:70140>
@@ -7870,7 +7870,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Binh Tan"@eng-Latn ,
         "Quận Bình Tân"@vie-Latn ;
-    wdata:q7200235 "VN70140" ;
+    wdata:Q7200235 "VN70140" ;
 .
 
 <urn:mdciii:1603:16:704:2:70141>
@@ -7884,7 +7884,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nha Be"@eng-Latn ,
         "Huyện Nhà Bè"@vie-Latn ;
-    wdata:q7200235 "VN70141" ;
+    wdata:Q7200235 "VN70141" ;
 .
 
 <urn:mdciii:1603:16:704:2:70143>
@@ -7898,7 +7898,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Can Gio"@eng-Latn ,
         "Huyện Cần Giờ"@vie-Latn ;
-    wdata:q7200235 "VN70143" ;
+    wdata:Q7200235 "VN70143" ;
 .
 
 <urn:mdciii:1603:16:704:2:70501>
@@ -7912,7 +7912,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phan Rang-Thap Cham"@eng-Latn ,
         "TP. Phan Rang-Tháp Chàm"@vie-Latn ;
-    wdata:q7200235 "VN70501" ;
+    wdata:Q7200235 "VN70501" ;
 .
 
 <urn:mdciii:1603:16:704:2:70503>
@@ -7926,7 +7926,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ninh Son"@eng-Latn ,
         "Huyện Ninh Sơn"@vie-Latn ;
-    wdata:q7200235 "VN70503" ;
+    wdata:Q7200235 "VN70503" ;
 .
 
 <urn:mdciii:1603:16:704:2:70504>
@@ -7940,7 +7940,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bac Ai"@eng-Latn ,
         "Huyện Bác Ái"@vie-Latn ;
-    wdata:q7200235 "VN70504" ;
+    wdata:Q7200235 "VN70504" ;
 .
 
 <urn:mdciii:1603:16:704:2:70505>
@@ -7954,7 +7954,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ninh Hai"@eng-Latn ,
         "Huyện Ninh Hải"@vie-Latn ;
-    wdata:q7200235 "VN70505" ;
+    wdata:Q7200235 "VN70505" ;
 .
 
 <urn:mdciii:1603:16:704:2:70506>
@@ -7968,7 +7968,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thuan Bac"@eng-Latn ,
         "Huyện Thuận Bắc"@vie-Latn ;
-    wdata:q7200235 "VN70506" ;
+    wdata:Q7200235 "VN70506" ;
 .
 
 <urn:mdciii:1603:16:704:2:70507>
@@ -7982,7 +7982,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ninh Phuoc"@eng-Latn ,
         "Huyện Ninh Phước"@vie-Latn ;
-    wdata:q7200235 "VN70507" ;
+    wdata:Q7200235 "VN70507" ;
 .
 
 <urn:mdciii:1603:16:704:2:70508>
@@ -7996,7 +7996,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thuan Nam"@eng-Latn ,
         "Huyện Thuận Nam"@vie-Latn ;
-    wdata:q7200235 "VN70508" ;
+    wdata:Q7200235 "VN70508" ;
 .
 
 <urn:mdciii:1603:16:704:2:70701>
@@ -8010,7 +8010,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dong Xoai"@eng-Latn ,
         "Thị xã Đồng Xoài"@vie-Latn ;
-    wdata:q7200235 "VN70701" ;
+    wdata:Q7200235 "VN70701" ;
 .
 
 <urn:mdciii:1603:16:704:2:70702>
@@ -8024,7 +8024,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dong Phu"@eng-Latn ,
         "Huyện Đồng Phú"@vie-Latn ;
-    wdata:q7200235 "VN70702" ;
+    wdata:Q7200235 "VN70702" ;
 .
 
 <urn:mdciii:1603:16:704:2:70703>
@@ -8038,7 +8038,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phuoc Long"@eng-Latn ,
         "Thị xã Phước Long"@vie-Latn ;
-    wdata:q7200235 "VN70703" ;
+    wdata:Q7200235 "VN70703" ;
 .
 
 <urn:mdciii:1603:16:704:2:70705>
@@ -8052,7 +8052,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Loc Ninh"@eng-Latn ,
         "Huyện Lộc Ninh"@vie-Latn ;
-    wdata:q7200235 "VN70705" ;
+    wdata:Q7200235 "VN70705" ;
 .
 
 <urn:mdciii:1603:16:704:2:70706>
@@ -8066,7 +8066,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bu Dop"@eng-Latn ,
         "Huyện Bù Đốp"@vie-Latn ;
-    wdata:q7200235 "VN70706" ;
+    wdata:Q7200235 "VN70706" ;
 .
 
 <urn:mdciii:1603:16:704:2:70707>
@@ -8080,7 +8080,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bu Dang"@eng-Latn ,
         "Huyện Bù Đăng"@vie-Latn ;
-    wdata:q7200235 "VN70707" ;
+    wdata:Q7200235 "VN70707" ;
 .
 
 <urn:mdciii:1603:16:704:2:70708>
@@ -8094,7 +8094,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chon Thanh"@eng-Latn ,
         "Huyện Chơn Thành"@vie-Latn ;
-    wdata:q7200235 "VN70708" ;
+    wdata:Q7200235 "VN70708" ;
 .
 
 <urn:mdciii:1603:16:704:2:70709>
@@ -8108,7 +8108,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Binh Long"@eng-Latn ,
         "Thị xã Bình Long"@vie-Latn ;
-    wdata:q7200235 "VN70709" ;
+    wdata:Q7200235 "VN70709" ;
 .
 
 <urn:mdciii:1603:16:704:2:70710>
@@ -8122,7 +8122,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hon Quan"@eng-Latn ,
         "Huyện Hớn Quản"@vie-Latn ;
-    wdata:q7200235 "VN70710" ;
+    wdata:Q7200235 "VN70710" ;
 .
 
 <urn:mdciii:1603:16:704:2:70711>
@@ -8136,7 +8136,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bu Gia Map"@eng-Latn ,
         "Huyện Bù Gia Mập"@vie-Latn ;
-    wdata:q7200235 "VN70711" ;
+    wdata:Q7200235 "VN70711" ;
 .
 
 <urn:mdciii:1603:16:704:2:70901>
@@ -8150,7 +8150,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tay Ninh"@eng-Latn ,
         "TP. Tây Ninh"@vie-Latn ;
-    wdata:q7200235 "VN70901" ;
+    wdata:Q7200235 "VN70901" ;
 .
 
 <urn:mdciii:1603:16:704:2:70903>
@@ -8164,7 +8164,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tan Bien"@eng-Latn ,
         "Huyện Tân Biên"@vie-Latn ;
-    wdata:q7200235 "VN70903" ;
+    wdata:Q7200235 "VN70903" ;
 .
 
 <urn:mdciii:1603:16:704:2:70905>
@@ -8178,7 +8178,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tan Chau"@eng-Latn ,
         "Huyện Tân Châu"@vie-Latn ;
-    wdata:q7200235 "VN70905" ;
+    wdata:Q7200235 "VN70905" ;
 .
 
 <urn:mdciii:1603:16:704:2:70907>
@@ -8192,7 +8192,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Duong Minh Chau"@eng-Latn ,
         "Huyện Dương Minh Châu"@vie-Latn ;
-    wdata:q7200235 "VN70907" ;
+    wdata:Q7200235 "VN70907" ;
 .
 
 <urn:mdciii:1603:16:704:2:70909>
@@ -8206,7 +8206,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chau Thanh"@eng-Latn ,
         "Huyện Châu Thành"@vie-Latn ;
-    wdata:q7200235 "VN70909" ;
+    wdata:Q7200235 "VN70909" ;
 .
 
 <urn:mdciii:1603:16:704:2:70911>
@@ -8220,7 +8220,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hoa Thanh"@eng-Latn ,
         "Huyện Hòa Thành"@vie-Latn ;
-    wdata:q7200235 "VN70911" ;
+    wdata:Q7200235 "VN70911" ;
 .
 
 <urn:mdciii:1603:16:704:2:70913>
@@ -8234,7 +8234,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ben Cau"@eng-Latn ,
         "Huyện Bến Cầu"@vie-Latn ;
-    wdata:q7200235 "VN70913" ;
+    wdata:Q7200235 "VN70913" ;
 .
 
 <urn:mdciii:1603:16:704:2:70915>
@@ -8248,7 +8248,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Go Dau"@eng-Latn ,
         "Huyện Gò Dầu"@vie-Latn ;
-    wdata:q7200235 "VN70915" ;
+    wdata:Q7200235 "VN70915" ;
 .
 
 <urn:mdciii:1603:16:704:2:70917>
@@ -8262,7 +8262,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Trang Bang"@eng-Latn ,
         "Huyện Trảng Bàng"@vie-Latn ;
-    wdata:q7200235 "VN70917" ;
+    wdata:Q7200235 "VN70917" ;
 .
 
 <urn:mdciii:1603:16:704:2:71101>
@@ -8276,7 +8276,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thu Dau Mot"@eng-Latn ,
         "TP. Thủ Dầu Một"@vie-Latn ;
-    wdata:q7200235 "VN71101" ;
+    wdata:Q7200235 "VN71101" ;
 .
 
 <urn:mdciii:1603:16:704:2:71102>
@@ -8290,7 +8290,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dau Tieng"@eng-Latn ,
         "Huyện Dầu Tiếng"@vie-Latn ;
-    wdata:q7200235 "VN71102" ;
+    wdata:Q7200235 "VN71102" ;
 .
 
 <urn:mdciii:1603:16:704:2:71103>
@@ -8304,7 +8304,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ben Cat"@eng-Latn ,
         "Thị xã Bến Cát"@vie-Latn ;
-    wdata:q7200235 "VN71103" ;
+    wdata:Q7200235 "VN71103" ;
 .
 
 <urn:mdciii:1603:16:704:2:71104>
@@ -8318,7 +8318,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phu Giao"@eng-Latn ,
         "Huyện Phú Giáo"@vie-Latn ;
-    wdata:q7200235 "VN71104" ;
+    wdata:Q7200235 "VN71104" ;
 .
 
 <urn:mdciii:1603:16:704:2:71105>
@@ -8332,7 +8332,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tan Uyen"@eng-Latn ,
         "Thị xã Tân Uyên"@vie-Latn ;
-    wdata:q7200235 "VN71105" ;
+    wdata:Q7200235 "VN71105" ;
 .
 
 <urn:mdciii:1603:16:704:2:71107>
@@ -8346,7 +8346,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thuan An"@eng-Latn ,
         "Thị xã Thuận An"@vie-Latn ;
-    wdata:q7200235 "VN71107" ;
+    wdata:Q7200235 "VN71107" ;
 .
 
 <urn:mdciii:1603:16:704:2:71108>
@@ -8360,7 +8360,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Di An"@eng-Latn ,
         "Thị xã Dĩ An"@vie-Latn ;
-    wdata:q7200235 "VN71108" ;
+    wdata:Q7200235 "VN71108" ;
 .
 
 <urn:mdciii:1603:16:704:2:71109>
@@ -8374,7 +8374,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bac Tan Uyen"@eng-Latn ,
         "Huyện Bắc Tân Uyên"@vie-Latn ;
-    wdata:q7200235 "VN71109" ;
+    wdata:Q7200235 "VN71109" ;
 .
 
 <urn:mdciii:1603:16:704:2:71110>
@@ -8388,7 +8388,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bau Bang"@eng-Latn ,
         "Huyện Bàu Bàng"@vie-Latn ;
-    wdata:q7200235 "VN71110" ;
+    wdata:Q7200235 "VN71110" ;
 .
 
 <urn:mdciii:1603:16:704:2:71301>
@@ -8402,7 +8402,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bien Hoa"@eng-Latn ,
         "TP. Biên Hòa"@vie-Latn ;
-    wdata:q7200235 "VN71301" ;
+    wdata:Q7200235 "VN71301" ;
 .
 
 <urn:mdciii:1603:16:704:2:71303>
@@ -8416,7 +8416,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tan Phu"@eng-Latn ,
         "Huyện Tân Phú"@vie-Latn ;
-    wdata:q7200235 "VN71303" ;
+    wdata:Q7200235 "VN71303" ;
 .
 
 <urn:mdciii:1603:16:704:2:71305>
@@ -8430,7 +8430,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dinh Quan"@eng-Latn ,
         "Huyện Định Quán"@vie-Latn ;
-    wdata:q7200235 "VN71305" ;
+    wdata:Q7200235 "VN71305" ;
 .
 
 <urn:mdciii:1603:16:704:2:71307>
@@ -8444,7 +8444,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vinh Cuu"@eng-Latn ,
         "Huyện Vĩnh Cửu"@vie-Latn ;
-    wdata:q7200235 "VN71307" ;
+    wdata:Q7200235 "VN71307" ;
 .
 
 <urn:mdciii:1603:16:704:2:71309>
@@ -8458,7 +8458,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thong Nhat"@eng-Latn ,
         "Huyện Thống Nhất"@vie-Latn ;
-    wdata:q7200235 "VN71309" ;
+    wdata:Q7200235 "VN71309" ;
 .
 
 <urn:mdciii:1603:16:704:2:71310>
@@ -8472,7 +8472,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Trang Bom"@eng-Latn ,
         "Huyện Trảng Bom"@vie-Latn ;
-    wdata:q7200235 "VN71310" ;
+    wdata:Q7200235 "VN71310" ;
 .
 
 <urn:mdciii:1603:16:704:2:71311>
@@ -8486,7 +8486,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Long Khanh"@eng-Latn ,
         "Thị xã Long Khánh"@vie-Latn ;
-    wdata:q7200235 "VN71311" ;
+    wdata:Q7200235 "VN71311" ;
 .
 
 <urn:mdciii:1603:16:704:2:71312>
@@ -8500,7 +8500,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cam My"@eng-Latn ,
         "Huyện Cẩm Mỹ"@vie-Latn ;
-    wdata:q7200235 "VN71312" ;
+    wdata:Q7200235 "VN71312" ;
 .
 
 <urn:mdciii:1603:16:704:2:71313>
@@ -8514,7 +8514,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xuan Loc"@eng-Latn ,
         "Huyện Xuân Lộc"@vie-Latn ;
-    wdata:q7200235 "VN71313" ;
+    wdata:Q7200235 "VN71313" ;
 .
 
 <urn:mdciii:1603:16:704:2:71315>
@@ -8528,7 +8528,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Long Thanh"@eng-Latn ,
         "Huyện Long Thành"@vie-Latn ;
-    wdata:q7200235 "VN71315" ;
+    wdata:Q7200235 "VN71315" ;
 .
 
 <urn:mdciii:1603:16:704:2:71317>
@@ -8542,7 +8542,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nhon Trach"@eng-Latn ,
         "Huyện Nhơn Trạch"@vie-Latn ;
-    wdata:q7200235 "VN71317" ;
+    wdata:Q7200235 "VN71317" ;
 .
 
 <urn:mdciii:1603:16:704:2:71501>
@@ -8556,7 +8556,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phan Thiet"@eng-Latn ,
         "TP. Phan Thiết"@vie-Latn ;
-    wdata:q7200235 "VN71501" ;
+    wdata:Q7200235 "VN71501" ;
 .
 
 <urn:mdciii:1603:16:704:2:71502>
@@ -8570,7 +8570,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "La Gi"@eng-Latn ,
         "Thị xã La Gi"@vie-Latn ;
-    wdata:q7200235 "VN71502" ;
+    wdata:Q7200235 "VN71502" ;
 .
 
 <urn:mdciii:1603:16:704:2:71503>
@@ -8584,7 +8584,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tuy Phong"@eng-Latn ,
         "Huyện Tuy Phong"@vie-Latn ;
-    wdata:q7200235 "VN71503" ;
+    wdata:Q7200235 "VN71503" ;
 .
 
 <urn:mdciii:1603:16:704:2:71505>
@@ -8598,7 +8598,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bac Binh"@eng-Latn ,
         "Huyện Bắc Bình"@vie-Latn ;
-    wdata:q7200235 "VN71505" ;
+    wdata:Q7200235 "VN71505" ;
 .
 
 <urn:mdciii:1603:16:704:2:71507>
@@ -8612,7 +8612,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ham Thuan Bac"@eng-Latn ,
         "Huyện Hàm Thuận Bắc"@vie-Latn ;
-    wdata:q7200235 "VN71507" ;
+    wdata:Q7200235 "VN71507" ;
 .
 
 <urn:mdciii:1603:16:704:2:71509>
@@ -8626,7 +8626,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ham Thuan Nam"@eng-Latn ,
         "Huyện Hàm Thuận Nam"@vie-Latn ;
-    wdata:q7200235 "VN71509" ;
+    wdata:Q7200235 "VN71509" ;
 .
 
 <urn:mdciii:1603:16:704:2:71511>
@@ -8640,7 +8640,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tanh Linh"@eng-Latn ,
         "Huyện Tánh Linh"@vie-Latn ;
-    wdata:q7200235 "VN71511" ;
+    wdata:Q7200235 "VN71511" ;
 .
 
 <urn:mdciii:1603:16:704:2:71513>
@@ -8654,7 +8654,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ham Tan"@eng-Latn ,
         "Huyện Hàm Tân"@vie-Latn ;
-    wdata:q7200235 "VN71513" ;
+    wdata:Q7200235 "VN71513" ;
 .
 
 <urn:mdciii:1603:16:704:2:71515>
@@ -8668,7 +8668,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Duc Linh"@eng-Latn ,
         "Huyện Đức Linh"@vie-Latn ;
-    wdata:q7200235 "VN71515" ;
+    wdata:Q7200235 "VN71515" ;
 .
 
 <urn:mdciii:1603:16:704:2:71517>
@@ -8682,7 +8682,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phu Quy"@eng-Latn ,
         "Huyện Phú Quý"@vie-Latn ;
-    wdata:q7200235 "VN71517" ;
+    wdata:Q7200235 "VN71517" ;
 .
 
 <urn:mdciii:1603:16:704:2:71701>
@@ -8696,7 +8696,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vung Tau"@eng-Latn ,
         "TP. Vũng Tàu"@vie-Latn ;
-    wdata:q7200235 "VN71701" ;
+    wdata:Q7200235 "VN71701" ;
 .
 
 <urn:mdciii:1603:16:704:2:71703>
@@ -8710,7 +8710,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ba Ria"@eng-Latn ,
         "TP. Bà Rịa"@vie-Latn ;
-    wdata:q7200235 "VN71703" ;
+    wdata:Q7200235 "VN71703" ;
 .
 
 <urn:mdciii:1603:16:704:2:71705>
@@ -8724,7 +8724,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chau Duc"@eng-Latn ,
         "Huyện Châu Đức"@vie-Latn ;
-    wdata:q7200235 "VN71705" ;
+    wdata:Q7200235 "VN71705" ;
 .
 
 <urn:mdciii:1603:16:704:2:71707>
@@ -8738,7 +8738,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xuyen Moc"@eng-Latn ,
         "Huyện Xuyên Mộc"@vie-Latn ;
-    wdata:q7200235 "VN71707" ;
+    wdata:Q7200235 "VN71707" ;
 .
 
 <urn:mdciii:1603:16:704:2:71709>
@@ -8752,7 +8752,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tan Thanh"@eng-Latn ,
         "Huyện Tân Thành"@vie-Latn ;
-    wdata:q7200235 "VN71709" ;
+    wdata:Q7200235 "VN71709" ;
 .
 
 <urn:mdciii:1603:16:704:2:71711>
@@ -8766,7 +8766,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dat Do"@eng-Latn ,
         "Huyện Đất Đỏ"@vie-Latn ;
-    wdata:q7200235 "VN71711" ;
+    wdata:Q7200235 "VN71711" ;
 .
 
 <urn:mdciii:1603:16:704:2:71712>
@@ -8780,7 +8780,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Long Dien"@eng-Latn ,
         "Huyện Long Điền"@vie-Latn ;
-    wdata:q7200235 "VN71712" ;
+    wdata:Q7200235 "VN71712" ;
 .
 
 <urn:mdciii:1603:16:704:2:71714>
@@ -8794,7 +8794,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Con Dao"@eng-Latn ,
         "Huyện Côn Đảo"@vie-Latn ;
-    wdata:q7200235 "VN71714" ;
+    wdata:Q7200235 "VN71714" ;
 .
 
 <urn:mdciii:1603:16:704:2:80101>
@@ -8808,7 +8808,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tan An"@eng-Latn ,
         "TP. Tân An"@vie-Latn ;
-    wdata:q7200235 "VN80101" ;
+    wdata:Q7200235 "VN80101" ;
 .
 
 <urn:mdciii:1603:16:704:2:80103>
@@ -8822,7 +8822,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tan Hung"@eng-Latn ,
         "Huyện Tân Hưng"@vie-Latn ;
-    wdata:q7200235 "VN80103" ;
+    wdata:Q7200235 "VN80103" ;
 .
 
 <urn:mdciii:1603:16:704:2:80105>
@@ -8836,7 +8836,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vinh Hung"@eng-Latn ,
         "Huyện Vĩnh Hưng"@vie-Latn ;
-    wdata:q7200235 "VN80105" ;
+    wdata:Q7200235 "VN80105" ;
 .
 
 <urn:mdciii:1603:16:704:2:80107>
@@ -8850,7 +8850,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Moc Hoa"@eng-Latn ,
         "Huyện Mộc Hóa"@vie-Latn ;
-    wdata:q7200235 "VN80107" ;
+    wdata:Q7200235 "VN80107" ;
 .
 
 <urn:mdciii:1603:16:704:2:80109>
@@ -8864,7 +8864,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tan Thanh"@eng-Latn ,
         "Huyện Tân Thạnh"@vie-Latn ;
-    wdata:q7200235 "VN80109" ;
+    wdata:Q7200235 "VN80109" ;
 .
 
 <urn:mdciii:1603:16:704:2:80111>
@@ -8878,7 +8878,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thanh Hoa"@eng-Latn ,
         "Huyện Thạnh Hóa"@vie-Latn ;
-    wdata:q7200235 "VN80111" ;
+    wdata:Q7200235 "VN80111" ;
 .
 
 <urn:mdciii:1603:16:704:2:80113>
@@ -8892,7 +8892,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Duc Hue"@eng-Latn ,
         "Huyện Đức Huệ"@vie-Latn ;
-    wdata:q7200235 "VN80113" ;
+    wdata:Q7200235 "VN80113" ;
 .
 
 <urn:mdciii:1603:16:704:2:80115>
@@ -8906,7 +8906,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Duc Hoa"@eng-Latn ,
         "Huyện Đức Hòa"@vie-Latn ;
-    wdata:q7200235 "VN80115" ;
+    wdata:Q7200235 "VN80115" ;
 .
 
 <urn:mdciii:1603:16:704:2:80117>
@@ -8920,7 +8920,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ben Luc"@eng-Latn ,
         "Huyện Bến Lức"@vie-Latn ;
-    wdata:q7200235 "VN80117" ;
+    wdata:Q7200235 "VN80117" ;
 .
 
 <urn:mdciii:1603:16:704:2:80119>
@@ -8934,7 +8934,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thu Thua"@eng-Latn ,
         "Huyện Thủ Thừa"@vie-Latn ;
-    wdata:q7200235 "VN80119" ;
+    wdata:Q7200235 "VN80119" ;
 .
 
 <urn:mdciii:1603:16:704:2:80121>
@@ -8948,7 +8948,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chau Thanh"@eng-Latn ,
         "Huyện Châu Thành"@vie-Latn ;
-    wdata:q7200235 "VN80121" ;
+    wdata:Q7200235 "VN80121" ;
 .
 
 <urn:mdciii:1603:16:704:2:80123>
@@ -8962,7 +8962,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tan Tru"@eng-Latn ,
         "Huyện Tân Trụ"@vie-Latn ;
-    wdata:q7200235 "VN80123" ;
+    wdata:Q7200235 "VN80123" ;
 .
 
 <urn:mdciii:1603:16:704:2:80125>
@@ -8976,7 +8976,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Can Duoc"@eng-Latn ,
         "Huyện Cần Đước"@vie-Latn ;
-    wdata:q7200235 "VN80125" ;
+    wdata:Q7200235 "VN80125" ;
 .
 
 <urn:mdciii:1603:16:704:2:80127>
@@ -8990,7 +8990,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Can Giuoc"@eng-Latn ,
         "Huyện Cần Giuộc"@vie-Latn ;
-    wdata:q7200235 "VN80127" ;
+    wdata:Q7200235 "VN80127" ;
 .
 
 <urn:mdciii:1603:16:704:2:80128>
@@ -9004,7 +9004,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kien Tuong"@eng-Latn ,
         "Thị xã Kiến Tường"@vie-Latn ;
-    wdata:q7200235 "VN80128" ;
+    wdata:Q7200235 "VN80128" ;
 .
 
 <urn:mdciii:1603:16:704:2:80301>
@@ -9018,7 +9018,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thi xa Cao Lanh"@eng-Latn ,
         "TP. Cao Lãnh"@vie-Latn ;
-    wdata:q7200235 "VN80301" ;
+    wdata:Q7200235 "VN80301" ;
 .
 
 <urn:mdciii:1603:16:704:2:80303>
@@ -9032,7 +9032,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sa Dec"@eng-Latn ,
         "TP. Sa Đéc"@vie-Latn ;
-    wdata:q7200235 "VN80303" ;
+    wdata:Q7200235 "VN80303" ;
 .
 
 <urn:mdciii:1603:16:704:2:80305>
@@ -9046,7 +9046,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tan Hong"@eng-Latn ,
         "Huyện Tân Hồng"@vie-Latn ;
-    wdata:q7200235 "VN80305" ;
+    wdata:Q7200235 "VN80305" ;
 .
 
 <urn:mdciii:1603:16:704:2:80307>
@@ -9060,7 +9060,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Huyen Hong Ngu"@eng-Latn ,
         "Huyện Hồng Ngự"@vie-Latn ;
-    wdata:q7200235 "VN80307" ;
+    wdata:Q7200235 "VN80307" ;
 .
 
 <urn:mdciii:1603:16:704:2:80308>
@@ -9074,7 +9074,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thi xa Hong Ngu"@eng-Latn ,
         "Thị xã Hồng Ngự"@vie-Latn ;
-    wdata:q7200235 "VN80308" ;
+    wdata:Q7200235 "VN80308" ;
 .
 
 <urn:mdciii:1603:16:704:2:80309>
@@ -9088,7 +9088,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tam Nong"@eng-Latn ,
         "Huyện Tam Nông"@vie-Latn ;
-    wdata:q7200235 "VN80309" ;
+    wdata:Q7200235 "VN80309" ;
 .
 
 <urn:mdciii:1603:16:704:2:80311>
@@ -9102,7 +9102,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thanh Binh"@eng-Latn ,
         "Huyện Thanh Bình"@vie-Latn ;
-    wdata:q7200235 "VN80311" ;
+    wdata:Q7200235 "VN80311" ;
 .
 
 <urn:mdciii:1603:16:704:2:80313>
@@ -9116,7 +9116,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thap Muoi"@eng-Latn ,
         "Huyện Tháp Mười"@vie-Latn ;
-    wdata:q7200235 "VN80313" ;
+    wdata:Q7200235 "VN80313" ;
 .
 
 <urn:mdciii:1603:16:704:2:80315>
@@ -9130,7 +9130,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Huyen Cao Lanh"@eng-Latn ,
         "Huyện Cao Lãnh"@vie-Latn ;
-    wdata:q7200235 "VN80315" ;
+    wdata:Q7200235 "VN80315" ;
 .
 
 <urn:mdciii:1603:16:704:2:80317>
@@ -9144,7 +9144,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lap Vo"@eng-Latn ,
         "Huyện Lấp Vò"@vie-Latn ;
-    wdata:q7200235 "VN80317" ;
+    wdata:Q7200235 "VN80317" ;
 .
 
 <urn:mdciii:1603:16:704:2:80319>
@@ -9158,7 +9158,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lai Vung"@eng-Latn ,
         "Huyện Lai Vung"@vie-Latn ;
-    wdata:q7200235 "VN80319" ;
+    wdata:Q7200235 "VN80319" ;
 .
 
 <urn:mdciii:1603:16:704:2:80321>
@@ -9172,7 +9172,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chau Thanh"@eng-Latn ,
         "Huyện Châu Thành"@vie-Latn ;
-    wdata:q7200235 "VN80321" ;
+    wdata:Q7200235 "VN80321" ;
 .
 
 <urn:mdciii:1603:16:704:2:80501>
@@ -9186,7 +9186,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Long Xuyen"@eng-Latn ,
         "TP. Long Xuyên"@vie-Latn ;
-    wdata:q7200235 "VN80501" ;
+    wdata:Q7200235 "VN80501" ;
 .
 
 <urn:mdciii:1603:16:704:2:80503>
@@ -9200,7 +9200,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chau Doc"@eng-Latn ,
         "TP. Châu Đốc"@vie-Latn ;
-    wdata:q7200235 "VN80503" ;
+    wdata:Q7200235 "VN80503" ;
 .
 
 <urn:mdciii:1603:16:704:2:80505>
@@ -9214,7 +9214,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "An Phu"@eng-Latn ,
         "Huyện An Phú"@vie-Latn ;
-    wdata:q7200235 "VN80505" ;
+    wdata:Q7200235 "VN80505" ;
 .
 
 <urn:mdciii:1603:16:704:2:80507>
@@ -9228,7 +9228,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tan Chau"@eng-Latn ,
         "Thị xã Tân Châu"@vie-Latn ;
-    wdata:q7200235 "VN80507" ;
+    wdata:Q7200235 "VN80507" ;
 .
 
 <urn:mdciii:1603:16:704:2:80509>
@@ -9242,7 +9242,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phu Tan"@eng-Latn ,
         "Huyện Phú Tân"@vie-Latn ;
-    wdata:q7200235 "VN80509" ;
+    wdata:Q7200235 "VN80509" ;
 .
 
 <urn:mdciii:1603:16:704:2:80511>
@@ -9256,7 +9256,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chau Phu"@eng-Latn ,
         "Huyện Châu Phú"@vie-Latn ;
-    wdata:q7200235 "VN80511" ;
+    wdata:Q7200235 "VN80511" ;
 .
 
 <urn:mdciii:1603:16:704:2:80513>
@@ -9270,7 +9270,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tinh Bien"@eng-Latn ,
         "Huyện Tịnh Biên"@vie-Latn ;
-    wdata:q7200235 "VN80513" ;
+    wdata:Q7200235 "VN80513" ;
 .
 
 <urn:mdciii:1603:16:704:2:80515>
@@ -9284,7 +9284,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tri Ton"@eng-Latn ,
         "Huyện Tri Tôn"@vie-Latn ;
-    wdata:q7200235 "VN80515" ;
+    wdata:Q7200235 "VN80515" ;
 .
 
 <urn:mdciii:1603:16:704:2:80517>
@@ -9298,7 +9298,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cho Moi"@eng-Latn ,
         "Huyện Chợ Mới"@vie-Latn ;
-    wdata:q7200235 "VN80517" ;
+    wdata:Q7200235 "VN80517" ;
 .
 
 <urn:mdciii:1603:16:704:2:80519>
@@ -9312,7 +9312,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chau Thanh"@eng-Latn ,
         "Huyện Châu Thành"@vie-Latn ;
-    wdata:q7200235 "VN80519" ;
+    wdata:Q7200235 "VN80519" ;
 .
 
 <urn:mdciii:1603:16:704:2:80521>
@@ -9326,7 +9326,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thoai Son"@eng-Latn ,
         "Huyện Thoại Sơn"@vie-Latn ;
-    wdata:q7200235 "VN80521" ;
+    wdata:Q7200235 "VN80521" ;
 .
 
 <urn:mdciii:1603:16:704:2:80701>
@@ -9340,7 +9340,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "My Tho"@eng-Latn ,
         "TP. Mỹ Tho"@vie-Latn ;
-    wdata:q7200235 "VN80701" ;
+    wdata:Q7200235 "VN80701" ;
 .
 
 <urn:mdciii:1603:16:704:2:80703>
@@ -9354,7 +9354,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Go Cong"@eng-Latn ,
         "Thị xã Gò Công"@vie-Latn ;
-    wdata:q7200235 "VN80703" ;
+    wdata:Q7200235 "VN80703" ;
 .
 
 <urn:mdciii:1603:16:704:2:80705>
@@ -9368,7 +9368,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tan Phuoc"@eng-Latn ,
         "Huyện Tân Phước"@vie-Latn ;
-    wdata:q7200235 "VN80705" ;
+    wdata:Q7200235 "VN80705" ;
 .
 
 <urn:mdciii:1603:16:704:2:80707>
@@ -9382,7 +9382,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chau Thanh"@eng-Latn ,
         "Huyện Châu Thành"@vie-Latn ;
-    wdata:q7200235 "VN80707" ;
+    wdata:Q7200235 "VN80707" ;
 .
 
 <urn:mdciii:1603:16:704:2:80709>
@@ -9396,7 +9396,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thi xa Cai Lay"@eng-Latn ,
         "Thị xã Cai Lậy"@vie-Latn ;
-    wdata:q7200235 "VN80709" ;
+    wdata:Q7200235 "VN80709" ;
 .
 
 <urn:mdciii:1603:16:704:2:80711>
@@ -9410,7 +9410,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cho Gao"@eng-Latn ,
         "Huyện Chợ Gạo"@vie-Latn ;
-    wdata:q7200235 "VN80711" ;
+    wdata:Q7200235 "VN80711" ;
 .
 
 <urn:mdciii:1603:16:704:2:80713>
@@ -9424,7 +9424,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cai Be"@eng-Latn ,
         "Huyện Cái Bè"@vie-Latn ;
-    wdata:q7200235 "VN80713" ;
+    wdata:Q7200235 "VN80713" ;
 .
 
 <urn:mdciii:1603:16:704:2:80715>
@@ -9438,7 +9438,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Go Cong Tay"@eng-Latn ,
         "Huyện Gò Công Tây"@vie-Latn ;
-    wdata:q7200235 "VN80715" ;
+    wdata:Q7200235 "VN80715" ;
 .
 
 <urn:mdciii:1603:16:704:2:80717>
@@ -9452,7 +9452,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Go Cong Dong"@eng-Latn ,
         "Huyện Gò Công Đông"@vie-Latn ;
-    wdata:q7200235 "VN80717" ;
+    wdata:Q7200235 "VN80717" ;
 .
 
 <urn:mdciii:1603:16:704:2:80718>
@@ -9466,7 +9466,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tan Phu Dong"@eng-Latn ,
         "Huyện Tân Phú Đông"@vie-Latn ;
-    wdata:q7200235 "VN80718" ;
+    wdata:Q7200235 "VN80718" ;
 .
 
 <urn:mdciii:1603:16:704:2:80719>
@@ -9480,7 +9480,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Huyen Cai Lay"@eng-Latn ,
         "Huyện Cai Lậy"@vie-Latn ;
-    wdata:q7200235 "VN80719" ;
+    wdata:Q7200235 "VN80719" ;
 .
 
 <urn:mdciii:1603:16:704:2:80901>
@@ -9494,7 +9494,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vinh Long"@eng-Latn ,
         "TP. Vĩnh Long"@vie-Latn ;
-    wdata:q7200235 "VN80901" ;
+    wdata:Q7200235 "VN80901" ;
 .
 
 <urn:mdciii:1603:16:704:2:80903>
@@ -9508,7 +9508,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Long Ho"@eng-Latn ,
         "Huyện Long Hồ"@vie-Latn ;
-    wdata:q7200235 "VN80903" ;
+    wdata:Q7200235 "VN80903" ;
 .
 
 <urn:mdciii:1603:16:704:2:80905>
@@ -9522,7 +9522,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mang Thit"@eng-Latn ,
         "Huyện Mang Thít"@vie-Latn ;
-    wdata:q7200235 "VN80905" ;
+    wdata:Q7200235 "VN80905" ;
 .
 
 <urn:mdciii:1603:16:704:2:80907>
@@ -9536,7 +9536,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Binh Minh"@eng-Latn ,
         "Thị xã Bình Minh"@vie-Latn ;
-    wdata:q7200235 "VN80907" ;
+    wdata:Q7200235 "VN80907" ;
 .
 
 <urn:mdciii:1603:16:704:2:80908>
@@ -9550,7 +9550,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Binh Tan"@eng-Latn ,
         "Huyện Bình Tân"@vie-Latn ;
-    wdata:q7200235 "VN80908" ;
+    wdata:Q7200235 "VN80908" ;
 .
 
 <urn:mdciii:1603:16:704:2:80909>
@@ -9564,7 +9564,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tam Binh"@eng-Latn ,
         "Huyện Tam Bình"@vie-Latn ;
-    wdata:q7200235 "VN80909" ;
+    wdata:Q7200235 "VN80909" ;
 .
 
 <urn:mdciii:1603:16:704:2:80911>
@@ -9578,7 +9578,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tra On"@eng-Latn ,
         "Huyện Trà Ôn"@vie-Latn ;
-    wdata:q7200235 "VN80911" ;
+    wdata:Q7200235 "VN80911" ;
 .
 
 <urn:mdciii:1603:16:704:2:80913>
@@ -9592,7 +9592,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vung Liem"@eng-Latn ,
         "Huyện Vũng Liêm"@vie-Latn ;
-    wdata:q7200235 "VN80913" ;
+    wdata:Q7200235 "VN80913" ;
 .
 
 <urn:mdciii:1603:16:704:2:81101>
@@ -9606,7 +9606,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ben Tre"@eng-Latn ,
         "TP. Bến Tre"@vie-Latn ;
-    wdata:q7200235 "VN81101" ;
+    wdata:Q7200235 "VN81101" ;
 .
 
 <urn:mdciii:1603:16:704:2:81102>
@@ -9620,7 +9620,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mo Cay Nam"@eng-Latn ,
         "Huyện Mỏ Cày Nam"@vie-Latn ;
-    wdata:q7200235 "VN81102" ;
+    wdata:Q7200235 "VN81102" ;
 .
 
 <urn:mdciii:1603:16:704:2:81103>
@@ -9634,7 +9634,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chau Thanh"@eng-Latn ,
         "Huyện Châu Thành"@vie-Latn ;
-    wdata:q7200235 "VN81103" ;
+    wdata:Q7200235 "VN81103" ;
 .
 
 <urn:mdciii:1603:16:704:2:81105>
@@ -9648,7 +9648,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cho Lach"@eng-Latn ,
         "Huyện Chợ Lách"@vie-Latn ;
-    wdata:q7200235 "VN81105" ;
+    wdata:Q7200235 "VN81105" ;
 .
 
 <urn:mdciii:1603:16:704:2:81107>
@@ -9662,7 +9662,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mo Cay Bac"@eng-Latn ,
         "Huyện Mỏ Cày Bắc"@vie-Latn ;
-    wdata:q7200235 "VN81107" ;
+    wdata:Q7200235 "VN81107" ;
 .
 
 <urn:mdciii:1603:16:704:2:81109>
@@ -9676,7 +9676,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Giong Trom"@eng-Latn ,
         "Huyện Giồng Trôm"@vie-Latn ;
-    wdata:q7200235 "VN81109" ;
+    wdata:Q7200235 "VN81109" ;
 .
 
 <urn:mdciii:1603:16:704:2:81111>
@@ -9690,7 +9690,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Binh Dai"@eng-Latn ,
         "Huyện Bình Đại"@vie-Latn ;
-    wdata:q7200235 "VN81111" ;
+    wdata:Q7200235 "VN81111" ;
 .
 
 <urn:mdciii:1603:16:704:2:81113>
@@ -9704,7 +9704,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ba Tri"@eng-Latn ,
         "Huyện Ba Tri"@vie-Latn ;
-    wdata:q7200235 "VN81113" ;
+    wdata:Q7200235 "VN81113" ;
 .
 
 <urn:mdciii:1603:16:704:2:81115>
@@ -9718,7 +9718,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thanh Phu"@eng-Latn ,
         "Huyện Thạnh Phú"@vie-Latn ;
-    wdata:q7200235 "VN81115" ;
+    wdata:Q7200235 "VN81115" ;
 .
 
 <urn:mdciii:1603:16:704:2:81301>
@@ -9732,7 +9732,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Rach Gia"@eng-Latn ,
         "TP. Rạch Giá"@vie-Latn ;
-    wdata:q7200235 "VN81301" ;
+    wdata:Q7200235 "VN81301" ;
 .
 
 <urn:mdciii:1603:16:704:2:81303>
@@ -9746,7 +9746,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ha Tien"@eng-Latn ,
         "Thị xã Hà Tiên"@vie-Latn ;
-    wdata:q7200235 "VN81303" ;
+    wdata:Q7200235 "VN81303" ;
 .
 
 <urn:mdciii:1603:16:704:2:81304>
@@ -9760,7 +9760,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kien Luong"@eng-Latn ,
         "Huyện Kiên Lương"@vie-Latn ;
-    wdata:q7200235 "VN81304" ;
+    wdata:Q7200235 "VN81304" ;
 .
 
 <urn:mdciii:1603:16:704:2:81305>
@@ -9774,7 +9774,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hon Dat"@eng-Latn ,
         "Huyện Hòn Đất"@vie-Latn ;
-    wdata:q7200235 "VN81305" ;
+    wdata:Q7200235 "VN81305" ;
 .
 
 <urn:mdciii:1603:16:704:2:81307>
@@ -9788,7 +9788,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tan Hiep"@eng-Latn ,
         "Huyện Tân Hiệp"@vie-Latn ;
-    wdata:q7200235 "VN81307" ;
+    wdata:Q7200235 "VN81307" ;
 .
 
 <urn:mdciii:1603:16:704:2:81309>
@@ -9802,7 +9802,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chau Thanh"@eng-Latn ,
         "Huyện Châu Thành"@vie-Latn ;
-    wdata:q7200235 "VN81309" ;
+    wdata:Q7200235 "VN81309" ;
 .
 
 <urn:mdciii:1603:16:704:2:81311>
@@ -9816,7 +9816,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Giong Rieng"@eng-Latn ,
         "Huyện Giồng Riềng"@vie-Latn ;
-    wdata:q7200235 "VN81311" ;
+    wdata:Q7200235 "VN81311" ;
 .
 
 <urn:mdciii:1603:16:704:2:81313>
@@ -9830,7 +9830,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Go Quao"@eng-Latn ,
         "Huyện Gò Quao"@vie-Latn ;
-    wdata:q7200235 "VN81313" ;
+    wdata:Q7200235 "VN81313" ;
 .
 
 <urn:mdciii:1603:16:704:2:81315>
@@ -9844,7 +9844,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "An Bien"@eng-Latn ,
         "Huyện An Biên"@vie-Latn ;
-    wdata:q7200235 "VN81315" ;
+    wdata:Q7200235 "VN81315" ;
 .
 
 <urn:mdciii:1603:16:704:2:81317>
@@ -9858,7 +9858,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "An Minh"@eng-Latn ,
         "Huyện An Minh"@vie-Latn ;
-    wdata:q7200235 "VN81317" ;
+    wdata:Q7200235 "VN81317" ;
 .
 
 <urn:mdciii:1603:16:704:2:81319>
@@ -9872,7 +9872,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vinh Thuan"@eng-Latn ,
         "Huyện Vĩnh Thuận"@vie-Latn ;
-    wdata:q7200235 "VN81319" ;
+    wdata:Q7200235 "VN81319" ;
 .
 
 <urn:mdciii:1603:16:704:2:81321>
@@ -9886,7 +9886,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phu Quoc"@eng-Latn ,
         "Huyện Phú Quốc"@vie-Latn ;
-    wdata:q7200235 "VN81321" ;
+    wdata:Q7200235 "VN81321" ;
 .
 
 <urn:mdciii:1603:16:704:2:81323>
@@ -9900,7 +9900,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kien Hai"@eng-Latn ,
         "Huyện Kiên Hải"@vie-Latn ;
-    wdata:q7200235 "VN81323" ;
+    wdata:Q7200235 "VN81323" ;
 .
 
 <urn:mdciii:1603:16:704:2:81325>
@@ -9914,7 +9914,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "U Minh Thuong"@eng-Latn ,
         "Huyện U Minh Thượng"@vie-Latn ;
-    wdata:q7200235 "VN81325" ;
+    wdata:Q7200235 "VN81325" ;
 .
 
 <urn:mdciii:1603:16:704:2:81326>
@@ -9928,7 +9928,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Giang Thanh"@eng-Latn ,
         "Huyện Giang Thành"@vie-Latn ;
-    wdata:q7200235 "VN81326" ;
+    wdata:Q7200235 "VN81326" ;
 .
 
 <urn:mdciii:1603:16:704:2:81501>
@@ -9942,7 +9942,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ninh Kieu"@eng-Latn ,
         "Quận Ninh Kiều"@vie-Latn ;
-    wdata:q7200235 "VN81501" ;
+    wdata:Q7200235 "VN81501" ;
 .
 
 <urn:mdciii:1603:16:704:2:81503>
@@ -9956,7 +9956,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "O Mon"@eng-Latn ,
         "Quận Ô Môn"@vie-Latn ;
-    wdata:q7200235 "VN81503" ;
+    wdata:Q7200235 "VN81503" ;
 .
 
 <urn:mdciii:1603:16:704:2:81505>
@@ -9970,7 +9970,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Binh Thuy"@eng-Latn ,
         "Quận Bình Thủy"@vie-Latn ;
-    wdata:q7200235 "VN81505" ;
+    wdata:Q7200235 "VN81505" ;
 .
 
 <urn:mdciii:1603:16:704:2:81507>
@@ -9984,7 +9984,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cai Rang"@eng-Latn ,
         "Quận Cái Răng"@vie-Latn ;
-    wdata:q7200235 "VN81507" ;
+    wdata:Q7200235 "VN81507" ;
 .
 
 <urn:mdciii:1603:16:704:2:81509>
@@ -9998,7 +9998,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thot Not"@eng-Latn ,
         "Quận Thốt Nốt"@vie-Latn ;
-    wdata:q7200235 "VN81509" ;
+    wdata:Q7200235 "VN81509" ;
 .
 
 <urn:mdciii:1603:16:704:2:81511>
@@ -10012,7 +10012,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vinh Thanh"@eng-Latn ,
         "Huyện Vĩnh Thạnh"@vie-Latn ;
-    wdata:q7200235 "VN81511" ;
+    wdata:Q7200235 "VN81511" ;
 .
 
 <urn:mdciii:1603:16:704:2:81513>
@@ -10026,7 +10026,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Co Do"@eng-Latn ,
         "Huyện Cờ Đỏ"@vie-Latn ;
-    wdata:q7200235 "VN81513" ;
+    wdata:Q7200235 "VN81513" ;
 .
 
 <urn:mdciii:1603:16:704:2:81514>
@@ -10040,7 +10040,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thoi Lai"@eng-Latn ,
         "Huyện Thới Lai"@vie-Latn ;
-    wdata:q7200235 "VN81514" ;
+    wdata:Q7200235 "VN81514" ;
 .
 
 <urn:mdciii:1603:16:704:2:81515>
@@ -10054,7 +10054,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phong Dien"@eng-Latn ,
         "Huyện Phong Điền"@vie-Latn ;
-    wdata:q7200235 "VN81515" ;
+    wdata:Q7200235 "VN81515" ;
 .
 
 <urn:mdciii:1603:16:704:2:81601>
@@ -10068,7 +10068,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vi Thanh"@eng-Latn ,
         "TP. Vị Thanh"@vie-Latn ;
-    wdata:q7200235 "VN81601" ;
+    wdata:Q7200235 "VN81601" ;
 .
 
 <urn:mdciii:1603:16:704:2:81602>
@@ -10082,7 +10082,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nga Bay"@eng-Latn ,
         "Thị xã Ngã Bảy"@vie-Latn ;
-    wdata:q7200235 "VN81602" ;
+    wdata:Q7200235 "VN81602" ;
 .
 
 <urn:mdciii:1603:16:704:2:81603>
@@ -10096,7 +10096,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chau Thanh A"@eng-Latn ,
         "Huyện Châu Thành A"@vie-Latn ;
-    wdata:q7200235 "VN81603" ;
+    wdata:Q7200235 "VN81603" ;
 .
 
 <urn:mdciii:1603:16:704:2:81605>
@@ -10110,7 +10110,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chau Thanh"@eng-Latn ,
         "Huyện Châu Thành"@vie-Latn ;
-    wdata:q7200235 "VN81605" ;
+    wdata:Q7200235 "VN81605" ;
 .
 
 <urn:mdciii:1603:16:704:2:81607>
@@ -10124,7 +10124,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phung Hiep"@eng-Latn ,
         "Huyện Phụng Hiệp"@vie-Latn ;
-    wdata:q7200235 "VN81607" ;
+    wdata:Q7200235 "VN81607" ;
 .
 
 <urn:mdciii:1603:16:704:2:81609>
@@ -10138,7 +10138,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vi Thuy"@eng-Latn ,
         "Huyện Vị Thủy"@vie-Latn ;
-    wdata:q7200235 "VN81609" ;
+    wdata:Q7200235 "VN81609" ;
 .
 
 <urn:mdciii:1603:16:704:2:81611>
@@ -10152,7 +10152,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Long My"@eng-Latn ,
         "Huyện Long Mỹ"@vie-Latn ;
-    wdata:q7200235 "VN81611" ;
+    wdata:Q7200235 "VN81611" ;
 .
 
 <urn:mdciii:1603:16:704:2:81701>
@@ -10166,7 +10166,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tra Vinh"@eng-Latn ,
         "TP. Trà Vinh"@vie-Latn ;
-    wdata:q7200235 "VN81701" ;
+    wdata:Q7200235 "VN81701" ;
 .
 
 <urn:mdciii:1603:16:704:2:81703>
@@ -10180,7 +10180,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cang Long"@eng-Latn ,
         "Huyện Càng Long"@vie-Latn ;
-    wdata:q7200235 "VN81703" ;
+    wdata:Q7200235 "VN81703" ;
 .
 
 <urn:mdciii:1603:16:704:2:81705>
@@ -10194,7 +10194,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chau Thanh"@eng-Latn ,
         "Huyện Châu Thành"@vie-Latn ;
-    wdata:q7200235 "VN81705" ;
+    wdata:Q7200235 "VN81705" ;
 .
 
 <urn:mdciii:1603:16:704:2:81707>
@@ -10208,7 +10208,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cau Ke"@eng-Latn ,
         "Huyện Cầu Kè"@vie-Latn ;
-    wdata:q7200235 "VN81707" ;
+    wdata:Q7200235 "VN81707" ;
 .
 
 <urn:mdciii:1603:16:704:2:81709>
@@ -10222,7 +10222,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tieu Can"@eng-Latn ,
         "Huyện Tiểu Cần"@vie-Latn ;
-    wdata:q7200235 "VN81709" ;
+    wdata:Q7200235 "VN81709" ;
 .
 
 <urn:mdciii:1603:16:704:2:81711>
@@ -10236,7 +10236,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cau Ngang"@eng-Latn ,
         "Huyện Cầu Ngang"@vie-Latn ;
-    wdata:q7200235 "VN81711" ;
+    wdata:Q7200235 "VN81711" ;
 .
 
 <urn:mdciii:1603:16:704:2:81713>
@@ -10250,7 +10250,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tra Cu"@eng-Latn ,
         "Huyện Trà Cú"@vie-Latn ;
-    wdata:q7200235 "VN81713" ;
+    wdata:Q7200235 "VN81713" ;
 .
 
 <urn:mdciii:1603:16:704:2:81715>
@@ -10264,7 +10264,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Duyen Hai"@eng-Latn ,
         "Huyện Duyên Hải"@vie-Latn ;
-    wdata:q7200235 "VN81715" ;
+    wdata:Q7200235 "VN81715" ;
 .
 
 <urn:mdciii:1603:16:704:2:81901>
@@ -10278,7 +10278,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Soc Trang"@eng-Latn ,
         "TP. Sóc Trăng"@vie-Latn ;
-    wdata:q7200235 "VN81901" ;
+    wdata:Q7200235 "VN81901" ;
 .
 
 <urn:mdciii:1603:16:704:2:81903>
@@ -10292,7 +10292,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ke Sach"@eng-Latn ,
         "Huyện Kế Sách"@vie-Latn ;
-    wdata:q7200235 "VN81903" ;
+    wdata:Q7200235 "VN81903" ;
 .
 
 <urn:mdciii:1603:16:704:2:81905>
@@ -10306,7 +10306,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Long Phu"@eng-Latn ,
         "Huyện Long Phú"@vie-Latn ;
-    wdata:q7200235 "VN81905" ;
+    wdata:Q7200235 "VN81905" ;
 .
 
 <urn:mdciii:1603:16:704:2:81906>
@@ -10320,7 +10320,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cu Lao Dung"@eng-Latn ,
         "Huyện Cù Lao Dung"@vie-Latn ;
-    wdata:q7200235 "VN81906" ;
+    wdata:Q7200235 "VN81906" ;
 .
 
 <urn:mdciii:1603:16:704:2:81907>
@@ -10334,7 +10334,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "My Tu"@eng-Latn ,
         "Huyện Mỹ Tú"@vie-Latn ;
-    wdata:q7200235 "VN81907" ;
+    wdata:Q7200235 "VN81907" ;
 .
 
 <urn:mdciii:1603:16:704:2:81908>
@@ -10348,7 +10348,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chau Thanh"@eng-Latn ,
         "Huyện Châu Thành"@vie-Latn ;
-    wdata:q7200235 "VN81908" ;
+    wdata:Q7200235 "VN81908" ;
 .
 
 <urn:mdciii:1603:16:704:2:81909>
@@ -10362,7 +10362,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "My Xuyen"@eng-Latn ,
         "Huyện Mỹ Xuyên"@vie-Latn ;
-    wdata:q7200235 "VN81909" ;
+    wdata:Q7200235 "VN81909" ;
 .
 
 <urn:mdciii:1603:16:704:2:81911>
@@ -10376,7 +10376,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thanh Tri"@eng-Latn ,
         "Huyện Thạnh Trị"@vie-Latn ;
-    wdata:q7200235 "VN81911" ;
+    wdata:Q7200235 "VN81911" ;
 .
 
 <urn:mdciii:1603:16:704:2:81912>
@@ -10390,7 +10390,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nga Nam"@eng-Latn ,
         "Thị xã Ngã Năm"@vie-Latn ;
-    wdata:q7200235 "VN81912" ;
+    wdata:Q7200235 "VN81912" ;
 .
 
 <urn:mdciii:1603:16:704:2:81913>
@@ -10404,7 +10404,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vinh Chau"@eng-Latn ,
         "Thị xã Vĩnh Châu"@vie-Latn ;
-    wdata:q7200235 "VN81913" ;
+    wdata:Q7200235 "VN81913" ;
 .
 
 <urn:mdciii:1603:16:704:2:81915>
@@ -10418,7 +10418,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tran De"@eng-Latn ,
         "Huyện Trần Đề"@vie-Latn ;
-    wdata:q7200235 "VN81915" ;
+    wdata:Q7200235 "VN81915" ;
 .
 
 <urn:mdciii:1603:16:704:2:82101>
@@ -10432,7 +10432,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bac Lieu"@eng-Latn ,
         "TP. Bạc Liêu"@vie-Latn ;
-    wdata:q7200235 "VN82101" ;
+    wdata:Q7200235 "VN82101" ;
 .
 
 <urn:mdciii:1603:16:704:2:82103>
@@ -10446,7 +10446,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phuoc Long"@eng-Latn ,
         "Huyện Phước Long"@vie-Latn ;
-    wdata:q7200235 "VN82103" ;
+    wdata:Q7200235 "VN82103" ;
 .
 
 <urn:mdciii:1603:16:704:2:82104>
@@ -10460,7 +10460,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hong Dan"@eng-Latn ,
         "Huyện Hồng Dân"@vie-Latn ;
-    wdata:q7200235 "VN82104" ;
+    wdata:Q7200235 "VN82104" ;
 .
 
 <urn:mdciii:1603:16:704:2:82105>
@@ -10474,7 +10474,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vinh Loi"@eng-Latn ,
         "Huyện Vĩnh Lợi"@vie-Latn ;
-    wdata:q7200235 "VN82105" ;
+    wdata:Q7200235 "VN82105" ;
 .
 
 <urn:mdciii:1603:16:704:2:82106>
@@ -10488,7 +10488,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hoa Binh"@eng-Latn ,
         "Huyện Hòa Bình"@vie-Latn ;
-    wdata:q7200235 "VN82106" ;
+    wdata:Q7200235 "VN82106" ;
 .
 
 <urn:mdciii:1603:16:704:2:82107>
@@ -10502,7 +10502,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gia Rai"@eng-Latn ,
         "Huyện Giá Rai"@vie-Latn ;
-    wdata:q7200235 "VN82107" ;
+    wdata:Q7200235 "VN82107" ;
 .
 
 <urn:mdciii:1603:16:704:2:82109>
@@ -10516,7 +10516,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dong Hai"@eng-Latn ,
         "Huyện Đông Hải"@vie-Latn ;
-    wdata:q7200235 "VN82109" ;
+    wdata:Q7200235 "VN82109" ;
 .
 
 <urn:mdciii:1603:16:704:2:82301>
@@ -10530,7 +10530,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ca Mau"@eng-Latn ,
         "TP. Cà Mau"@vie-Latn ;
-    wdata:q7200235 "VN82301" ;
+    wdata:Q7200235 "VN82301" ;
 .
 
 <urn:mdciii:1603:16:704:2:82303>
@@ -10544,7 +10544,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Thoi Binh"@eng-Latn ,
         "Huyện Thới Bình"@vie-Latn ;
-    wdata:q7200235 "VN82303" ;
+    wdata:Q7200235 "VN82303" ;
 .
 
 <urn:mdciii:1603:16:704:2:82305>
@@ -10558,7 +10558,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "U Minh"@eng-Latn ,
         "Huyện U Minh"@vie-Latn ;
-    wdata:q7200235 "VN82305" ;
+    wdata:Q7200235 "VN82305" ;
 .
 
 <urn:mdciii:1603:16:704:2:82307>
@@ -10572,7 +10572,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tran Van Thoi"@eng-Latn ,
         "Huyện Trần Văn Thời"@vie-Latn ;
-    wdata:q7200235 "VN82307" ;
+    wdata:Q7200235 "VN82307" ;
 .
 
 <urn:mdciii:1603:16:704:2:82309>
@@ -10586,7 +10586,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cai Nuoc"@eng-Latn ,
         "Huyện Cái Nước"@vie-Latn ;
-    wdata:q7200235 "VN82309" ;
+    wdata:Q7200235 "VN82309" ;
 .
 
 <urn:mdciii:1603:16:704:2:82310>
@@ -10600,7 +10600,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phu Tan"@eng-Latn ,
         "Huyện Phú Tân"@vie-Latn ;
-    wdata:q7200235 "VN82310" ;
+    wdata:Q7200235 "VN82310" ;
 .
 
 <urn:mdciii:1603:16:704:2:82311>
@@ -10614,7 +10614,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dam Doi"@eng-Latn ,
         "Huyện Đầm Dơi"@vie-Latn ;
-    wdata:q7200235 "VN82311" ;
+    wdata:Q7200235 "VN82311" ;
 .
 
 <urn:mdciii:1603:16:704:2:82313>
@@ -10628,7 +10628,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ngoc Hien"@eng-Latn ,
         "Huyện Ngọc Hiển"@vie-Latn ;
-    wdata:q7200235 "VN82313" ;
+    wdata:Q7200235 "VN82313" ;
 .
 
 <urn:mdciii:1603:16:704:2:82314>
@@ -10642,6 +10642,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nam Can"@eng-Latn ,
         "Huyện Năm Căn"@vie-Latn ;
-    wdata:q7200235 "VN82314" ;
+    wdata:Q7200235 "VN82314" ;
 .
 
